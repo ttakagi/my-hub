@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "Dezeen's favourite furniture and lighting from March",
+      "url": "https://www.dezeen.com/2026/03/31/dezeens-favourite-furniture-lighting-march/",
+      "summary": "<p>Pink rubber, slanted timber and colourful micro-algae are among the materials that make up these eight standout pieces of furniture and lighting, spotted by Dezeen's design and interiors reporter Jane Englefield over the past month. La Corbeille by Hauvette &#38; Madani Paris interiors studio Hau",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-03-31T08:00:53",
+      "image_url": "http://static.dezeen.com/uploads/2026/03/chairs-series-xyz-in-seoungsik-sq-411x411.jpg",
+      "title_ja": "3月のDezeenお気に入りの家具と照明",
+      "summary_ja": "ピンクのゴム、傾斜した木材、カラフルな微細藻類は、Dezeen のデザインとインテリジェントによって発見された、これら 8 つの傑出した家具と照明を構成する素材の 1 つです。"
+    },
+    {
+      "title": "How putting story first can inspire your art",
+      "url": "https://www.creativebloq.com/art/digital-art/how-putting-story-first-can-inspire-your-art",
+      "summary": "Concept artist Greg Danton shows how to let the story guide you.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-03-31T08:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wds2hSmGvh2Zez2mwq3VFo-1280-80.jpg",
+      "title_ja": "ストーリーを第一に考えることでアートにインスピレーションを与えることができる",
+      "summary_ja": "コンセプト アーティストのグレッグ ダントンが、ストーリーをガイドする方法を示します。"
+    },
+    {
+      "title": "How Tomb Raider III achieved its dramatic 3D world before modern GPUs",
+      "url": "https://www.creativebloq.com/3d/video-game-design/how-tomb-raider-iii-achieved-its-dramatic-3d-world-before-modern-gpus",
+      "summary": "A 3D programmer reveals the graphics tricks behind a classic.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-03-31T07:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/E9GsifCuXF4Mu55nS9F82B-1280-80.jpg",
+      "title_ja": "最新の GPU が登場する前に、Tomb Raider III がどのようにしてドラマチックな 3D 世界を実現したか",
+      "summary_ja": "3D プログラマーが、名作の背後にあるグラフィックスのトリックを明らかにします。"
+    },
+    {
       "title": "Will you be mourning the Mac Pro?",
       "url": "https://www.creativebloq.com/tech/computers/will-you-be-mourning-the-mac-pro",
       "summary": "It's bye-bye for Apple's cheese grater.",
@@ -21,6 +57,30 @@
       "lang": "ja",
       "published": "2026-03-31T06:00:00",
       "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/editorial_note/editorial_note_2025.jpg?itok=3HcbCoqT"
+    },
+    {
+      "title": "Woonpioniers builds a house that \"moves with the dunes\"",
+      "url": "https://www.dezeen.com/2026/03/31/woonpioniers-dune-house-goeree-overflakkee-ouddorp/",
+      "summary": "<p>Dutch architectural studio Woonpioniers has built a house on the dunes in the south of the Netherlands using modular methods. Located on Goeree-Overflakkee island, Duinhuis – or Dune House – was constructed using portable methods in efforts to adhere to strict building regulations on the Ouddorp ",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-03-31T05:00:55",
+      "image_url": "http://static.dezeen.com/uploads/2026/03/duinhuis-dune-house-woonpioniers-goeree-overflakkee-netherlands-architecture_dezeen_2364_col_13_sq-411x411.jpg",
+      "title_ja": "Woonpioniers は「砂丘とともに動く」家を建てます",
+      "summary_ja": "オランダの建築スタジオ Woonpioniers は、モジュール方式を使用してオランダ南部の砂丘に家を建てました。ゴエリー・オーバーフラッキー島、ドゥインハウス、またはドゥに位置"
+    },
+    {
+      "title": "Tala launches The Muse 2.0 lamp in seasonal colourways for gardens, terraces and interior spaces",
+      "url": "https://www.dezeen.com/2026/03/31/tala-the-muse-2-0-lamp-seasonal-colourways/",
+      "summary": "<p>Promotion: lighting brand Tala has unveiled The Muse 2.0, an evolved version of its portable The Muse lamp, in fresh colours and an updated system shaped by \"customers who actually live with the lamp\". The Muse 2.0, like its predecessor, has a lantern-like appearance with a battery-powered design",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-03-31T04:00:45",
+      "image_url": "http://static.dezeen.com/uploads/2026/03/Tala-light_dezeen_2364_col_0-411x411.jpg",
+      "title_ja": "Tala は、庭園、テラス、室内空間向けに季節のカラーバリエーションを備えた Muse 2.0 ランプを発売 |9 月|プロモーション: 照明ブランドの Tala は、ポータブル The Muse ランプの進化版である The Muse 2.0 を発表しました。新鮮な色と「実際に使用する顧客」によって形作られた最新のシステムです。",
+      "summary_ja": ""
     },
     {
       "title": "伊東豊雄建築設計事務所＋S# Architects 韓国「華城市アートミュージアム」設計競技で最優秀案に",
@@ -54,16 +114,16 @@
       "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/03/image8.png?fit=1024%2C576&ssl=1"
     },
     {
-      "title": "The Grell OAE2 headphone is totally unique – but it's a refinement, not a revolution",
+      "title": "The Grell OAE2 headphone is totally unique – but the sound is a refinement, not a revolution",
       "url": "https://www.creativebloq.com/tech/headphones-earbuds/the-grell-oae2-is-like-nothing-youve-ever-heard-but-its-a-refinement-not-a-revolution",
-      "summary": "I don't think anyone other than acoustic design legend Axel Grell could have made these headphones.",
+      "summary": "I don't think anyone other than acoustic design legend Axel Grell could have pulled these headphones off.",
       "source": "Creative Bloq",
       "icon": "🖌",
       "lang": "en",
       "published": "2026-03-30T23:47:20",
       "image_url": "https://cdn.mos.cms.futurecdn.net/nLqcWmxPJCme8DMV2F7qde-1280-80.jpg",
-      "title_ja": "Grell OAE2 ヘッドフォンは完全にユニークですが、それは革新ではなく改良です",
-      "summary_ja": "音響設計のレジェンドであるアクセル・グレル以外には、このヘッドフォンを作ることはできなかったと思います。"
+      "title_ja": "Grell OAE2 ヘッドフォンは完全にユニークですが、そのサウンドは革新ではなく洗練です",
+      "summary_ja": "音響設計のレジェンドであるアクセル・グレル以外の誰も、このヘッドフォンを完成させることはできなかったと思います。"
     },
     {
       "title": "OpenAIが「エージェント型コマース」戦略を転換――直接決済から「アプリ経由」の支援へ",
@@ -171,7 +231,7 @@
       "published": "2026-03-30T18:00:50",
       "image_url": "http://static.dezeen.com/uploads/2026/03/khayal-throw-edere-editions-valeriya-amirova-design_dezeen_2364_sq2-411x411.jpg",
       "title_ja": "Edere Editions による Khayal スロー",
-      "summary_ja": "Dezeen ショールーム: ウクライナ人デザイナー、ヴァレリヤ・アミロワは、砂漠の風景に目を向け、彼女のブランド Edere Editions を通じて制作したこのスローブランケットをデザインしました。アミロワさんは、次のことに注目していると語った。"
+      "summary_ja": "Dezeen ショールーム: ウクライナのデザイナー、ヴァレリヤ・アミロワは、砂漠の風景に目を向け、彼女のブランド Edere Editions を通じて制作したこのスローブランケットをデザインしました。アミロワさんは次のように考えていると語った。"
     },
     {
       "title": "Tampa Bay Rays replace Tropicana Field roof after 2024 hurricane",
@@ -194,7 +254,7 @@
       "lang": "en",
       "published": "2026-03-30T15:00:52",
       "title_ja": "サバンナの市営グランド ホテルを軽快に改装、トロピカル モダニストと北欧の両方の要素を反映",
-      "summary_ja": "多面的な建築会社 AAmp Studio は、画期的なモダニズムの中層建築を地元住民と観光客の両方のためのテクスチャーで階層化された聖域へと繊細に再構築しています。",
+      "summary_ja": "多面的な建築会社 AAmp Studio は、画期的なモダニズムの中層建築を、地元住民と観光客の両方のためのテクスチャーで階層化された聖域へと繊細に再構築しています。",
       "image_url": "https://design-milk.com/images/2026/03/AAMP-The-Municipal-Grand-Hotel-3.jpg",
       "body_ja": "サバンナの市営グランド ホテルを軽快に改装し、トロピカル モダニズムと北欧の両方の要素を反映\nサバンナについて考えるとき、スペイン苔に覆われ、南北戦争前のジョージ王朝様式の長屋が並ぶ石畳の通りを思い浮かべます。彼らは気づいていないかもしれないが、このコンパクトで歴史的に重要な、紛れもなく幽霊の出る港町には、特徴的なモダンやミッドセンチュリーモダンの高層ビルが点在しているということだ。"
     },
@@ -230,10 +290,10 @@
       "icon": "🥛",
       "lang": "en",
       "published": "2026-03-30T14:00:04",
-      "title_ja": "Emberhaus の木炭ベースの焚火オーブンが屋外キッチンをアップグレード",
+      "title_ja": "Emberhaus の木炭ベースの焚き火オーブンが屋外キッチンをアップグレード",
       "summary_ja": "新しい洗練されたスタイルの調理器具は、プロのキッチンのパフォーマンスを裏庭のパティオにもたらします。",
       "image_url": "https://design-milk.com/images/2026/03/Emberhaus-Fire-Oven-6.jpg",
-      "body_ja": "この数字は、主要な家電・設備見本市 KBIS からのものです。緑地、パティオ、または屋上テラスのある住宅所有者が現在、屋外用キッチンを設置、拡張し、完全装備を整えようとしているのは明らかです。季節の初めに、スタンドアロングリルをホースで洗い流して、奇妙な蓄積物を取り除く必要がある時代は遠い昔に終わりました。クラシックな形ではありますが、これらのデバイスは必ずしも耐久性があるわけではありません。錆びやすく、つま先を清潔に保つのが難しいためです。"
+      "body_ja": "この数字は、主要な家電・設備見本市 KBIS からのものです。緑地、パティオ、または屋上テラスのある住宅所有者が現在、屋外用キッチンを設置、拡張し、完全装備を整えようとしているのは明らかです。季節の初めに、スタンドアロングリルをホースで洗い流して、奇妙な蓄積物を取り除く必要がある時代は遠い昔に終わりました。クラシックな形ではありますが、これらのデバイスは必ずしも耐久性があるわけではありません。錆びやすく、つま先をきれいに保つのが難しいためです。"
     },
     {
       "title": "This failed Barbie themed event just gave me Wonka experience flashbacks",
@@ -244,8 +304,8 @@
       "lang": "en",
       "published": "2026-03-30T13:23:54",
       "image_url": "https://cdn.mos.cms.futurecdn.net/8K745AN26yCY7oRs2DbQqW-1280-80.jpg",
-      "title_ja": "この失敗したバービーをテーマにしたイベントは、私にウォンカの経験をフラッシュバックさせてくれました |9月|参加者には、標準以下の体験に対して全額返金が提供されています。",
-      "summary_ja": ""
+      "title_ja": "この失敗したバービーをテーマにしたイベントは、私にウォンカの経験をフラッシュバックさせてくれました",
+      "summary_ja": "参加者には、標準以下の体験に対して全額返金が提供されています。"
     },
     {
       "title": "RS Barcelona Fuses Simplicity and Substance in the Seu Bench by Studio A.P.O.",
@@ -258,7 +318,7 @@
       "title_ja": "RS Barcelona は、Studio A.P.O. による Seu ベンチでシンプルさと実質を融合しています。 |9月| 1975 年以来板金の達人である RS Barcelona は、5 つのサイズと 21 色の Seu ベンチを誇りを持って発表します。",
       "summary_ja": "",
       "image_url": "https://design-milk.com/images/2026/03/Seu-Bench-RS-Barcelona-6.jpg",
-      "body_ja": "陸上競技に対する人類の愛の美しさは、数値化するのが難しいです。ライバル関係、アドレナリン、そしてプレーの喜びはすべて、ファンが国境を越えて目撃するものであり、スタンドのたった 1 つの席のために数千ドルを費やします。アントニ・パジェハ事務所（スタジオA.P.O.）がRSバルセロナのためにデザインしたセウベンチは、装飾を省き、持続的かつ根本的なシンプルさを支持し、観客の芸術を取り入れています。\n100% アルミニウムで作られたベンチです。"
+      "body_ja": "陸上競技に対する人類の愛の美しさは、数値化するのが困難です。ライバル関係、アドレナリン、そしてプレーの喜びはすべて、ファンが国境を越えて目撃するものであり、スタンドのたった 1 つの席のために数千ドルを費やします。アントニ・パジェハ事務所（スタジオA.P.O.）がRSバルセロナのためにデザインしたセウベンチは、装飾を省き、持続的かつ根本的なシンプルさを支持し、観客の芸術を取り入れています。\n100% アルミニウムで作られたベンチです。"
     },
     {
       "title": "Soleva outdoor furniture by Vincent Van Duysen for Molteni&C",
@@ -292,7 +352,7 @@
       "icon": "🎨",
       "lang": "en",
       "published": "2026-03-30T11:48:00",
-      "title_ja": "Google Stitch: これでジュニアデザイナーは終わりですか? |9月|ピクセルパーフェクトなデザイナーが亡くなり、Google Stitch が葬儀を行ったところです。私たちは手動 UI の「技術」を、30 秒のプロンプトが表示される「Vibe Design」の時代に正式に置き換えます。",
+      "title_ja": "Google Stitch: これでジュニアデザイナーは終わりですか? |9月|ピクセル完璧なデザイナーが亡くなり、Google Stitch が葬儀を執り行いました。私たちは正式に手動 UI の「技術」を、30 秒のプロンプトが表示される「Vibe Design」の時代に置き換えています。",
       "summary_ja": ""
     },
     {
@@ -343,18 +403,6 @@
       "summary_ja": "ダグラスファー材の細いフレームが、地元のスタジオ、エミール・イブ・アーキテクツによって最近完成したロンドンのパビリオンのような増築に「軽さの感覚」をもたらしている。タルボット・ロアという名前"
     },
     {
-      "title": "Christchurch stadium unveiled as \"final anchor project of the city's rebuild\"",
-      "url": "https://www.dezeen.com/2026/03/30/one-new-zealand-stadium-te-kaha-populous-warren-mahoney/",
-      "summary": "<p>A transparent roof covers the grass field at One New Zealand Stadium at Te Kaha, designed by architecture studios Populous and Warren &#38; Mahoney as part of the rebuilding of Christchurch following the 2011 earthquake. Populous and Warren &#38; Mahoney designed the stadium as a multi-use venue ",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-03-30T10:00:44",
-      "image_url": "http://static.dezeen.com/uploads/2026/03/one-new-zealand-stadium-te-kaha-populous-warren-mahoney_dezeen_2364_sq_0-411x411.jpg",
-      "title_ja": "クライストチャーチ・スタジアムが「都市再建の最後の核となるプロジェクト」として発表",
-      "summary_ja": "テ・カハのワン・ニュージーランド・スタジアムの芝生フィールドは、建築スタジオのポピュラスとウォーレンが設計した透明な屋根で覆われている。 Chrの再建の一環としてのMahoney"
-    },
-    {
       "title": "Fun illustrations track Apple's top products through the last 5 decades",
       "url": "https://www.creativebloq.com/art/illustration/fun-illustrations-track-apples-top-products-through-the-last-5-decades",
       "summary": "Apple's popular kit is reimagined by artists.",
@@ -363,32 +411,8 @@
       "lang": "en",
       "published": "2026-03-30T10:00:00",
       "image_url": "https://cdn.mos.cms.futurecdn.net/yCyxoMXT2HPoiXNXDRU4z8-1280-80.jpg",
-      "title_ja": "楽しいイラストで過去 50 年間の Apple のトップ製品を追跡",
+      "title_ja": "過去 50 年間の Apple のトップ製品を楽しいイラストで追跡",
       "summary_ja": "Apple の人気キットがアーティストによって再考されました。"
-    },
-    {
-      "title": "SuperRational modular outdoor sofa by Haldane",
-      "url": "https://www.dezeen.com/2026/03/30/superrational-modular-outdoor-sofa-haldane-dezeen-showroom/",
-      "summary": "<p>Dezeen Showroom: the 1980s Memphis style informed South African designer Haldane Martin's SuperRational modular outdoor sofa, released through his brand Haldane. The SuperRational sofa is defined by its endlessly repeatable one-by-one-metre seating modules and its grid-like stainless steel frame,",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-03-30T09:30:51",
-      "image_url": "http://static.dezeen.com/uploads/2026/03/superrational-outdoor-sofa-haldane-martin-design_dezeen_2364_sq-411x411.jpg",
-      "title_ja": "Haldane 製 SuperRational モジュール式屋外ソファ",
-      "summary_ja": "Dezeen ショールーム: 1980 年代のメンフィス スタイルを反映した南アフリカのデザイナー、ハルダン マーティンの SuperRational モジュール式屋外ソファは、彼のブランド Haldane からリリースされました。スーパー合理的"
-    },
-    {
-      "title": "Compartment S4 brings \"warmth and craftsmanship\" to cowshed in India",
-      "url": "https://www.dezeen.com/2026/03/30/compartment-s4-cow-shed-india/",
-      "summary": "<p>Indian studio Compartment S4 has completed a cowshed in Maharashtra, using a palette of brick, stone and bamboo to elevate its utilitarian spaces into a \"humane, climate-responsive habitat\". Named Gaughar or Cow House, the project sits within a 340-acre fruit orchard in the coastal town of Dahanu",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-03-30T09:00:54",
-      "image_url": "http://static.dezeen.com/uploads/2026/03/compartment-s4-cow-shed-india-sq_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "インドの牛舎に「温もりと職人技」をもたらすコンパートメントS4",
-      "summary_ja": "インドのスタジオ Compartment S4 は、レンガ、石、竹のパレットを使用して、その実用的な空間を「人道的で気候に対応した空間」に高めた牛舎をマハラシュトラ州に完成させた。"
     },
     {
       "title": "Design engineers, UX Design’s demise, forget your “lovable” products",
@@ -413,30 +437,6 @@
       "image_url": "https://cdn-images-1.medium.com/max/1024/1*SSTKV-rZ5RU2tixXqZ9-yA.jpeg",
       "title_ja": "地面が揺れている: なぜデザイナーは AI のスクリプトをひっくり返さなければならないのか",
       "summary_ja": "デザイン分野の運営方法に何かが変化しています。たとえ言葉を見つけたり、正確なスキーマを特定したりしていなくても、私たちのほとんどはそれを感じることができると思います。<img al"
-    },
-    {
-      "title": "This creative startup wants to bring The Sphere experience to the high street",
-      "url": "https://www.creativebloq.com/art/digital-art/this-startup-wants-to-bring-the-sphere-experience-to-the-high-street",
-      "summary": "Visual Endeavors' founder Aron Altmark is out to democratise immersive live digital art.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-03-30T08:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oqaFVaeuLcVJktqbfuDxv9-1280-80.jpg",
-      "title_ja": "このクリエイティブなスタートアップは、The Sphere の体験をハイストリートにもたらしたいと考えています",
-      "summary_ja": "Visual Endeavors の創設者 Aron Altmark は、没入型ライブ デジタル アートの民主化に取り組んでいます。"
-    },
-    {
-      "title": "The latest Krita updates are a game changer for comic creators",
-      "url": "https://www.creativebloq.com/art/digital-art-software/the-latest-krita-updates-are-a-game-changer-for-comic-creators",
-      "summary": "The free Photoshop alternative has new tools for artists and illustrators.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-03-30T07:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Tgdt7PMrtWi4tEbw5YDyHm-1280-80.jpg",
-      "title_ja": "最新の Krita アップデートは漫画クリエイターにとって大きな変革をもたらします",
-      "summary_ja": "無料の Photoshop 代替ツールには、アーティストやイラストレーター向けの新しいツールが含まれています。"
     },
     {
       "title": "協働がつくる食文化 ──進化し続けるデンマークの日常食",
@@ -517,7 +517,7 @@
       "lang": "en",
       "published": "2026-03-27T14:00:13",
       "title_ja": "ファロ・バルセロナは「ティエラ、マー・イ・アイル」で私たちを現実に据える",
-      "summary_ja": "原産地から再生されたプラスチックから作られたエクトル・セラーノのティエラ・マール・イ・アイルは、デザインにおける真の循環性を称賛しています。",
+      "summary_ja": "原産地から再生されたプラスチックから作られたエクトル・セラーノのティエラ・マール・イ・アイレは、デザインにおける真の循環性を称賛しています。",
       "image_url": "https://design-milk.com/images/2026/03/Tierra-Mar-Y-Aire-Faro-Barcelona-0.jpg",
       "body_ja": "自然は私たちの最も古く、最も創造的なデザイナーです。ビジネスに携わる人々は、地球の有機的なリズムから構造、物質性、さらには道徳を取り入れ、創造の泥沼と魔法を縫って進んでいきます。真の持続可能性を実現するには、リサイクルされた材料とリサイクル可能な材料を併用して、これらのパラメータを理解し、その範囲内で取り組む必要があります。 Tierra, Mar, y Aireでは、ファロ・バルセロナが発表したエクトル・セラーノの新しい照明コレクションです。"
     },
@@ -600,7 +600,7 @@
       "title_ja": "バター、味噌、キノコ: 集中力と好奇心を満たす 3 冊の本",
       "summary_ja": "バター、味噌、キノコが、食べ物を素材とミューズの両方として扱う 3 冊の本で主役になっています。",
       "image_url": "https://design-milk.com/images/2026/03/Taste-February-2026-Butter-Miso-Mushrooms-05-The-Butter-Book.jpg",
-      "body_ja": "単一の材料を中心に本全体を構成するには、特定の規律があります。それには好奇心と、十分に綿密に検討した 1 つの主題が読者の注意を引きつけることができるという自信が必要です。今月は、アンナ・ストックウェルの『The Butter Book』、ボニー・チャンの『Miso: From Japanese Classics to Everyday Umami』の新版、そしてタッシェンの『The Gourmand’s Mushroom』では、バター、味噌、キノコを食料庫の必需品としてだけでなく、次のような物質として紹介しています。"
+      "body_ja": "単一の材料を中心に本全体を構成するには、特定の規律があります。それには好奇心と、十分に綿密に検討した 1 つの主題が読者の注意を引きつけることができるという自信が必要です。今月は、アンナ・ストックウェルの『The Butter Book』、ボニー・チャンの新版『Miso: From Japanese Classics to Everyday Umami』、タッシェンの『The Gourmand’s Mushroom』でバター、味噌、キノコが食料庫の必需品としてだけでなく、次のような物質として紹介されています。"
     },
     {
       "title": "Stop Designing for Delighted Users (and Start Designing for Cognitive Strain)",
@@ -677,10 +677,10 @@
       "icon": "🥛",
       "lang": "en",
       "published": "2026-03-25T17:00:42",
-      "title_ja": "パウエル氏の本社は企業と地元メーカーのショーケース",
+      "title_ja": "パウエル氏の本社は企業と地元メーカーのショーケースである",
       "summary_ja": "パウエル建築家は、自社の能力と地元メーカーの仕事を紹介するために、ナッシュビルの新しい本社を設計しました。",
       "image_url": "https://design-milk.com/images/2026/03/Powell-00-Primary-Space.jpg",
-      "body_ja": "企業環境では通常、ブランドの美学と、スタッフが日々の業務を遂行する際のサポートを目的とした契約家具を組み合わせたものが参照されます。建築家が独自の空間を構想するとき、多くの場合、その会社の特徴的な構造を反映した形と機能のシームレスな融合を表現しようと努めます。\nパウエルチームが自分たちの本社を構想したとき、彼らの能力のショーケースを兼ねた現代的なワークスペースを作成することに決めました。"
+      "body_ja": "企業環境では通常、ブランドの美学と、スタッフが日々の業務を遂行する際のサポートを目的とした契約家具を組み合わせたものが参照されます。建築家が自分の空間を構想するとき、多くの場合、その会社の特徴的な構造を反映した形と機能のシームレスな融合を表現しようと努めます。\nパウエルチームが自分たちの本社を構想したとき、彼らの能力のショーケースを兼ねた現代的なワークスペースを作成することに決めました。"
     },
     {
       "title": "These New Pieces From FRAMA Showcase the Softer Side of Metals",
@@ -693,7 +693,7 @@
       "title_ja": "FRAMA のこれらの新作は、金属の柔らかい側面を示しています",
       "summary_ja": "FRAMA は最新の作品で、手作りの金属デザインを通じて実用性と素材の誠実さを称賛しています。",
       "image_url": "https://design-milk.com/images/2026/03/Tasca-Table-Large-Frama-0.jpg",
-      "body_ja": "海の匂いには私たちを呼び起こす何かがあります。塩辛い泡が波を覆い、世界の転換を知らせます。 FRAMA の Tasca テーブル ラージは、屋外や波の中でもどこでも使用できるように作られています。美しく鍛えられたサテン仕上げが、水の流れそのものを思わせる繊細さを演出します。小さいサイズも用意されている Tasca テーブルは、2 人、3 人、または 4 人での利用に最適です。\nあ"
+      "body_ja": "海の匂いには私たちを呼び起こす何かがあります。塩辛い泡が波を覆い、世界の転換を告げます。 FRAMA の Tasca テーブル ラージは、屋外や波の中など、どこでも使用できるように作られています。美しく鍛えられたサテン仕上げが、水の流れそのものを思わせる繊細さを演出します。小さいサイズも用意されている Tasca テーブルは、2 人、3 人、または 4 人での利用に最適です。\nあ"
     },
     {
       "title": "Artek and Heath Ceramics’ New Tile Tables Cleverly Cohere Clay with Wood",
@@ -817,7 +817,7 @@
       "published": "2026-03-20T13:00:00",
       "image_url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
       "title_ja": "スクロール可能なコンテナ内のドロップダウン: 壊れる理由と適切に修正する方法",
-      "summary_ja": "多くの場合、ドロップダウンは、スクロール可能なパネル内に配置されるまでは完全に機能しますが、そこでクリップされ、メニューの半分がコンテナの端の後ろに隠れてしまいます。神時あぶる"
+      "summary_ja": "多くの場合、ドロップダウンは、スクロール可能なパネル内に配置されるまでは完全に機能しますが、ドロップダウンするとクリップされ、メニューの半分がコンテナの端に隠れて見えなくなります。神時あぶる"
     },
     {
       "title": "Modal vs. Separate Page: UX Decision Tree",
@@ -905,7 +905,7 @@
       "published": "2026-03-13T13:00:00",
       "image_url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
       "title_ja": "Moment.js から JS Temporal API への移行",
-      "summary_ja": "JavaScript が時間を処理する方法は、組み込みの「Date」API から Moment.js、そして現在は Temporal へと大幅に進化しました。新しい標準は、元の「Date」API のギャップを埋めますが、"
+      "summary_ja": "JavaScript が時間を処理する方法は、組み込みの「Date」API から Moment.js、そして Temporal に至るまで大幅に進化しました。新しい標準は、元の「Date」API のギャップを埋めますが、"
     },
     {
       "title": "7 Practical Ways AI is Rewriting the UI Design Playbook (and 3 Ways it’s Not)",
@@ -1017,7 +1017,7 @@
       "lang": "en",
       "published": "2026-03-02T11:57:00",
       "title_ja": "UI デザイナーのためのプロダクト思考: ピクセルを超えた意思決定",
-      "summary_ja": "製品思考では、「見た目」から「それが重要な理由」に焦点を移し、あらゆるデザインの選択が人間の実際の問題を解決し、ビジネス目標を達成できるようにします。それはモーの秘密です"
+      "summary_ja": "製品思考では、「見た目」から「なぜそれが重要なのか」に焦点を移し、あらゆるデザインの選択が人間の実際の問題を解決し、ビジネス目標を達成できるようにします。それはモーの秘密です"
     },
     {
       "title": "10 Ways to Reduce Cognitive Load Without Turning Your UI Into a Minimalist Ghost Town",
@@ -1031,6 +1031,6 @@
       "summary_ja": "いくつかのアプリがあなたと戦っていると感じたことはありますか?それが認知負荷であり、脳を消耗させる小さな摩擦の瞬間です。これらを修正すれば、製品がよりスマートに、より速く、よりスマートに感じられるようになります。"
     }
   ],
-  "last_updated": "2026-03-31T06:29:32.740382",
+  "last_updated": "2026-03-31T08:43:59.748369",
   "count": 90
 }
