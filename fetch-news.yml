@@ -1,0 +1,46 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 毎日 07:00 JST (UTC+9)
+  workflow_dispatch:         # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install feedparser deep-translator trafilatura lxml_html_clean requests
+
+      - name: Fetch & translate news
+        run: python scripts/fetch_news.py
+
+      - name: Commit updated data
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: update news $(date -u +%Y-%m-%d)"
+          git push
