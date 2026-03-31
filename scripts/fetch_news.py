@@ -9,7 +9,10 @@ import json
 import re
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+JST = timezone(timedelta(hours=9))
+
 from pathlib import Path
 
 import feedparser
@@ -191,7 +194,7 @@ def _enrich_articles(articles: list[dict]) -> list[dict]:
 def fetch_hub(hub_id: str) -> dict:
     """RSS を取得・翻訳・エンリッチして data/{hub_id}_news.json に書き出す。"""
     hub = HUBS[hub_id]
-    print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Fetching {hub['name']}...")
+    print(f"\n[{datetime.now(JST).strftime('%Y-%m-%d %H:%M:%S')}] Fetching {hub['name']}...")
 
     articles: list[dict] = []
 
@@ -258,7 +261,7 @@ def fetch_hub(hub_id: str) -> dict:
 
     data = {
         "articles":     articles,
-        "last_updated": datetime.now().isoformat(),
+        "last_updated": datetime.now(JST).isoformat(),
         "count":        len(articles),
     }
     _save(hub_id, data)
@@ -268,13 +271,13 @@ def fetch_hub(hub_id: str) -> dict:
 # ─── エントリポイント ─────────────────────────────────────────────────────────
 
 def main() -> None:
-    print(f"=== fetch_news.py start at {datetime.now().isoformat()} ===")
+    print(f"=== fetch_news.py start at {datetime.now(JST).isoformat()} ===")
     for hub_id in HUBS:
         try:
             fetch_hub(hub_id)
         except Exception as e:
             print(f"[ERROR] {hub_id}: {e}")
-    print(f"\n=== fetch_news.py done at {datetime.now().isoformat()} ===")
+    print(f"\n=== fetch_news.py done at {datetime.now(JST).isoformat()} ===")
 
 
 if __name__ == "__main__":
