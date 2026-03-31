@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Artist Shows Procedural House Generation with Houdini Engine & Unreal",
+      "url": "https://80.lv/articles/artist-shows-procedural-house-generation-with-houdini-engine-unreal/",
+      "summary": "<p>Learn how Hugo Beyer crafted the setup.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-03-31T08:44:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39538/images/69cb897bb8706/cover_800x800.jpg",
+      "title_ja": "アーティストが Houdini エンジンとアンリアルを使用したプロシージャル ハウス生成を披露",
+      "summary_ja": "Hugo Beyer がどのようにセットアップを作成したかを学びましょう。"
+    },
+    {
       "title": "「ARC Raiders」，本日配信のアップデート“Flashpoint”の詳細を公開。新たなマップ環境や武器，機能の追加を実施",
       "url": "https://www.4gamer.net/games/609/G060942/20260331047/",
       "summary": "ネクソンは，「ARCRaiders」に本日（2026年3月31日）配信予定のアップデート，「Flashpoint」の詳細を公開した。それによると，Flashpointでは，新たなマップ環境「ARCの活動:精密探査」がスタートし，「アセッサー」と呼ばれる貴重な物資を搭載したARCが登場するという。",
@@ -223,7 +235,7 @@
       "lang": "en",
       "published": "2026-03-30T20:07:10",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg",
-      "title_ja": "価格が上がる前に新しい PS5 Pro を見つけてください |9 月|ユーザーが値上げを前にソニーのハイエンドPlayStationを慌てて購入する中、GameStop、Target、Best Buyなどの小売業者はPS5 Proの在庫が品薄になっている。",
+      "title_ja": "価格が上がる前に新しい PS5 Pro を見つけてください |9 月|ユーザーが値上げを前にソニーのハイエンドプレイステーションを慌てて購入する中、ゲームストップ、ターゲット、ベストバイなどの小売業者はPS5プロの在庫が品薄になっている。",
       "summary_ja": ""
     },
     {
@@ -247,7 +259,7 @@
       "lang": "en",
       "published": "2026-03-30T19:06:00",
       "image_url": "https://cdn.80.lv/api/upload/post/39531/images/69cac4f95bc8d/cover_800x800.png",
-      "title_ja": "カプコンは RE エンジンを使用してロックマン スター フォースを最新のプラットフォーム向けにどのように再構築したか",
+      "title_ja": "カプコンが RE エンジンを使用してロックマン スター フォースを最新のプラットフォーム向けに再構築した方法",
       "summary_ja": "カプコンは、現在すべての最新プラットフォームでリリースされているロックマン スター フォース レガシー コレクションにおけるデュアル スクリーン デザインの適応、レガシー アセットの再構築、アクセシビリティの最新化について説明します。"
     },
     {
@@ -296,7 +308,7 @@
       "published": "2026-03-30T18:30:49",
       "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/screenshot-2026-03-30-at-2-23-43-pm.jpg",
       "title_ja": "アーク レイダースのアップデートでクラフトが簡単になり、新しい飛行敵が追加されました",
-      "summary_ja": "アーク レイダースの次のアップデートであるフラッシュポイントでは、クラフトのクオリティ オブ ライフが大幅に改善され、ヴェポライザーと呼ばれる新しい空飛ぶ敵などが追加されます。"
+      "summary_ja": "次の Arc Raiders アップデートである Flashpoint では、クラフトのクオリティ オブ ライフが大幅に改善され、Vaporizer と呼ばれる新しい空飛ぶ敵などが追加されます。"
     },
     {
       "title": "Jack Black should play this Yakuza icon in a live-action adaptation",
@@ -319,8 +331,8 @@
       "lang": "en",
       "published": "2026-03-30T17:29:00",
       "image_url": "https://cdn.80.lv/api/upload/post/39496/images/69c7066fc389a/cover_800x800.jpg",
-      "title_ja": "ZDT スタジオ、タコを題材にした戦術ゲーム「ダーウィンのパラドックス」の作成",
-      "summary_ja": "ZDT Studio も参加して、ゲーム「ダーウィンのパラドックス」について話し、主要なアイデアをどのように定義したのか、タコをどのようにアニメーション化したのか、そしてどのようにして LAN を作成したのかについて詳しく説明しました。"
+      "title_ja": "ZDT スタジオ、タコを題材にした戦術ゲーム「ダーウィンのパラドックス」の作成について",
+      "summary_ja": "ZDT Studio も参加して、ゲーム「ダーウィンのパラドックス」について話し、主要なアイデアをどのように定義したか、タコをどのようにアニメーション化したか、そしてどのようにして LAN を作成したのかについて詳しく説明しました。"
     },
     {
       "title": "Showcase Competition Winners Announced!",
@@ -391,20 +403,8 @@
       "lang": "en",
       "published": "2026-03-30T14:55:00",
       "image_url": "https://cdn.80.lv/api/upload/post/39494/images/69c5963f182af/cover_800x800.jpg",
-      "title_ja": "エミー賞受賞プロデューサーが CC と iClone で Unity インディー ゲームを開発",
-      "summary_ja": "エミー賞受賞プロデューサーの Mike Wuetherick が、Reallusion の Character Creator と iClone によって、スタジオ品質のキャラクターとアニメーションを提供できる単独の Unity ワークフローがどのように実現されるのかを説明します"
-    },
-    {
-      "title": "This Free Tool Lets You Render OpenVDB Natively In Nuke",
-      "url": "https://80.lv/articles/this-free-tool-lets-you-render-openvdb-natively-in-nuke/",
-      "summary": "<p>Download <span>Marty Blumen's VDB Render.</span></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-03-30T14:36:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39529/images/69ca8a7a965d1/cover_800x800.jpg",
-      "title_ja": "この無料ツールを使用すると、Nuke",
-      "summary_ja": "で OpenVDB をネイティブにレンダリングできます。 Marty Blumen の VDB レンダーをダウンロードします。"
+      "title_ja": "エミー賞受賞プロデューサーが CC と iClone を使用して Unity インディー ゲームを開発",
+      "summary_ja": "エミー賞受賞プロデューサーの Mike Wuetherick が、Reallusion の Character Creator と iClone が、スタジオ品質のキャラクターとアニメーションを提供できる単独の Unity ワークフローを実現する方法を説明します"
     },
     {
       "title": "Wanderstop developer Ivy Road is shutting down",
@@ -487,8 +487,8 @@
       "lang": "en",
       "published": "2026-03-27T19:37:48",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt540286313b5544fd/69c6b7ae4d1a6e966336c787/New_Project_(1).png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "業界は「本当にひどい状況」にあるとブレンダとジョン・ロメロは語る",
-      "summary_ja": "「私たちは80年代に事故現場にいたが、今回は間違いなくもっとひどいものだ。」"
+      "title_ja": "業界は「本当にひどい状況」にある、とブレンダ・ロメロとジョン・ロメロ",
+      "summary_ja": "「私たちは80年代に事故現場にいたが、今回は間違いなくもっと事故だ。」"
     },
     {
       "title": "Owlcat Games is using generative AI to 'iterate faster' on The Expanse",
@@ -571,6 +571,6 @@
       "summary_ja": "3D モデルは再利用できるのに、なぜ作り直す必要があるのでしょうか?"
     }
   ],
-  "last_updated": "2026-03-31T08:44:35.411058",
+  "last_updated": "2026-03-31T08:55:44.196293",
   "count": 50
 }
