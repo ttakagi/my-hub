@@ -1,124 +1,270 @@
 {
   "articles": [
     {
-      "title": "Crimson Desert interactive maps",
-      "url": "https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/",
-      "summary": "Our Crimson Desert interactive maps show you every useful item and point of interest across all of Pywel",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "Have a Look at This Bloodborne Fan Art Created with ZBrush and Unreal Engine",
+      "url": "https://80.lv/articles/have-a-look-at-this-bloodborne-fan-art-created-with-zbrush-and-unreal-engine/",
+      "summary": "<p>It's another highly detailed artwork made by Rebecca Tomasoni.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-04-03T20:21:57",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/crimson-desert-hernand-thumbnail-pg.png",
-      "title_ja": "クリムゾン砂漠インタラクティブマップ",
-      "summary_ja": "クリムゾン砂漠のインタラクティブマップには、パイウェル全域の便利なアイテムや興味深いスポットがすべて表示されます"
+      "published": "2026-04-05T07:30:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39605/images/69cfff9bbfc02/cover_800x800.jpg",
+      "title_ja": "ZBrush と Unreal Engine で作成された Bloodborne のファンアートをご覧ください",
+      "summary_ja": "これもレベッカ・トマソーニによって作られた非常に詳細なアートワークです。"
     },
     {
-      "title": "Best Xbox Game Pass games to play this weekend (April 3-5 2026)",
-      "url": "https://www.polygon.com/best-game-pass-games-april-3-2026/",
-      "summary": "We have a variety of Xbox Game Pass recommendations to save you from endlessly searching for something new to play.",
+      "title": "Solo Game Dev is Working on a Parkour Pizze Delivery Platformer Game",
+      "url": "https://80.lv/articles/solo-game-dev-is-working-on-a-parkour-pizze-delivery-platformer-game/",
+      "summary": "<p>Would you like to deliver pizza while doing parkour?</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-04-05T07:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39585/images/69ceb4ece26ae/cover_800x800.jpg",
+      "title_ja": "Solo Game Dev はパルクール ピザ配信プラットフォーマー ゲームに取り組んでいます",
+      "summary_ja": "パルクールをしながらピザを配達してみませんか？"
+    },
+    {
+      "title": "Hozy: A Cozy Game Where You Restore a Forgotten Neighborhood",
+      "url": "https://80.lv/articles/hozy-a-cozy-game-where-you-restore-a-forgotten-neighborhood/",
+      "summary": "<p>Sometimes we need games with a slow pace and a cozy vibe.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-04-05T06:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39551/images/69cc0cf4e2e4f/cover_800x800.jpg",
+      "title_ja": "Hozy: 忘れられた近所を復元する居心地の良いゲーム",
+      "summary_ja": "スローペースで居心地の良い雰囲気のゲームが必要な場合もあります。"
+    },
+    {
+      "title": "Where Winds Meet interactive map",
+      "url": "https://www.polygon.com/map/where-winds-meet-interactive-maps-hexi-qinghe-kaifeng/",
+      "summary": "Explore the vast regions of Where Winds Meet, the epic wuxia live service game with this interactive map.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T18:56:54",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25408614/ss_e9edafce52549d7d8fa1595763bfc568a34256da.jpg",
-      "title_ja": "今週末プレイするのに最適な Xbox Game Pass ゲーム (2026 年 4 月 3 ～ 5 日) |9 月 |新しいプレイを延々と探す手間を省くために、Xbox Game Pass に関するさまざまな推奨事項をご用意しています。",
+      "published": "2026-04-04T19:55:22",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/polygon-where-winds-meet-hexi-feature.jpg",
+      "title_ja": "風が出会う場所インタラクティブマップ",
+      "summary_ja": "このインタラクティブなマップを使用して、壮大な武侠ライブ サービス ゲームである Where Winds Meet の広大な地域を探索してください。"
+    },
+    {
+      "title": "GTA 5 continues a frustrating cycle with latest Xbox Game Pass exit",
+      "url": "https://www.polygon.com/gta-5-leaves-xbox-game-pass-again/",
+      "summary": "GTA 5 will leave Xbox Game Pass on April 15, showing how it has an on-again, off-again relationship with video game subscription services.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-04-04T19:51:09",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/10562937/Screen_Shot_2018_03_31_at_10.58.16_AM.png",
+      "title_ja": "GTA 5 は、最新の Xbox Game Pass 終了",
+      "summary_ja": "でイライラするサイクルを続けています。 「GTA 5」は 4 月 15 日に Xbox Game Pass を終了し、ビデオ ゲームのサブスクリプション サービスとの関係が断続的に続いていることを示しています。"
+    },
+    {
+      "title": "2 essential MTG decks for beginners are discounted",
+      "url": "https://www.polygon.com/mtg-beginner-deals-avatar-bx-foundations-starter/",
+      "summary": "The Avatar Beginner Box and Foundations Starter Collection are seeing discounts at Amazon.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-04-04T19:00:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mtg-starter-set-guide.jpg",
+      "title_ja": "初心者向けのMTG必須デッキ2種が割引価格",
+      "summary_ja": "Avatar Beginner Box と Foundations Starter Collection が Amazon で割引になっています。"
+    },
+    {
+      "title": "Elden Ring fans are losing their minds over movie set leaks",
+      "url": "https://www.polygon.com/elden-ring-movie-set-leaks/",
+      "summary": "It looks like A24 and Alex Garland's Elden Ring movie will be very faithful to the games.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-04-04T18:34:29",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/elden-ring-switch-2.jpg",
+      "title_ja": "エルデン リングのファンは映画セットのリークに正気を失っている |9月| A24とアレックス・ガーランドの『エルデン・リング』映画はゲームに非常に忠実なものになるようだ。",
       "summary_ja": ""
     },
     {
-      "title": "2001: A Space Odyssey originally had a 20-foot-tall green alien and a 'crap' script",
-      "url": "https://www.polygon.com/2001-space-odyssey-first-draft-alien-leopard-zebra-story/",
-      "summary": "58 years ago, 2001: A Space Odyssey hit screens. Read SFX legend Douglas Trumbull on the movie's original \"crap script\" and 20-foot-tall green aliens.",
+      "title": "Scream 8's Ghostface needs to be Gale Weathers — here's why",
+      "url": "https://www.polygon.com/gale-should-be-the-villain-of-scream-8/",
+      "summary": "There's no stopping Scream 8, but maybe the next movie can actually do something interesting with its mystery villain",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T18:46:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/2001.jpg",
-      "title_ja": "『2001 年宇宙の旅』には当初、身長 6 フィートの緑色のエイリアンと「くだらない」脚本がありました",
-      "summary_ja": "58 年前、『2001 年宇宙の旅』がスクリーンに登場しました。 SFX 界のレジェンドであるダグラス トランブルが、映画のオリジナルの「くだらない脚本」と身長 6 フィートの緑色のエイリアンについて語ります。"
+      "published": "2026-04-04T18:00:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24495622/scr605714r.jpg",
+      "title_ja": "スクリーム 8 のゴーストフェイスはゲイル ウェザースでなければなりません — これがその理由です",
+      "summary_ja": "スクリーム 8 を止めることはできませんが、次の映画では実際に謎の悪役で何か面白いことができるかもしれません"
     },
     {
-      "title": "Rogue One's most ruthless rebel gets his own Star Wars comic",
-      "url": "https://www.polygon.com/star-wars-rogue-one-saw-gerrera-marvel-comics/",
-      "summary": "Saw Gerrera from Rogue One: A Star Wars Story gets a prequel to the prequel story thanks to new one-shot books from Marvel Comics.",
+      "title": "Immortal Bloodline review: The latest Lupin III movie heads into Akira-level body horror",
+      "url": "https://www.polygon.com/lupin-the-iiird-the-movie-immortal-bloodline/",
+      "summary": "Lupin the IIIrd the Movie: The Immortal Bloodline, now available on digital and for Blu-ray pre-order, pays off a 14-year story arc in messy ways.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T18:30:24",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/saw-gerrera-rogue-one.jpg",
-      "title_ja": "ローグ・ワンの最も冷酷な反逆者が独自のスター・ウォーズ・コミックを手に入れる",
-      "summary_ja": "『ローグ・ワン／スター・ウォーズ・ストーリー』のソウ・ゲレラは、マーベル・コミックの新しい読み切り本のおかげで、前日譚の物語の前編を手に入れることができます。"
+      "published": "2026-04-04T17:00:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/lupin-iiird-gasp.jpg",
+      "title_ja": "『不滅の血脈』レビュー: 最新作『ルパン三世』はアキラレベルのボディホラーに突入",
+      "summary_ja": "『ルパン三世 THE MOVIE 不滅の血統』は、現在デジタル配信とブルーレイの予約受付中だが、14年間にわたる物語を無茶苦茶な形で回収している。"
     },
     {
-      "title": "The Animorphs getting new TV show for Disney Plus from Ryan Coogler",
-      "url": "https://www.polygon.com/animorphs-tv-show-disney-plus-ryan-coogler/",
-      "summary": "Disney's adaptation will bring the '90s YA sci-fi series to the screen for the first time since 1998 with a new take on the Animorphs.",
+      "title": "Wyldheart co-op RPG preview shows a Fable-inspired D&D-style adventure",
+      "url": "https://www.polygon.com/wyldheart-demo-review-impressions/",
+      "summary": "Wyldheart is a co-op RPG inspired by Fable and Dungeons & Dragons, built around shared campaigns and drop-in multiplayer for flexible group play.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T18:06:09",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/91cn-xxo2pl-_sl1500_.jpg",
-      "title_ja": "アニモーフがライアン・クーグラーからディズニープラス向けの新しいテレビ番組を取得 |9月|ディズニーの適応により、90年代のYA SFシリーズがアニモーフに新たな解釈を加えて1998年以来初めてスクリーンに登場することになる。",
-      "summary_ja": ""
+      "published": "2026-04-04T16:00:20",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/wyldheart-_-official-reveal-trailer-0-9-screenshot.png",
+      "title_ja": "ワイルドハートの協力型 RPG プレビューでは、寓話にインスピレーションを得た D&D スタイルのアドベンチャーが披露されます",
+      "summary_ja": "Wyldheart は、Fable と Dungeons & Dragons にインスピレーションを得た協力型 RPG で、共有キャンペーンと柔軟なグループ プレイのためのドロップイン マルチプレイヤーを中心に構築されています。"
     },
     {
-      "title": "Reincarnated as a Slime's season 4 premiere promises more cozy isekai and fantasy policymaking",
-      "url": "https://www.polygon.com/reincarnated-as-a-slime-season-4-premiere-review/",
-      "summary": "The premiere of Reincarnated as a Slime season 4 brings back the series' trademark cozy charm for an isekai adventure steeped in politics.",
+      "title": "Demon Tides is one of 2026's best platformers so far",
+      "url": "https://www.polygon.com/demon-tides-impressions/",
+      "summary": "Demon Tides' movement combos and approachable level design make this one of 2026's essential games.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T18:00:18",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/reincarnated-as-a-slime-season-4-header.jpg",
-      "title_ja": "転生したらスライムだった件シーズン 4 プレミアは、より居心地の良い異世界とファンタジーの政策立案を約束",
-      "summary_ja": "転生したらスライムだった件シーズン 4 のプレミアでは、政治に染まった異世界冒険に、シリーズのトレードマークである居心地の良い魅力が甦ります。"
+      "published": "2026-04-04T16:00:20",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/demon-tides.jpg",
+      "title_ja": "Demon Tides は、これまでのところ 2026 年の最高のプラットフォーマーの 1 つです",
+      "summary_ja": "Demon Tides の動きのコンボと親しみやすいレベル デザインにより、これは 2026 年に欠かせないゲームの 1 つとなっています。"
     },
     {
-      "title": "Slay the Spire 2 dev coyly teases a bunch of cool new features",
-      "url": "https://www.polygon.com/slay-the-spire-2-new-modes-character-multiplayer-competitive/",
-      "summary": "Mega Crit co-founder Casey Yano discusses the reception to the Steam review bombing, new modes, characters, and controversial cards like Snakebite",
+      "title": "This 15-year-old James Gunn movie exposes one of the most ridiculous things about the superhero genre",
+      "url": "https://www.polygon.com/james-gunn-super-15th-anniversary/",
+      "summary": "Superhero parody Super (2011) takes aim at one of the genre's most ridiculous tropes.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T17:54:29",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/slay_the_spire_art.jpg",
-      "title_ja": "Slay the Spire 2 開発者が、クールな新機能の数々を恥ずかしそうにからかいます",
-      "summary_ja": "Mega Crit の共同創設者 Casey Yano が、Steam レビュー爆撃、新しいモード、キャラクター、そして Snakebite のような物議を醸したカードに対する受け止めについて語る"
+      "published": "2026-04-04T15:00:23",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mcdsupe_ec212.jpg",
+      "title_ja": "この 15 歳のジェームズ ガン映画は、スーパーヒーロー ジャンルに関する最もばかげた事柄の 1 つを暴露しています",
+      "summary_ja": "スーパーヒーローのパロディ『スーパー』 (2011) は、このジャンルの最もばかばかしい比喩の 1 つをターゲットにしています。"
     },
     {
-      "title": "Avatar: Fire and Ash, 28 Years Later: The Bone Temple, and every new movie on streaming this weekend",
-      "url": "https://www.polygon.com/new-movies-to-watch-avatar-fire-ash-28-years-later-bone-temple-april-3-2026/",
-      "summary": "Pizza Movie is delivered to Hulu, Alien: Romulus hatches on HBO Max, Five Nights at Freddy’s 2 lands on Peacock, and more",
+      "title": "Darwin's Paradox is a killer Konami game that's not Metal Gear or Silent Hill",
+      "url": "https://www.polygon.com/darwins-paradox-recommendation/",
+      "summary": "Darwin's Paradox from Konami and ZDT Studio is incredibly charming and proves that Konami doesn't have to solely rely on series like Metal Gear",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-04-03T17:33:18",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/3080c_0400_v0671-r-1205.jpg",
-      "title_ja": "『アバター: ファイアー アンド アッシュ』、『28 年後: ボーン テンプル』、およびすべての新作映画が今週末ストリーミング配信されます |9 月 | 「ピザ ムービー」は Hulu に配信され、「エイリアン: ロムルスが孵化」は HBO Max で配信され、「ファイブ ナイツ アット フレディーズ 2」はピーコックで配信されます。",
-      "summary_ja": ""
+      "published": "2026-04-04T14:48:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/darwins-paradox.jpg",
+      "title_ja": "ダーウィンのパラドックスは、メタルギアでもサイレントヒルでもない、コナミのキラーゲームです",
+      "summary_ja": "コナミと ZDT Studio が制作した『ダーウィンのパラドックス』は信じられないほど魅力的で、コナミがメタルギアのようなシリーズだけに依存する必要がないことを証明しています。"
     },
     {
-      "title": "MTG's Secrets of Strixhaven is already discounted at Amazon",
-      "url": "https://www.polygon.com/mtg-secrets-of-strixhaven-discount/",
-      "summary": "Between booster boxes and the Draft Night set, there are some great savings to be found on Magic: The Gathering's upcoming Secrets of Strixhaven set.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-04-03T17:32:46",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/strixhaven-booster-box-discount.jpg",
-      "title_ja": "MTG の Secrets of Strixhaven はすでに Amazon",
-      "summary_ja": "で割引されています。ブースター ボックスとドラフト ナイト セットの間には、マジック: ザ ギャザリングの今後発売される「Strixhaven の秘密」セットで大幅な割引がいくつかあります。"
+      "title": "透明感あるデザインが特徴のワイヤレスイヤホン「Nothing Ear (a)」がAmazonにて34％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83097/news/nothing-ear-aamazon34",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/1_veuq.640.jpg\" vspace=\"5\" width=\"120\" />雑音を低減するアクティブノイズキャンセリング機能を搭載\nNothingのワイヤレスイヤホン「Nothing Ear (a)」がAmazonにて34％オフでタイムセール中だ。",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-04-04T09:13:21",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/1_veuq.jpg"
     },
     {
-      "title": "State of Decay 3 update reveals playtests coming in May 2026",
-      "url": "https://www.polygon.com/state-of-decay-3-alpha-release-undead-labs/",
-      "summary": "Undead Labs announces that State of Decay 3 is going into alpha and players can sign up for early access to the Xbox and PC zombie survival game.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "週刊Steam広場 第147号：ローグライクコイン落とし「RACCOIN」や，「Super Meat Boy 3D」が発売に",
+      "url": "https://www.4gamer.net/games/038/G003821/20260404002/",
+      "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，コイン落としを題材とするスコアアタック型のローグライクゲーム「RACCOIN」や，名作2Dアクションを3Dプラットフォームに進化させた「SuperMeatBoy3D」が発売された。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T09:00:00",
+      "image_url": "https://www.4gamer.net/games/038/G003821/20260404002/TN/014.jpg",
+      "body_ja": "連載\n週刊Steam広場 第147号：ローグライクコイン落とし「RACCOIN」や，「Super Meat Boy 3D」が発売に\n週刊Steam広場では，Valveが運営するPCゲームのダウンロード販売サイト「Steam」で今週発売・発表された注目タイトルや，セール情報などをお届けします。\nRACCOIN\nコイン落としを題材とするスコアアタック型のローグライクゲーム。前後にスライドする棚にコインを投入して押し出していき，獲得したチケットで特殊コインやアイテムを購入しながらランを進める。爆発や竜巻，ブラックホールなど派手なエフェクトが画面上で次々と連鎖していく，中毒性の高いプレイ体験が待っている。\nSuper Meat Boy 3D\n名作2Dアクション「Super Meat Boy」を3Dに進化させた高難度プラットフォーマー。壁ジャンプや壁走り，空中ダッシュ，グラウンドスラムといった多彩なアクションを駆使し，回転ノコギリや溶岩が待ち受ける極悪ステージを攻略していく。ボス戦やさらに過酷なD"
+    },
+    {
+      "title": "「ロード・オブ・ザ・リング」新作映画、アラゴルン役ヴィゴ・モーテンセンは復帰しないことが判明 新たな俳優をキャスティングへ",
+      "url": "https://jp.ign.com/lord-of-the-rings-the-hunt-for-gollum/83099/news/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/news/t/the-lord-o/the-lord-of-the-rings-the-hunt-for-gollum-will-not-see-viggo_ad32.640.jpg\" vspace=\"5\" width=\"120\" />王の置換\n<p>「ロード・オブ・ザ・リング」新作映画<a href=\"https://jp.ign.com/lord-of-the-rings-the-hunt-for-gollum\">『The Lord of the Rin",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-04-04T08:15:07",
+      "image_url": "https://sm.ign.com/ign_jp/news/t/the-lord-o/the-lord-of-the-rings-the-hunt-for-gollum-will-not-see-viggo_ad32.jpg"
+    },
+    {
+      "title": "Check Out This Mayan Caves Dungeon Scene Created with ZBrush and Unreal Engine 5",
+      "url": "https://80.lv/articles/check-out-this-mayan-caves-dungeon-scene-created-with-zbrush-and-unreal-engine-5/",
+      "summary": "<p>It's very detailed, and it looks like a setting you could find in a video game. It's really cool.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-04-03T17:08:47",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/state-of-decay-3.jpg",
-      "title_ja": "State of Decay 3 アップデートにより、2026 年 5 月 |9 月 | にプレイテストが開始されることが明らかになりました。 Undead Labs は、State of Decay 3 がアルファ版になり、プレイヤーは Xbox および PC のゾンビ サバイバル ゲームへの早期アクセスにサインアップできることを発表しました。",
-      "summary_ja": ""
+      "published": "2026-04-04T06:30:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39570/images/69cd4b99e613b/cover_800x800.jpg",
+      "title_ja": "ZBrush と Unreal Engine 5 で作成されたマヤの洞窟のダンジョン シーンをご覧ください",
+      "summary_ja": "非常に緻密で、まるでゲームの設定のようです。本当にかっこいいですね。"
+    },
+    {
+      "title": "ShatterRush is a Titanfall-Inspired Multiplayer Parkour FPS",
+      "url": "https://80.lv/articles/shatterrush-is-a-titanfall-inspired-multiplayer-parkour-fps/",
+      "summary": "<p>You can play the demo now!</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-04-04T06:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/39549/images/69cbf9f0df3d4/cover_800x800.jpg",
+      "title_ja": "ShatterRush は Titanfall からインスピレーションを得たマルチプレイヤー パルクール FPS",
+      "summary_ja": "今すぐデモをプレイできます!"
+    },
+    {
+      "title": "「プロセカ」，フロイライン＝オジョウサマを5.5周年記念楽曲追加キャンペーンで実装",
+      "url": "https://www.4gamer.net/games/476/G047609/20260403054/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T06:00:00",
+      "image_url": "https://www.4gamer.net/games/476/G047609/20260403054/SS/002.jpg",
+      "body_ja": "リリース\n「プロセカ」，フロイライン＝オジョウサマを5.5周年記念楽曲追加キャンペーンで実装\n| プロジェクトセカイ カラフルステージ！ feat. 初音ミク プロジェクトセカイ カラフルステージ！ feat. 初音ミク | |||\n| 配信元 | セガ | 配信日 | 2026/04/04 |\n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「フロイライン＝オジョウサマ」をリズムゲーム楽曲として追加！\n株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都渋谷区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プロジェクトセカイ カラフルステージ！ feat. 初音ミク（以下、プロジェクトセカイ）』について、2026年4月4日（土）より、「5.5周年記念楽曲追加キャンペーン」として新たに「フロイライン＝オジョウサマ」（作詞・作曲：nyanyannya（大天才P））をリ"
+    },
+    {
+      "title": "［インタビュー］インディーゲームの現場の声から設計されたMIXIの海外支援。「LVLZero Tokyo」が後押しする“世界への最初の一歩”",
+      "url": "https://www.4gamer.net/games/999/G999905/20260331037/",
+      "summary": "MIXIGlobalInvestmentsによるインディーゲーム海外展開支援プログラム「LVLZeroTokyo」は，インディーゲームの現場の声を反映して設計されているという。では，その“現場の声”とは何か。設立の経緯とともに，本プログラムを立ち上げた占部友春氏と，MIXIの“インディーゲーム開発部”メンバーに話を聞いた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T03:00:00",
+      "image_url": "https://www.4gamer.net/games/999/G999905/20260331037/SS/009.jpg",
+      "body_ja": "企画記事\n［インタビュー］インディーゲームの現場の声から設計されたMIXIの海外支援。「LVLZero Tokyo」が後押しする“世界への最初の一歩”\n日本のインディーゲームを世界市場へ送り出すことを目的に，ローカライズや情報発信，海外パブリッシャとの接点づくりなどを，約3か月・100日間のメンタリングで支援する。グローバルに挑戦したい開発者やスタートアップを対象に，現在第I期プログラムのエントリーを受付中だ（2026年4月25日まで）。\nMIXI，インディー・新興ゲーム開発の海外展開を支援する「LVLZero Tokyo」を開始。第I期エントリー受付は2026年4月25日まで\nMIXIの投資子会社・MIXI Global Investmentsは本日（2026年4月2日），インディーゲーム開発者の海外展開を支援する「LVLZero Tokyo」を発表した。100日間のメンタリングを通じてグローバル市場への挑戦をサポートする実践的な施策で，発表に合わせて第I期プログラムのエントリー受付が"
+    },
+    {
+      "title": "結のほえほえゲーム演説：第262回「オーバーウォッチ，パラノマサイト……最近プレイしているゲームの話」",
+      "url": "https://www.4gamer.net/games/326/G032635/20260402042/",
+      "summary": "「オーバーウォッチ」をプレイし始めておよそ1年，今もハマりっぱなしだという結さん。今回の「ほえほえゲーム演説」は，ついに「オーバーウォッチ」でシルバーにたどり着いた話と，クリアしたあのゲーム，これからプレイしたいあのゲームのシリーズ最新作の話をします。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T03:00:00",
+      "image_url": "https://www.4gamer.net/games/326/G032635/20260402042/SS/003.jpg",
+      "body_ja": "連載\n結のほえほえゲーム演説：第262回「オーバーウォッチ，パラノマサイト……最近プレイしているゲームの話」\n入学，入社，引っ越し……春から新生活が始まる皆さんにエールを送りつつ，相変わらず寝ても覚めてもゲームをしている私が最近ハマっているゲーム，クリアしたゲーム，これから遊びたいゲームについてお話していきたいと思います。新社会人の君たちへ，世の中にはこんな大人もいるんだよ。\nオーバーウォッチにハマりっぱなし\n「オーバーウォッチ」にハマってそろそろ1年。新ヒーローも続々と登場し，いま大いに盛りあがっているオーバーウォッチで，私が使用しているヒーローは……。\n（ドラムロール音）\nジャジャーン！ 相変わらずトールビョーン！\nミズキでスイッチを入れたり，ジェットパック・キャットでニャーニャーしたりに憧れる日もあります。新ヒーロー人気ですよね。うん。「ニーア オートマタ」コラボで思わず購入してしまったキリコの2B衣装を使いたい気持ちもあります。うん。\nしかしそれでもトールビョーンが楽しくてやめら"
+    },
+    {
+      "title": "ドラえもんと仲間達のスイーツ開拓史。ピクセルアートの藤子・F・不二雄ワールドのキャラが総登場する「ドラえもんのどら焼き屋さん物語+」（今日から始めろApple Arcade #66）",
+      "url": "https://www.4gamer.net/games/988/G098829/20260401058/",
+      "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上ものゲームの中から毎回1本をチョイスし，オススメポイントを紹介していく。第66回では，「ドラえもんのどら焼き屋さん物語+」を紹介する。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T02:00:00",
+      "image_url": "https://www.4gamer.net/games/988/G098829/20260401058/SS/026.jpg",
+      "body_ja": "プレイレポート\nドラえもんと仲間達のスイーツ開拓史。ピクセルアートの藤子・F・不二雄ワールドのキャラが総登場する「ドラえもんのどら焼き屋さん物語+」（今日から始めろApple Arcade #66）\n「Apple Arcade」は，Appleが月額900円（税込）でiPhone / iPad / Mac / Apple TV / Apple Vision向けに提供している，ゲームのサブスクリプションサービスだ。\nこの連載では，広告やゲーム内課金なしでプレイできるタイトルが現在200種類以上配信されているこのサービスの中から，4Gamerがチョイスしたタイトルを紹介していく。\n第66回では，ドラえもんとのび太が仲間達と一緒にどら焼き屋さんを営む，「ドラえもんのどら焼き屋さん物語+」を紹介しよう。\n「ドラえもんのどら焼き屋さん物語+」\nオススメポイント\n1.ドラえもんとのび太が営む和菓子屋繁盛記\n2.素材を集めて和洋のスイーツを創作する楽しみ\n3.緻密なドット絵で描かれる藤子・F・不二雄ワー"
+    },
+    {
+      "title": "「『アイカツ！シリーズ』オーケストラコンサート『オケカツ！』」の，これまでの歩み。そして，次なるステージへ",
+      "url": "https://www.4gamer.net/games/178/G017853/20260401042/",
+      "summary": "「アイカツ！シリーズ」の楽曲をフルオーケストラの生演奏で届ける『オケカツ！』。2019年の初演から進化を続けてきた歴史を振り返る。そして，過去最多8名の歌唱担当が集結する2026年5月の最新公演に向けた期待と展望をお届けしよう。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-04T01:00:00",
+      "image_url": "https://www.4gamer.net/games/178/G017853/20260401042/SS/006.jpg",
+      "body_ja": "イベント\n「『アイカツ！シリーズ』オーケストラコンサート『オケカツ！』」の，これまでの歩み。そして，次なるステージへ\nこれまで無観客収録を含め，形を変えながら4回にわたって開催されてきた『オケカツ！』。今回は，あらためてその軌跡を振り返るとともに，目前に迫った新たなステージへの展望をお届けしたい。\n始まりの音色――第1回公演（2019年）\n記念すべき第1回は，2019年2月に昭和女子大学人見記念講堂で開催された。指揮・水戸博之氏，管弦楽・東京交響楽団という本格的な布陣に，アレンジャーの穴沢弘慶氏が手がけたオーケストラアレンジが光った。\nちなみに水戸氏は，これまでの『オケカツ！』全公演，そして次回公演でも指揮を担当。水戸氏なしには『オケカツ！』は成立しないのでは？ と言っても過言ではない存在だ。\n第1回公演では歌唱担当によるライブパフォーマンスは行われなかったものの，ゲストMCとして『アイカツフレンズ！』から友希あいね役の松永あかねさん，湊みお役の木戸衣吹さんが登壇。\n作中で日常的に耳にし"
     },
     {
       "title": "MechWarrior dev Piranha Games lays off 30% of staff, says CEO",
@@ -175,7 +321,7 @@
       "lang": "en",
       "published": "2026-04-03T14:20:24",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3825fdf3a03a3093/69cfcd8e458ccedffd89613b/Raul_Bautista_01.jpg?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "レポート: Take-Two が AI 責任者と複数のチームメンバーを解雇 |9 月| Take-Two の AI 責任者は、伝えられるところによると、同社での彼の時間は「終わりを迎えた」と述べています。",
+      "title_ja": "レポート: Take-Two が AI の責任者と複数のチームメンバーを解雇 |9 月| Take-Two の AI 責任者は、伝えられるところによると、同社での彼の時間は「終わりを迎えた」と述べています。",
       "summary_ja": ""
     },
     {
@@ -199,17 +345,6 @@
       "published": "2026-04-03T14:00:00",
       "image_url": "https://www.4gamer.net/games/875/G087523/20260403039/SS/004.jpg",
       "body_ja": "ニュース\n水没した終末世界が舞台の海上都市建設シム「崩壊都市」，Steamでリリース。崩れないようにバランスを保ちつつ，資材を積み上げよう\n本作は，地面が水没した終末世界を舞台に，人類最後の拠点を築く海上都市建設シミュレーションゲームだ。3D物理演算が採用されており，むやみに資材を積み上げると建物が崩れてしまう。\nまた，全員を公平に扱うべきか，恐怖で人々を支配すべきかなど，人間関係を管理するための判断も求められる。\n多彩なシナリオや目標を収録し，シングルプレイヤーキャンペーンだけでなく，マップエディターやサンドボックスモードも備えている。\n- 関連タイトル：\n崩壊都市\n- この記事のURL："
-    },
-    {
-      "title": "「Age of Empires IV」，最新DLC「岳飛の遺産」を5月7日にリリース。火薬を操る固有ユニットを持つ新文明「金王朝」が登場",
-      "url": "https://www.4gamer.net/games/391/G039193/20260403062/",
-      "summary": "World'sEdgeとXboxGameStudiosは本日（2026年4月3日），歴史RTS「AgeofEmpires」シリーズの大会「RedBullWololo:Londinium」で，最新作「AgeofEmpiresIV」の最新DLC「岳飛の遺産」を5月7日にリリースすると発表した。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T13:55:04",
-      "image_url": "https://www.4gamer.net/games/391/G039193/20260403062/SS/006.jpg",
-      "body_ja": "ニュース\n「Age of Empires IV」，最新DLC「岳飛の遺産」を5月7日にリリース。火薬を操る固有ユニットを持つ新文明「金王朝」が登場\n「岳飛の遺産」は，中国における新文明「金王朝」（Jin Dynasty），4つの新マップ，新バイオームに加えて，岳飛の戦いをモチーフとする8つのミッションからなるキャンペーンを収録した最新DLCだ。\n金王朝は強力な軍事力を持つ文明で，中立集落の確保や，騎馬の扱いを得意としている。終盤には火薬要素が利用できるのも特徴だ。固有ユニット「騎乗擲弾兵」「鉄塔」「噴火器」はいずれも火薬を用い，うまく運用すれば壊滅的な範囲攻撃を叩き込めるという。\n今回の発表に合わせて，各ストアではプレオーダーがスタートしている。価格は1980円（税込）で，5月8日までは15％オフの1683円（税込）で購入可能だ。Steamストアページでは日本語の紹介テキストが用意されているので，興味を持った人はチェックしてみよう。\n- 関連タイトル：\nAge of Empires IV"
     },
     {
       "title": "Free Tool To Simplify Houdini Libraries Installation",
@@ -248,17 +383,6 @@
       "summary_ja": "Running With Scissors の創設者兼 CEO である Vince Desi が、1996 年に Postal ゲームがどのように始まったのか、ゲームに関する論争について話してくれました。また、ゲーム市場やディストリビューションについても語りました。"
     },
     {
-      "title": "「雀魂-じゃんたま-」×「ソードアート・オンライン」コラボ大会が4月10日から開催へ。予選を突破し，最奥で待つ“ボス”ことプロ雀士に挑め",
-      "url": "https://www.4gamer.net/games/456/G045646/20260403060/",
-      "summary": "Yostarは本日（2026年4月3日），同社によるオンライン麻雀ゲーム「雀魂-じゃんたま-」で，アニメ「ソードアート・オンライン」とのコラボを記念した大会「AINCRADMAHJONGSOULONLINE」の開催を発表し，イベント特設サイトを公開した。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T12:50:31",
-      "image_url": "https://www.4gamer.net/games/456/G045646/20260403060/SS/001.jpg",
-      "body_ja": "ニュース\n「雀魂-じゃんたま-」×「ソードアート・オンライン」コラボ大会が4月10日から開催へ。予選を突破し，最奥で待つ“ボス”ことプロ雀士に挑め\n本大会では，さまざまな戦いを通じてダンジョン踏破を目指す，「ソードアート・オンライン」の世界観をイメージした形式が採用されている。オンライン予選で少しずつ人数が絞られ，最期に勝ち上がった3名は“ボス”であるプロ雀士，ゲストVTuberとの戦いに挑むことになる。\n大会優勝者や上位進出者には豪華賞品と賞金がプレゼントされるほか，各ダンジョン突破や決勝配信視聴でもゲーム内アイテム報酬の獲得チャンスが用意されているとのこと。プロ雀士はオンライン予選階層にも出現するため，運次第で誰でもトッププロとの対局に挑戦できる。\n| 内容 | 日程 | ルール |\n|---|---|---|\n| オンライン予選1 | 4月10日15:00〜 4月13日21:00 |\n大会戦 連続5戦 突破：合計得点の上位1000位 |\n| オンライン予選2 | 4月15日15:0"
-    },
-    {
       "title": "Have a Look at New Trailer of The Ghost In The Shell Anime Series",
       "url": "https://80.lv/articles/have-a-look-at-new-trailer-of-the-ghost-in-the-shell-anime-series/",
       "summary": "<p>The project, created by Science SARU, will premiere in July 2026.</p>",
@@ -293,74 +417,6 @@
       "image_url": "https://sm.ign.com/ign_jp/news/p/project-ha/project-hail-mary-is-doing-so-well-at-the-box-office-that-th_z7xb.png"
     },
     {
-      "title": "「ドラクエウォーク」，リアルおみやげプロジェクトの新コラボ商品「スライムまんじゅう」を発表。4月17日〜7月31日の期間で販売予定",
-      "url": "https://www.4gamer.net/games/461/G046174/20260403058/",
-      "summary": "スクウェア・エニックスは本日（2026年4月3日），スマートフォン向け位置情報RPG「ドラゴンクエストウォーク」に登場する“おみやげ”を再現する「リアルおみやげプロジェクト」の新コラボ商品「スライムまんじゅう」を発表した。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T11:55:17",
-      "image_url": "https://www.4gamer.net/games/461/G046174/20260403058/SS/001.jpg",
-      "body_ja": "ニュース\n「ドラクエウォーク」，リアルおみやげプロジェクトの新コラボ商品「スライムまんじゅう」を発表。4月17日〜7月31日の期間で販売予定\n| 商品情報 | |\n|---|---|\n| 商品名 | スライムまんじゅう |\n| 内容量 | 3個入り |\n| 商品価格 | 972円（税込） |\n| 販売期間 | 2026年4月17日〜7月31日 |\n本商品は，リアルおみやげプロジェクトの“愛知編”で「スライムういろう」を手掛けた愛知県の青柳総本家との共同開発による新商品だ。人気商品「カエルまんじゅう」を元に作り上げられた商品で，1パッケージにスライムの姿を再現したまんじゅうが3つ封入される。\n販売は愛知県内の青柳総本家直営店舗や，公式オンラインショップに加えて，4月18日と19日に開催される「DQウォーキング＜中部＞」の物販コーナーでも販売される予定だ。\nなお，3月12日に復刻発売された「スライムういろう」については，6月14日まで復刻販売が行われている。各商品の詳細については，先に掲載し"
-    },
-    {
-      "title": "pixiv，自身のアバターでダンス動画を無料で制作できるアプリ「VEAT」のPC版をSteamでリリース。「超かぐや姫！」とのコラボコンテンツも配信",
-      "url": "https://www.4gamer.net/games/996/G099637/20260403059/",
-      "summary": "pixivは2026年4月2日，動画制作ツール「VEAT」のPC版をSteamでリリースした。基本プレイは無料で，アイテム課金方式となっている。本アプリは，3Dモデルと楽曲，ダンスモーション，ステージ，カメラ演出を組み合わせ，パフォーマンス動画を制作できるツールだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T11:52:50",
-      "image_url": "https://www.4gamer.net/games/996/G099637/20260403059/SS/001.jpg",
-      "body_ja": "ニュース\npixiv，自身のアバターでダンス動画を無料で制作できるアプリ「VEAT」のPC版をSteamでリリース。「超かぐや姫！」とのコラボコンテンツも配信\n本アプリは，3Dモデルと楽曲，ダンスモーション，ステージ，カメラ演出を組み合わせ，パフォーマンス動画を制作できるツールだ。複雑な知識や技術は必要無く，pixivが運営する3Dモデル投稿・共有サービス「VRoid Hub」からモデルデータを読み込むことで，自身のアバターでオリジナルの映像を作り出せる。\nもともとスマートフォン向けにリリースされていたアプリだが，Steam版ではPCにあわせた操作性の改修が行われ，より快適に制作できるようになっているという。\nまた，リリースに合わせて，Netflix映画「超かぐや姫！」とのコラボもスタートしている。「Ex-Otogibanashi」「私は、わたしの事が好き。」「ワールドイズマイン CPK! Remix」「メルト CPK! Remix（初音ミク ver.）」の4曲に乗せて，コラボテンプレー"
-    },
-    {
-      "title": "Elevate Your Productivity with This Scattering Plugin for Blender",
-      "url": "https://80.lv/articles/elevate-your-productivity-with-this-scattering-plugin-for-blender/",
-      "summary": "<p>Geo-Scatter is the choice of thousands of artists.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-04-03T11:40:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39601/images/69cfa72c16179/cover_800x800.jpg",
-      "title_ja": "Blender 用のスキャッタリング プラグインで生産性を向上",
-      "summary_ja": "Geo-Scatter は何千人ものアーティストに選ばれています。"
-    },
-    {
-      "title": "音楽が魔法になる世界で，魔法大学の学生としてスローライフを楽しむ。オープンワールドRPG「Songs of Glimmerwick」，ゲームプレイトレイラーを公開",
-      "url": "https://www.4gamer.net/games/996/G099636/20260403056/",
-      "summary": "EastshadeStudiosは，開発中の新作タイトル「SongsofGlimmerwick」のゲームプレイトレイラーを公開した。本作は，音楽が魔法として機能する世界観を持つオープンワールドRPGだ。トレイラーではゲームプレイ映像に加え，ストーリーに関する情報も確認できる。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T11:38:26",
-      "image_url": "https://www.4gamer.net/games/996/G099636/20260403056/SS/010.jpg",
-      "body_ja": "ムービー\n音楽が魔法になる世界で，魔法大学の学生としてスローライフを楽しむ。オープンワールドRPG「Songs of Glimmerwick」，ゲームプレイトレイラーを公開\n本作は，魔法大学で知られるグリマーウィックを舞台としたRPGだ。プレイヤーは魔法大学に通う学生となり，日常生活を送りながら，さまざまな出来事に関わっていく。なお，同スタジオの前作「Eastshade」も芸術をテーマとしていたが，本作ではその題材が絵画から音楽になっている。\n本作の世界観では，歌うことが呪文の詠唱に直結しており，あらゆる楽曲が呪文として機能する。音楽の力を使って木々と会話したり，地形を変化させて道を切り拓いたりと，探索や生活のさまざまな場面で活用される。また，大学の庭園の手入れといった日常的な作業にも音楽が用いられるという。\nゲームはオープンワールド形式を採用しており，プレイヤーはフルートや歌の本を携えて行動する。授業への出席や課外活動への参加，同級生や町の住民との交流などを通じて関係を築きながら，この"
-    },
-    {
-      "title": "「ぼくらのキングダム 時食む果実といにしえの魔物」，購入者向け抽選会を4月25日に秋葉原で開催。参加賞として発売記念ポストカードも配布予定",
-      "url": "https://www.4gamer.net/games/967/G096762/20260403052/",
-      "summary": "インティ・クリエイツは本日，2026年4月23日に発売予定のアクションRPG「ぼくらのキングダム時食む果実といにしえの魔物」のパッケージ版購入者を対象とした抽選会を，4月25日にトレーダー秋葉原2号店で開催すると発表した。また，会場では「白き鋼鉄のX1+2デュアルコレクション」の体験会も実施される予定だ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-03T11:33:46",
-      "image_url": "https://www.4gamer.net/games/967/G096762/20260403052/SS/002.jpg",
-      "body_ja": "ニュース\n「ぼくらのキングダム 時食む果実といにしえの魔物」，購入者向け抽選会を4月25日に秋葉原で開催。参加賞として発売記念ポストカードも配布予定\n抽選会は，どの店舗で購入しても対象となり（購入を証明できるものが必要），景品にはダイカットクッションやミニタオル，シールなどが用意される。参加賞として，発売記念ポストカードも配布される予定だ。\nまた，会場では，7月9日に発売予定のアクションゲーム「白き鋼鉄のX 1+2 デュアルコレクション」（PC / Switch2 / PS5 / Switch）の店頭体験会も実施される。体験会では，ゲーム冒頭の「ピラー周辺」を最大10分間試遊できる。試遊した人には缶バッジ（全2種のうち1つ）がプレゼントされるという。\nなお，白き鋼鉄のX 1+2 デュアルコレクションの通常版/限定版を予約している人（予約を証明できるものが必要），またはその場で予約した人は，販促用のB2ポスターをもらえる。\n詳細は，次ページのリリース文で確認してほしい。\n- 関連タイトル："
-    },
-    {
-      "title": "Building Defensive Sand Walls In Relaxing Sandbox Game",
-      "url": "https://80.lv/articles/building-defensive-sand-walls-in-relaxing-sandbox-game/",
-      "summary": "<p>A new Sandcastle demo.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-04-03T11:08:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39600/images/69cf9fcbc91af/cover_800x800.jpg",
-      "title_ja": "リラックスできるサンドボックス ゲームで防御的な砂の壁を構築",
-      "summary_ja": "新しいサンドキャッスルのデモ。"
-    },
-    {
       "title": "5本だけ選べ！映画初心者のための最強スターターパックを作ろう：第430回 音声版 銀幕にポップコーン",
       "url": "https://jp.ign.com/ginmaku-podcast/83088/podcast/5430",
       "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/blob_2r67.640.jpg\" vspace=\"5\" width=\"120\" />\n洋画ファン倍増計画！ 今回は、巷にあふれる「名作ランキング」をいったん無視し、これから映画を見始めるビギナーに「入口」として本当におすすめしたいスターターパックを、5本縛りで選んでみた。編集部・千葉は映画ファンになってくれるのか？ 視聴者のみなさんが作ったスターターパックもぜひ、コメントで教えてほしい。  ■トークに出てきた主な映画",
@@ -389,32 +445,8 @@
       "lang": "en",
       "published": "2026-04-03T10:33:42",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt0e4e965bd74eef74/69cf98dcc6668262a09ba2e1/Patch_Notes_46.png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "エンブレイサーの人員削減、任天堂の特許問題、ベイビーステップはアンチャーテッドの続編なのか？ - パッチノート #46 |9月|さらに: スーパー マリオ ギャラクシー ムービーのバンパー オープニングとリミット ブレイク メンターシップ プログラムが復活します。",
+      "title_ja": "エンブレイサーの人員削減、任天堂の特許問題、そして『ベイビーステップ』は『アンチャーテッド』の続編なのか？ - パッチノート #46 |9月|さらに: スーパー マリオ ギャラクシー ムービーのバンパー オープニングとリミット ブレイク メンターシップ プログラムが復活します。",
       "summary_ja": ""
-    },
-    {
-      "title": "Artist Unveils Spatial Gothic-Style Cathedral Environment",
-      "url": "https://80.lv/articles/artist-unveils-spatial-gothic-style-cathedral-environment/",
-      "summary": "<p>GYP shared their artwork created at NetDragon.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-04-03T10:30:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39597/images/69cf96d390594/cover_800x800.jpg",
-      "title_ja": "アーティストがゴシック様式の大聖堂の空間環境を公開",
-      "summary_ja": "GYP は NetDragon で作成したアートワークを共有しました。"
-    },
-    {
-      "title": "Polygoniq Presents Flexible Humans That Can Heal You (Or Your Workflow) from Blender",
-      "url": "https://80.lv/articles/polygoniq-presents-flexible-humans-that-can-heal-you-or-your-workflow-from-blender/",
-      "summary": "<p>\"Your spine. Your choice.\"</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-04-03T10:07:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39598/images/69cf920e41b15/cover_800x800.jpg",
-      "title_ja": "Polygoniq は、Blender からあなた (またはあなたのワークフロー) を癒すことができる柔軟な人間を紹介します",
-      "summary_ja": "「あなたの背骨。あなたの選択です。」"
     },
     {
       "title": "スティーヴン・スピルバーグ、宇宙人に関する長年の疑問に「納得のいく答えが出た」と語る 新作『ディスクロージャー・デイ』を通して",
@@ -425,18 +457,6 @@
       "lang": "ja",
       "published": "2026-04-03T09:48:51",
       "image_url": "https://sm.ign.com/ign_jp/news/i/if-i-could/if-i-could-know-i-would-want-to-know-steven-spielberg-says-h_3bxv.jpg"
-    },
-    {
-      "title": "Sony Acquires Machine Learning Company To \"Enhance Gameplay\"",
-      "url": "https://80.lv/articles/sony-acquires-machine-learning-company-to-enhance-gameplay/",
-      "summary": "<p><span>Its team will be joining Sony's R&amp;D division, the Visual Computing Group.</span></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-04-03T09:24:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39596/images/69cf87459ece4/cover_800x800.jpg",
-      "title_ja": "ソニー、「ゲームプレイの強化」を目的に機械学習会社を買収",
-      "summary_ja": "そのチームはソニーの研究開発部門であるビジュアルコンピューティンググループに加わることになる。"
     },
     {
       "title": "『SHINOBI 復讐の斬撃』による華麗なIP復活 開発にあたってキーマン2人が信じたものとは？",
@@ -527,26 +547,6 @@
       "summary_ja": ""
     },
     {
-      "title": "マリオ愛に溢れているが、感情移入できる物語が不足している『ザ・スーパーマリオギャラクシー・ムービー』レビュー",
-      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83073/review/",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/t/the-super-/the-super-mario-galaxy-movie-review_byxx.640.jpg\" vspace=\"5\" width=\"120\" />オマージュだけで優れた映画はできるのか？\n<p>あの愛らしいミニオンたちを世に送り出したイルミネーションが、最もアイコニックなゲームフランチャイズのひとつに再び挑む――それが『ザ・スーパーマリオギャラクシー・ムービー』だ。前作<a href=\"https://jp.ign",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-04-02T11:20:00",
-      "image_url": "https://sm.ign.com/ign_jp/review/t/the-super-/the-super-mario-galaxy-movie-review_byxx.jpg"
-    },
-    {
-      "title": "『ザ・スーパーマリオギャラクシー・ムービー』画像ギャラリー",
-      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83086/gallery/",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/2570-fp-1144441u-00088906_223k.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-04-02T11:00:40",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/2570-fp-1144441u-00088906_223k.jpg"
-    },
-    {
       "title": "Goat Simulator maker Coffee Stain shutters Malmo studio",
       "url": "https://www.gamedeveloper.com/business/goat-simulator-maker-coffee-stain-shutters-malmo-studio",
       "summary": "The mobile studio comprised 17 employees.",
@@ -571,6 +571,6 @@
       "summary_ja": ""
     }
   ],
-  "last_updated": "2026-04-04T07:32:56.079368+09:00",
+  "last_updated": "2026-04-05T07:31:04.752017+09:00",
   "count": 50
 }
