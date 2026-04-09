@@ -1,24 +1,383 @@
 {
   "articles": [
     {
-      "title": "検索のゼロクリック率が6割超。250万人の行動ログが示す、選ばれるコンテンツの条件【AI時代の企業発信サミット2026 調査レポートセッション】",
-      "url": "https://webtan.impress.co.jp/e/2026/04/09/52380",
-      "summary": "<div class=\"field--name-body\">\n<!-- .notecom -->\n\n\n\n<div class=\"bancho-clone notecom\">\n<!-- notecomコンテンツここから -->\n\n  <div class=\"kakomi-plain narrow2\">\n\n    <p>noteの許諾を得て、Web担で掲載しています。オリジナル記事はこちら →<a href=\"https://biz.note.com/n/n5d2d08475b54\" rel=\"noopener\" target=\"_blank\"><span class=\"yn-ignore\">ht",
+      "title": "2026年でもウェブサイトはまだ必要？ アプリ・ソーシャル・AIで置き換えられるんじゃ？【SEOまとめ】",
+      "url": "https://webtan.impress.co.jp/e/2026/04/10/52457",
+      "summary": "<div class=\"field--name-body\">\n<div class=\"aki-topbottom2 narrow2\">\n\n\n<div class=\"image-box-center\" style=\"width: 600px;\">\n<img alt=\"挿絵\" class=\"img-responsive  no-lazyload\" height=\"315\" src=\"https://webtan.impress.co.jp/sites/default/files/u/4177/20260410.png\" width=\"600\" />\n<div class=\"caption-bott",
       "source": "Web担当者Forum",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-04-08T22:05:00",
-      "image_url": "https://assets.st-note.com/production/uploads/images/259583881/rectangle_large_type_2_8c3a938f9d8f264b3e50de7895d6388c.jpeg?width=1280"
+      "published": "2026-04-09T22:05:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/u/4177/20260410.png"
     },
     {
-      "title": "ヒートマップ×A/Bテストで改善を繰り返し、問い合わせ数2倍・電話CV3倍に！",
-      "url": "https://webtan.impress.co.jp/e/2026/04/09/52290",
-      "summary": "<div class=\"field--name-body\">\n<div class=\"image-box-center\">\n\n  <figure class=\"image\">  \n                  <source height=\"252\" media=\"(max-width: 480px)\" type=\"image/avif\" width=\"480\" />\n              <source height=\"315\" media=\"(min-width: 480px)\" type=\"image/avif\" width=\"600\" />\n              <s",
+      "title": "ハードルが低いって本当!? デジタル化・AI導入補助金の申請方法を、行政書士の辰巳優子先生に聞いてきた",
+      "url": "https://webtan.impress.co.jp/e/2026/04/10/52255",
+      "summary": "<span class=\"field--name-title\">ハードルが低いって本当!? デジタル化・AI導入補助金の申請方法を、行政書士の辰巳優子先生に聞いてきた</span>\n<span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/3627\" title=\"ユーザープロフィールの表示\">hoshii</a></span>\n<span class=\"field--name-created\"><time datetime=\"2026-04-10T07:05:00+09:00\" title=\"202",
       "source": "Web担当者Forum",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-04-08T22:05:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/article2016/faber_contents/2026/faber_contents_yamashita_ogp.jpg?itok=c0SPuPmI"
+      "published": "2026-04-09T22:05:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/article2012/hoshii/hoshii_title_86.png"
+    },
+    {
+      "title": "AIの損害賠償はどう解釈?　経産省が現行法の考え方をまとめた「手引き」を公表",
+      "url": "https://webtan.impress.co.jp/n/2026/04/10/52472",
+      "summary": "<div class=\"field--name-field-brief-desc\">「AI利活用における民事責任の解釈適用に関する手引き」、当事者の予測可能性向上</div>\n      \n            <div class=\"field--name-body\">\n<p>経済産業省は4月9日、AIサービスの利用時に損害が発生した場合の民事責任の考え方を整理した「AI利活用における民事責任の解釈適用に関する手引き」を公表した。手引は、AIを用いたサービスやシステムの事故の想定事例を題材にして検討。AI利用の形態に応じた2つの類型（「補助／支援型AI」、「依拠／代替型AI」）に整理し、当",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-09T22:03:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0410_meti01.jpg?itok=MSHIscgt"
+    },
+    {
+      "title": "Hakuhodo DY ONEがAIエージェントと業務システムをつなぐMCP導入支援を提供開始",
+      "url": "https://webtan.impress.co.jp/n/2026/04/10/52471",
+      "summary": "<div class=\"field--name-field-brief-desc\">安全かつ管理可能な全体設計から運用まで、セキュリティ・ガバナンス対策を支援</div>\n      \n            <div class=\"field--name-body\">\n<p>博報堂DYグループでデジタルマーケティングサービス事業のHakuhodo DY ONEは、AIエージェントと外部データや業務システムをつなぐ「MCP」の導入支援を開始すると4月9日に発表した。MCP導入を設計から実装・運用まで一貫してサポートする。AIエージェントの業務適用が急速に進む中で顕在化したセキュリティ・ガバナン",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-09T22:02:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0410_hakuhododyone.png?itok=oKT52CKA"
+    },
+    {
+      "title": "Salesforceが中小企業向けCRMの全プランにAIエージェント「Agentforce」を統合",
+      "url": "https://webtan.impress.co.jp/n/2026/04/10/52470",
+      "summary": "<div class=\"field--name-field-brief-desc\">「Slack CRM」「Tableau無料版」も提供開始、AIと分析ツールの導入ハードル下げる</div>\n      \n            <div class=\"field--name-body\">\n<p>CRM(顧客関係管理)ソリューション事業の米国Salesforceの日本法人、セールスフォース・ジャパンは、中堅・中小企業とスタートアップ向け製品を刷新したと4月9日に発表した。AIエージェントプラットフォーム「Agentforce」を中小企業向けCRMプラットフォーム「Salesforceスイート」",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-09T22:01:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/news2026/0410_salesforce01.jpg"
+    },
+    {
+      "title": "管理職＝罰ゲーム!? 実は過半数が昇進忌避【労務SEARCH調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/04/10/52468",
+      "summary": "<div class=\"field--name-field-brief-desc\">理由のトップは「責任・プレッシャーの増大」。</div>\n      \n            <div class=\"field--name-body\">\n<p>エフアンドエムネットの「労務SEARCH」は、「中間管理職」に関する調査結果を発表した。企業で働く男女300人が回答している。</p>\n\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n\n  <p>関連記事</p>\n\n  <ul class=\"aki-topbottom05\">\n ",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-09T21:30:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0408_fandmnet_01.jpg?itok=YvQ66TJ3"
+    },
+    {
+      "title": "出社を増やしても“孤立感”は消えない？ フル出社でも「情報共有の滞り」がストレス1位【テレリモ総研調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/04/10/52459",
+      "summary": "<div class=\"field--name-field-brief-desc\">コロナ後もテレワークがいい？ 出社したい？ 職場での悩みを働き方別に調査。</div>\n      \n            <div class=\"field--name-body\">\n<p>LASSICが運営するテレリモ総研は、「職場での不調要因と価値観の変化に関する調査」を実施した。20歳〜65歳のテレワーク経験者1,009名を対象に調べている。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n<p>関連記事</p>\n<ul c",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-09T21:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0406_lassic_01.png?itok=zNSXE8DT"
+    },
+    {
+      "title": "Study links data centres to heat island effects worldwide",
+      "url": "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
+      "summary": "<p>A group of scientists has claimed a pronounced heat island phenomenon correlated with the development of data centres in an early study, speculating on the heat's \"remarkable influence on communities and regional welfare\". The non-peer-reviewed paper, published by a group of nine researchers affi",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T19:00:41",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/data-centre-columbus-ohio-shutterstock_dezeen_2364_sq-1-411x411.jpg",
+      "title_ja": "データセンターと世界中のヒートアイランド現象との関連性に関する研究",
+      "summary_ja": "科学者のグループは、初期の研究で顕著なヒートアイランド現象がデータセンターの発展と相関していると主張し、熱の「顕著な影響」を推測している"
+    },
+    {
+      "title": "Dezeen Agenda features the completed Frank Lloyd Wright Fallingwater renovation",
+      "url": "https://www.dezeen.com/2026/04/09/frank-lloyd-wright-fallingwater-renovation-dezeen-agenda/",
+      "summary": "<p>The latest edition of our weekly Dezeen Agenda newsletter features the conclusion of the Fallingwater conservancy plan. Subscribe to Dezeen Agenda now. The Western Pennsylvania Conservancy has confirmed the completion of the three-year Fallingwater restoration plan by New York-based Architectural",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T18:00:45",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/fallingwater-western-pennsylvania-conservancy-architectural-preservation-studio_dezeen_2364_sq-411x411.jpg",
+      "title_ja": "Dezeen Agenda では、完成したフランク ロイド ライト落水荘の改修工事が特集されています",
+      "summary_ja": "毎週の Dezeen Agenda ニュースレターの最新版では、落水荘保護計画の結論について特集しています。今すぐ Dezeen アジェンダを購読してください。ウェスタン・ペンシルベニア・コン"
+    },
+    {
+      "title": "Omar Gandhi Architects cascades cedar lake house down Canadian hillside",
+      "url": "https://www.dezeen.com/2026/04/09/cedars-kin-omar-gandhi-cedar-lake-house-canada/",
+      "summary": "<p>Toronto-based studio Omar Gandhi Architects has completed a lakefront house out of a series of rotated, cedar-clad volumes that respond directly to the orientation of the site and its trees. Known as Cedar's Kin, the 465-square-metre (5,000-square-foot) programme is spread over a steep, wooded sl",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T17:00:55",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/cedars-kin-omar-gandhi-cedar-lake-house-canada_dezeen_2364_sq_0-411x411.jpg",
+      "title_ja": "オマール・ガンジー建築家がカナダの丘の中腹に杉の湖の家をカスケード接続",
+      "summary_ja": "トロントを拠点とするスタジオ、オマール・ガンジー・アーキテクツは、敷地の方向に直接反応する一連の回転した杉材で覆われたボリュームから湖畔の家を完成させた。"
+    },
+    {
+      "title": "Casa Eme by gon architects Bridges Simplicity and Spark",
+      "url": "https://design-milk.com/casa-eme-by-gon-architects-bridges-simplicity-and-spark/",
+      "summary": "Bold, refined, and practical, Casa Eme pairs scarlet red butterfly doors with blue metal walls, and cool green vertical tile.",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-04-09T15:00:25",
+      "title_ja": "gon アーキテクツによる Casa Eme シンプルさとスパークの橋",
+      "summary_ja": "大胆で洗練され、実用的なカーサ エメは、緋色のバタフライ ドアと青い金属の壁、クールな緑色の垂直タイルを組み合わせています。",
+      "image_url": "https://design-milk.com/images/2026/04/Casa-EME-Gon-Architects-11.jpg",
+      "body_ja": "記憶には強力な力があります。どこにいても、遠い昔の場所と時間が予期せず浮かび上がってきて、すぐに何かを呼び起こすことがあります。さわやかで明るい Casa EME は、まさにそのような認識から始まります。別の人生、別の瞬間に結びついたつかの間の親近感です。デザインと料理の愛好家であるマヌエルにとって、このアパートメントはマドリード・デ・ロス・オーストリアスの精神を呼び起こし、その重層的な歴史が周囲の布地に埋め込まれていました。コーナービルド内に設置"
+    },
+    {
+      "title": "Why this incredible photo makes it look like Super Mario is twerking on the moon",
+      "url": "https://www.creativebloq.com/creative-inspiration/optical-illusions/breaking-news-super-mario-spotted-twerking-on-the-moon",
+      "summary": "It's the moon landing conspiracy we deserve in 2026.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T15:00:14",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ZkdePaasSJnmoqzCNrVAEe-1280-80.jpg",
+      "title_ja": "なぜこの素晴らしい写真はスーパーマリオが月面でトワークしているように見えるのか",
+      "summary_ja": "それは2026年に私たちが行うべき月面着陸陰謀だ。"
+    },
+    {
+      "title": "Furniture influenced by Mexican corn among projects Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "url": "https://www.dezeen.com/2026/04/09/furniture-mexican-corn-instituto-tecnologico-y-de-estudios-superiores-de-monterrey-schoolshows/",
+      "summary": "<p>Dezeen School Shows: a furniture collection inspired by the cultural symbolism of Mexican corn is among the projects from Instituto Tecnológico y de Estudios Superiores de Monterrey. Also featured is a modular 3D-printed bench and a floor lamp informed by ocean waves. Instituto Tecnológico y de E",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T15:00:05",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/mon-tec-dezeen-schoolshows_dezeen_2364_col_0-2-411x411.jpg",
+      "title_ja": "Instituto Tecnológico y de Estudios Superiores de Monterey のプロジェクトでメキシコのトウモロコシの影響を受けた家具Dezeen School Shows: メキシコのトウモロコシの文化的象徴性にインスピレーションを得た家具コレクションは、モンテ工科大学および高等教育機関のプロジェクトの 1 つです。",
+      "summary_ja": ""
+    },
+    {
+      "title": "Creative Bloq launches the Big Teq Review Show",
+      "url": "https://www.creativebloq.com/tech/creative-bloq-launches-the-big-teq-review-show",
+      "summary": "From mice and speakers to AI note-takers and haptic gaming vests(?), we cover all the creative tech you can imagine. On video!",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T14:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ntfDC4CCMEtu2U3j43eyrP-1280-80.png",
+      "title_ja": "Creative Bloq が Big Teq レビュー ショーを開始 |9 月|マウスやスピーカーから、AI ノートテイカーや触覚ゲーム ベスト (?) まで、想像できるすべてのクリエイティブ テクノロジーを網羅しています。ビデオで！",
+      "summary_ja": ""
+    },
+    {
+      "title": "Amangiri Unveils Its First Six-Bedroom Villa in Utah’s Canyon Country",
+      "url": "https://design-milk.com/amangiri-unveils-its-first-six-bedroom-villa-in-utahs-canyon-country/",
+      "summary": "At Amangiri, Aman’s newest residence aligns architecture, light, and service into a calibrated retreat shaped by its surroundings.",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-04-09T13:00:18",
+      "title_ja": "アマンギリがユタ州の峡谷の国に初の6ベッドルームヴィラを公開 |9月|アマンギリにあるアマンの最新レジデンスは、建築、光、サービスを調和させて、周囲の環境に合わせて形作られた調整された隠れ家となっています。",
+      "summary_ja": "",
+      "image_url": "https://design-milk.com/images/2026/04/amangiri-six-bedroom-villa-24.jpg",
+      "body_ja": "ブランドレジデンスは、高級ホテル業界で人気の収益戦略となっています。これらのプロジェクトのほとんどは、成長する高級品市場でガラスの塔を採用し、旅行者が認識できる名前を付け、写真に映える標準仕様を備え、バッジに 30% のプレミアムを請求するというおなじみの方式を共有しています。その結果、ほとんどの場合、ブランドの評判を吸収せずに借用した、おもてなしの服を着た不動産が生まれます。"
+    },
+    {
+      "title": "Ishi stool by Mililab",
+      "url": "https://www.dezeen.com/2026/04/09/ishi-stool-mililab-dezeen-showroom/",
+      "summary": "<p>Dezeen Showroom: Japanese architecture studio and furniture maker Mililab has given both versatility and presence to its Ishi stool, informed by a previous design for table legs. Made of solid American oak wood finished in a charcoal stain, the Ishi stool sprung from the development of the Maru d",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T13:00:16",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/ishi-stool-mililab-design_dezeen_2364_sq-411x411.jpg",
+      "title_ja": "ミリラボの石スツール",
+      "summary_ja": "Dezeen ショールーム: 日本の建築スタジオ兼家具メーカーのミリラボは、以前のテーブル脚のデザインを参考にして、Ishi スツールに多用途性と存在感の両方を与えました。 M"
+    },
+    {
+      "title": "The End of Static Design: Living in the Era of Liquid UI",
+      "url": "https://webdesignerdepot.com/the-end-of-static-design-living-in-the-era-of-liquid-ui/",
+      "summary": "Forget prompting—the future of design is a \"disappearing act\" where your interface melts and morphs based on your intent. In 2026, we’ve stopped chatting with sidebars and started working with **Liquid UI**, a world where software finally learns to dance at the speed of thought. Stop designing stati",
+      "source": "Web Designer Depot",
+      "icon": "🎨",
+      "lang": "en",
+      "published": "2026-04-09T12:40:00",
+      "title_ja": "静的デザインの終わり: リキッド UI の時代を生きる",
+      "summary_ja": "プロンプトのことは忘れてください。デザインの未来は、ユーザーの意図に基づいてインターフェイスが溶けて変形する「消える行為」です。 2026 年、私たちはサイドバーを使ったチャットをやめ、"
+    },
+    {
+      "title": "Škoda redesigns bike bell to be heard through noise-cancelling headphones",
+      "url": "https://www.dezeen.com/2026/04/09/skoda-duobell-bike-bell-noise-cancelling-headphones/",
+      "summary": "<p>Czech automaker Škoda has created the Duobell bicycle bell, which penetrates noise-cancelling headphones in a bid to tackle a growing cause of bike-pedestrian collisions. Škoda Auto's bell is a simple, mechanical device that rings at a precise frequency of 750 hertz. This corresponds with a narro",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T12:30:18",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/skoda-duobell-bike-bell_dezeen_2364_sq-411x411.jpg",
+      "title_ja": "シュコダ、自転車のベルをノイズキャンセリングヘッドフォンで聞こえるように再設計",
+      "summary_ja": "チェコの自動車メーカー、シュコダは、自転車と歩行者の衝突の増加する原因に対処するために、ノイズキャンセリングヘッドフォンを貫通する自転車ベル「Duobell」を開発した。シュコダ アウト"
+    },
+    {
+      "title": "From Sabrina Carpenter to Katseye, check out the best Coachella billboards of 2026",
+      "url": "https://www.creativebloq.com/design/advertising/from-sabrina-carpenter-to-katseye-check-out-the-best-coachella-billboards-of-2026",
+      "summary": "Things are getting stylish, saucy and slightly silly in the Californian desert.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T11:13:56",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/fHtWKb2cprkSkH4c6LJvRV-1280-80.jpg",
+      "title_ja": "サブリナ カーペンターからキャッツェアイまで、2026 年最高のコーチェラの看板をチェックしてください",
+      "summary_ja": "カリフォルニアの砂漠では、物事がスタイリッシュで、生意気で、そして少しばかげてきています。"
+    },
+    {
+      "title": "Okay, now I'm excited about the iPhone Fold",
+      "url": "https://www.creativebloq.com/tech/okay-now-im-excited-about-the-iphone-fold",
+      "summary": "As an iPhone mini fan, the latest leaked design feels made for me.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T10:43:44",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Bf8nnLaV4JjFgxYDb5TyZd-1280-80.jpg",
+      "title_ja": "さて、私は iPhone Fold",
+      "summary_ja": "に興奮しています。 iPhone mini のファンとして、最新のリークされたデザインは私のために作られたものだと感じます。"
+    },
+    {
+      "title": "Moxon Architects references farmsteads for Corriebeg house extension in Scotland",
+      "url": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/",
+      "summary": "<p>Scottish studio Moxon Architects has extended a house in rural Aberdeenshire, adding two barn-like volumes that are clad in timber battens. Named Corriebeg and located near the village of Sauchen, the project involved updating the existing home to meet rigorous Passivhaus standards while introduc",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T10:28:42",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/moxon-architects-corriebeg-home-extension-scotland-sq_dezeen_2364_col_2-411x411.jpg",
+      "title_ja": "モクソン・アーキテクツ、スコットランドのコリーベグ・ハウス増築に農場を参照",
+      "summary_ja": "スコットランドのスタジオ、モクソン・アーキテクツは、アバディーンシャーの田舎にある家を増築し、木の当て木で覆われた納屋のようなボリュームを 2 棟追加しました。コリーベグと名付けられ、ヴィルの近くに位置します"
+    },
+    {
+      "title": "Kengo Kuma creates \"sensorial moments\" with Earth / Tree installation in Copenhagen",
+      "url": "https://www.dezeen.com/2026/04/09/kengo-kuma-earth-tree-installation-copenhagen-contemporary/",
+      "summary": "<p>Architecture studio Kengo Kuma and Associates has collaborated with Danish manufacturer Dinesen on the wood-and-brick Earth / Tree installation at art centre Copenhagen Contemporary. The installation, which was led by Kengo Kuma and Associates partner Yuki Ikeguchi, is centred around a suspended ",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T10:00:36",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/kengo-kuma-dinese-earth-tree-copenhagen_dezeen_2364_col_sq2-411x411.jpg",
+      "title_ja": "隈研吾、コペンハーゲンのEarth / Treeインスタレーションで「感覚的な瞬間」を生み出す",
+      "summary_ja": "建築スタジオの隈研吾建築都市設計事務所は、アートセンター・コペンハーゲン・コンテンポラーでの木とレンガのアース/ツリーインスタレーションでデンマークのメーカー、ディネセンとコラボレーションした。"
+    },
+    {
+      "title": "Snøhetta adds \"positive energy building\" to Dunkirk port",
+      "url": "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/",
+      "summary": "<p>A faceted roof encircles a central courtyard at Écosystème D, an energy hub and engineering workspace in Dunkirk designed by architecture studios Snøhetta and Santer Vanhoof. According to Snøhetta and Santer Vanhoof, the 1,200 square metres of photovoltaic panels that top the angular roof produce",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T09:45:29",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/ecosysteme-d-snohetta-dunkirk_dezeen_2364_sq_1-411x411.jpg",
+      "title_ja": "スノヘッタはダンケルク港に「ポジティブなエネルギーの建物」を追加",
+      "summary_ja": "エコシステム D は、建築スタジオのスノヘッタとサンター ヴァンフーフによって設計されたダンケルクのエネルギー ハブ兼エンジニアリング ワークスペースであり、ファセットのある屋根が中央の中庭を囲んでいます。アコー"
+    },
+    {
+      "title": "4つのスキップフロアがもたらすもの。 加藤匡毅がSANU「HIKE」に込めた余白の豊かさ",
+      "url": "https://www.axismag.jp/posts/2026/04/706858.html",
+      "summary": "建築の中をハイキングする。SANU 2nd Homeの新モデル「HIKE」 豊かな自然に恵まれた軽井沢エリア。南にはのどかな田園風景が広がり、北には浅間山が雄大な裾野を広げている。この風光明媚な土地に、SANU 2nd  [&#8230;]",
+      "source": "AXIS Web",
+      "icon": "🎭",
+      "lang": "ja",
+      "published": "2026-04-09T09:41:04",
+      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/04/fc66cc98ad61534b9731ed3c87b78ad2.jpg",
+      "body_ja": "INTERVIEW ｜ 建築\n26秒前\n建築の中をハイキングする。SANU 2nd Homeの新モデル「HIKE」\n豊かな自然に恵まれた軽井沢エリア。南にはのどかな田園風景が広がり、北には浅間山が雄大な裾野を広げている。この風光明媚な土地に、SANU 2nd Homeの新たな独自建築モデル「HIKE（ハイク）」が誕生する（2026年内オープン予定）。\n設計を手がけたのは、千葉県一宮の「SKY」に続き、SANUで二棟目のプロダクト設計となる建築家の加藤匡毅。HIKEという名前に込めた思いを加藤はこのように語る。\n「必ずしも目的地だけに向かうのではなく、その道中にある思いがけない発見や感動を共有してほしい。あえて回り道をしたり、ふと足を止めてその場の景色を味わったりする。まさにハイキングのような感覚を体験できる建築にしたいと考え、この名前をつけました」\nその言葉通り、HIKEの内部は「移動」そのものが物語となるよう設計されている。最大の特徴は、空間を4つのスキップフロアにゆるやかに分けた立体"
+    },
+    {
+      "title": "\"Glasgow's burning problem is a symptom of a greater failure\"",
+      "url": "https://www.dezeen.com/2026/04/09/glasgow-burning-heritage-buildings-matt-loader-opinion/",
+      "summary": "<p>It's no coincidence that so many of Glasgow's heritage buildings are succumbing to fire, writes conservation architect Matt Loader. For supposedly the rainiest city in the UK, Glasgow has a pervasive issue with buildings catching fire. Since I arrived in 2004, it feels the rate of buildings burni",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-04-09T09:15:42",
+      "image_url": "http://static.dezeen.com/uploads/2026/04/glasgow-union-street-fire-march-2026-sq_dezeen_2364_col_0-411x411.jpg",
+      "title_ja": "「グラスゴーの炎上問題は、より大きな失敗の兆候である」",
+      "summary_ja": "グラスゴーの歴史的建造物の多くが火災で焼失しているのは偶然ではないと保全建築家のマット・ローダー氏は書いている。英国で最も雨の多い都市と言われているグラスについて"
+    },
+    {
+      "title": "How Crushed In Time reimagines Sherlock Holmes as a LucasArts-inspired adventure",
+      "url": "https://www.creativebloq.com/3d/video-game-design/how-crushed-in-time-reimagines-sherlock-holmes-as-a-lucasarts-inspired-adventure",
+      "summary": "A 3D game disguised as 2D, and you can break it.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T09:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EVu6ESCh4U6DmvQRfADmP7-1280-80.jpg",
+      "title_ja": "How Crushed In Time は、シャーロック ホームズを LucasArts にインスピレーションを得た冒険として再考します",
+      "summary_ja": "2D を装った 3D ゲーム、そしてそれを壊すことができます。"
+    },
+    {
+      "title": "'Human artists charge too much, AI can do just as good a job’: AI logo controversy divides creatives",
+      "url": "https://www.creativebloq.com/design/graphic-design/human-artists-charge-too-much-ai-can-do-just-as-good-a-job-ai-logo-controversy-divides-creatives",
+      "summary": "The Creative Bloq community have spoken.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T09:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Re6hH4DSFqjJcSTr8gKZp9-1280-80.jpg",
+      "title_ja": "「人間のアーティストは料金が高すぎるが、AI は同じくらい良い仕事ができる」: AI ロゴ論争がクリエイティブを二分",
+      "summary_ja": "Creative Bloq コミュニティが発言しました。"
+    },
+    {
+      "title": "「語られる側」から「語る側」へ。ナイロビの巨大スラム・キベラの若者による写真・映像展",
+      "url": "https://www.axismag.jp/posts/2026/04/706065.html",
+      "summary": "撮影：ディジー・ディジー／Dizze Dizze ケニアの首都ナイロビにある巨大スラム、キベラに暮らす若者たちによる写真・映像展「キベラ“スラム”から見つめる世界 ――語られてきた私から、語る私へ。——」が、東京・丸の内 [&#8230;]",
+      "source": "AXIS Web",
+      "icon": "🎭",
+      "lang": "ja",
+      "published": "2026-04-09T08:15:14",
+      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/04/3883fb05f313e94447d20e3a7b052dd3.jpg",
+      "body_ja": "NEWS ｜ ソーシャル / 展覧会\n2時間前\nケニアの首都ナイロビにある巨大スラム、キベラに暮らす若者たちによる写真・映像展「キベラ“スラム”から見つめる世界 ――語られてきた私から、語る私へ。——」が、東京・丸の内のアートセンターBUGにて4月25日（土）から5月31日（日）まで開催される。\n同展の出展作家はキベラに暮らす若者たちだ。これまでは「語られた存在」であったスラムの住民が、「語る主体」として立ち上がった。展示される作品は100点を超え、アーティスト自身による解説映像もあわせて紹介される。貧困や危険といったステレオタイプなイメージで語られがちな場所の内側には、多様な営みや個々の物語が存在する。同展では、そうした複層的な現実が、内側からの視点によって可視化される。\n出展する12名のアーティストの多くは、自身のカメラやパソコンを持っていない。限られた機材や通信環境といった制作条件の違いが、画質や編集に影響を与える状況そのものも含めて提示される。鑑賞者は、作品の背後にある環境や前提"
+    },
+    {
+      "title": "How to use 3D to create epic game art",
+      "url": "https://www.creativebloq.com/art/digital-art/how-to-use-3d-to-paint-an-epic-battle-scene-for-game-art",
+      "summary": "Connor Sheehan reveals how he made his digital art for Kaidan stand out by starting with a 3D mock up.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T08:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xWxTr6zsiuHnZ8j3upGeU7-1280-80.jpg",
+      "title_ja": "3D を使用して壮大なゲーム アートを作成する方法",
+      "summary_ja": "Connor Sheehan は、3D モックアップから始めて、Kaidan のデジタル アートをどのように目立たせるようにしたかを明かします。"
+    },
+    {
+      "title": "The Burger King logo: a history",
+      "url": "https://www.creativebloq.com/design/logos-icons/the-burger-king-logo-a-history",
+      "summary": "The Burger King logo has undergone quite a few transformations over the years.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T06:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HDNwNYiHA4eqpg42NVswiH-1280-80.png",
+      "title_ja": "バーガーキングのロゴ: 歴史",
+      "summary_ja": "バーガーキングのロゴは、長年にわたってかなりの変化を遂げてきました。"
+    },
+    {
+      "title": "Quiz: Which AI personality is your true match?",
+      "url": "https://www.creativebloq.com/ai/quiz-which-ai-personality-is-your-true-match",
+      "summary": "Chat GPT, Claude, Gemini or even Grok – one will suit you best, but which one?",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T06:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Jd4bqRdTqKkQbf2BuF6TqP-1280-80.png",
+      "title_ja": "クイズ: あなたにぴったりの AI パーソナリティはどれですか? |9月| GPT、Claude、Gemini、または Grok とチャットします – どれかがあなたに最適ですが、どれでしょうか?",
+      "summary_ja": ""
+    },
+    {
+      "title": "Kit-Kat tweaks its logo in delightful new print ads",
+      "url": "https://www.creativebloq.com/design/logos-icons/kit-kat-tweaks-its-logo-in-ingenious-new-print-ads",
+      "summary": "The brand's slogan comes to life in these clever posters.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-04-09T05:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/xxenayhfMXASRb5WXhh6PM-1280-80.jpg",
+      "title_ja": "キットカットはロゴを微調整して新しい印刷広告を作成 |9月|ブランドのスローガンは、これらの巧妙なポスターに息づいています。",
+      "summary_ja": ""
+    },
+    {
+      "title": "デザインシステムのはじめかた──事前に理解しておきたいポイントや構築のための5つのサイクルとは｜Blog｜Goodpatch グッドパッチ",
+      "url": "https://goodpatch.com/blog/2026-04-cz-ds-03",
+      "summary": "さまざまな組織のデザインシステム構築や運用を支援してきたグッドパッチ。そのノウハウを基に、デザインシステムを構築する前に理解しておきたいポイントや、デザインシステムの構築サイクルについて解説します。",
+      "source": "Goodpatch Blog",
+      "icon": "✏️",
+      "lang": "ja",
+      "published": "2026-04-09T01:00:01",
+      "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/04/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.png?fit=2401%2C1261&ssl=1"
     },
     {
       "title": "「リード数は足りているのに受注が増えない」はなぜ？ 営業が「動きたくなる」質の高いリードを生み出す「BBM」",
@@ -31,138 +390,6 @@
       "image_url": "https://webtan.impress.co.jp/sites/default/files/images/article2026/ALUHA/aluha_00.jpg"
     },
     {
-      "title": "SNS管理ツール「SocialDog」が「Threads」と連携、複数SNSの一括管理が可能に",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52464",
-      "summary": "<div class=\"field--name-field-brief-desc\">「X」「Instagram」「Facebook」との同時投稿を作成・予約、CSV一括インポートも</div>\n      \n            <div class=\"field--name-body\">\n<p>SNSツール開発・運用のSocialDog(ソーシャルドッグ)は、提供しているSNS管理ツール「SocialDog」がMetaのテキスト共有アプリ「Threads(スレッズ)」との連携に対応したと4月8日に発表した。これによって「X(Twitter)」「Instagram」「Facebook」に加え",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T22:03:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0409_socialdog02.png?itok=56IfX1eF"
-    },
-    {
-      "title": "EmbedSocialがUGCをWebデザインの中心に据える新機能、50超のテンプレート追加",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52462",
-      "summary": "<div class=\"field--name-field-brief-desc\">「AIセクションジェネレーター」大幅刷新、顧客の声をサイトの主役にして信頼獲得</div>\n      \n            <div class=\"field--name-body\">\n<p>デジタルマーケティングツールを展開するEmbedsocial Japan(エンベッドソーシャルジャパン)はSNS連携・UGC(ユーザー生成コンテンツ)マーケティングツール「EmbedSocial」で、テキストで指示するだけでWebサイトのセクションを自動生成する「AIセクションジェネレーター」を大幅アップデートしたと",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T22:02:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0409_embedsocial02.png?itok=ygOysZPs"
-    },
-    {
-      "title": "シックス・アパートが「Movable Type」の深刻な脆弱性公表、最新版への更新要請",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52461",
-      "summary": "<div class=\"field--name-field-brief-desc\">対象はEOLを含む広範囲のバージョン、「クラウド版」は最新版にアップデート完了済</div>\n      \n            <div class=\"field--name-body\">\n<p>CMS(コンテンツ管理システム)と関連サービスのシックス・アパートは、CMSプラットフォーム「Movable Type」に深刻な脆弱性が判明したと4月8日に発表し、最新版へのアップデートを呼びかけている。直ちにアップデートが難しい場合の回避策として、Data APIのアクセス制限の設定も案内されている。</p>\n<",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T22:01:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0409_mt02.png?itok=GMuX_7V2"
-    },
-    {
-      "title": "Z世代の7割は、動画広告を即スキップ【Fiom調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52458",
-      "summary": "<div class=\"field--name-field-brief-desc\">良質な没入体験でZ世代の65%が好感度上昇。</div>\n      \n            <div class=\"field--name-body\">\n<p>Fiomの調査研究機関「Z-SOZOKEN（Z世代創造性研究所）」は、「Z世代の没入型広告」に関する調査結果を発表した。メタバース空間やゲーム内アイテム、ARフィルターなど、デジタル空間の体験に溶け込む没入型広告（イマーシブ広告）について、全国のZ世代（18歳～24歳）268人が回答している。</p>\n\n<div class=\"kakomi-kami",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T21:30:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0408_fiom_01.jpg?itok=lkfj6OQn"
-    },
-    {
-      "title": "“飲みニケーション”はまだ終わらない？ 企業の「交際費」がコロナ禍前の水準を上回る【東京商工リサーチ調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52447",
-      "summary": "<div class=\"field--name-field-brief-desc\">会食や接待への投資がコロナ前に回帰？ 交際費総額は回復、一方で支出には慎重か。</div>\n      \n            <div class=\"field--name-body\">\n<p>東京商工リサーチは、2025年の「交際費」動向調査を実施した。同社が保有する財務データベースをもとに、7期連続で交際費が計上された10万592社を対象に分析している。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n<p>関連記事</p>\n",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T21:15:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0403_TSR_01.jpg?itok=vu3ZYE9c"
-    },
-    {
-      "title": "生成AIが引用するサイト1位は？ 「note」が躍進、ChatGPTでは「Ameblo」がトップ【Ahrefs調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/04/09/52446",
-      "summary": "<div class=\"field--name-field-brief-desc\">ChatGPTの情報源に変化？ 「PR TIMES」が上位に食い込み、「Reddit」はトップ5圏外へ。</div>\n      \n            <div class=\"field--name-body\">\n<p>Ahrefs（エイチレフス）は、5つの主要AIプラットフォームが引用するドメインに関する調査を実施した。ChatGPT、AIモード、AIによる概要、Copilot、Perplexityを対象に、引用元のドメインを分析している。</p>\n<div class=\"kakomi-kami aki-",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-08T21:00:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0403_Ahrefs_01.png?itok=aNdSpws1"
-    },
-    {
-      "title": "Pamela Anderson releases rattan furniture line informed by seaside childhood",
-      "url": "https://www.dezeen.com/2026/04/08/pamela-anderson-rattan-furniture-olive-ateliers/",
-      "summary": "<p>Canadian-American actor Pamela Anderson and Los Angeles furniture company Olive Ateliers have collaborated on a 40-piece furniture collection designed to be \"a little French, a little wild\". The Sentimentalist collection includes outdoor sofas, lounge chairs, tables and baskets primarily made of ",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T18:00:23",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/pamela-anderson-olive-ateliers-sentimentalist_dezeen_2364_sq-1-411x411.jpg",
-      "title_ja": "パメラ・アンダーソン、海辺で過ごした幼少期からインスピレーションを得た籐家具シリーズをリリース",
-      "summary_ja": "カナダ系アメリカ人の俳優パメラ・アンダーソンとロサンゼルスの家具会社オリーブ・アトリエズがコラボレーションし、「少しフランス的で、明るい雰囲気」を目指してデザインされた40点の家具コレクションを発表した。"
-    },
-    {
-      "title": "Toronto completes one of largest North American underground rail lines in decades",
-      "url": "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/",
-      "summary": "<p>The 19-kilometre metro Line 5 – Eglinton has opened in Toronto, with 15 underground stations integrated into the urban landscape of the city's Midtown section. Though it faced multiple delays and settlements between municipal groups, engineers and designers, the Line 5 LRT system opened in Februa",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T17:00:07",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/line-5-toronto-metro-stations-arcadis_dezeen_2364_sq3-411x411.jpg",
-      "title_ja": "トロント、ここ数十年で最大規模となる北米の地下鉄路線の 1 つを完成",
-      "summary_ja": "トロントでは全長 19 キロメートルの地下鉄 5 号線 - エグリントン間が開通し、15 の地下鉄駅が市内のミッドタウン地区の都市景観に組み込まれています。多大な困難に直面したにもかかわらず"
-    },
-    {
-      "title": "From trading cards to t-shirts, get goodies the Pokémon fan in your life REALLY wants",
-      "url": "https://www.creativebloq.com/design/from-trading-cards-to-t-shirts-get-goodies-the-pokemon-fan-in-your-life-really-wants",
-      "summary": "Discover up to 40% off merch and accessories.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T17:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oXAHRnmKYs4q2uiyEryG7N-1280-80.jpg",
-      "title_ja": "トレーディング カードから T シャツまで、ポケモン ファンが本当に欲しいグッズを手に入れましょう",
-      "summary_ja": "グッズやアクセサリーが最大 40% オフになります。"
-    },
-    {
-      "title": "\"Trump's presidential library skyscraper makes sense\"",
-      "url": "https://www.dezeen.com/2026/04/08/trump-presidential-library-skyscraper-matt-shaw-opinion/",
-      "summary": "<p>Critics who bash Donald Trump's design concept for a presidential skyscraper library are too fixated on style and not on the wider trends in architecture's uptake in politics, writes Matt Shaw. Amidst the spiralling US-Israel war with Iran, Donald Trump thought it a good idea to release early ren",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T16:33:28",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/trump-skyscraper-library-sq-411x411.jpg",
-      "title_ja": "「トランプ氏の大統領図書館の超高層ビルは理にかなっている」",
-      "summary_ja": "ドナルド・トランプ大統領の超高層ビル図書館の設計コンセプトを批判する批評家は、スタイルに固執しすぎており、建築が政治に取り入れられる広範な傾向に注目していない、と文書で書かれている。"
-    },
-    {
-      "title": "The iconic Audio Pro speaker I use every day has £61 sliced off",
-      "url": "https://www.creativebloq.com/tech/headphones-earbuds/the-iconic-audio-pro-speaker-i-use-every-day-has-gbp61-sliced-off",
-      "summary": "I play the C10 MkII in my bedroom and with this deal I might get one for the mezzanine daaarling.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T16:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/j4psEqTjLETGVXtaY4pbuB-1280-80.jpg",
-      "title_ja": "私が毎日使っている象徴的な Audio Pro スピーカーが 61 ポンド値下げされました |9 月|私は寝室で C10 MkII をプレイしていますが、今回の契約で中 2 階のダーリング用に 1 台購入できるかもしれません。",
-      "summary_ja": ""
-    },
-    {
-      "title": "Dezeen Events Guide launches its digital guide to Milan design week 2026",
-      "url": "https://www.dezeen.com/2026/04/08/dezeen-events-milan-design-week-guide-2026-launch/",
-      "summary": "<p>Check out Dezeen Events Guide's digital guide to Milan design week 2026, which takes place across the city from 20 to 26 April. Our festival guide highlights the key events taking place across the participating districts, including exhibitions, installations, open showrooms, launches, talks and p",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T15:00:53",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/Milan-design-week-2026-Dezeen-Events-Guide_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "Dezeen Events Guide が 2026 年ミラノ デザイン ウィークのデジタル ガイドを開始",
-      "summary_ja": "4 月 20 日から 26 日まで市内各地で開催される 2026 年ミラノ デザイン ウィークの Dezeen Events Guide のデジタル ガイドをご覧ください。私たちのフェスティバルガイドでは、主要なイベントを紹介しています。"
-    },
-    {
       "title": "Reused Shipping Containers Form A Flexible Workplace in Spain",
       "url": "https://design-milk.com/reused-shipping-containers-form-a-flexible-workplace-in-spain/",
       "summary": "Designed by Impepinable Studio, a workplace formed of reused shipping containers provides flexibility for an agro-industrial company in Spain.",
@@ -173,19 +400,7 @@
       "title_ja": "再利用された輸送コンテナがスペインで柔軟な職場を形成",
       "summary_ja": "Impepinable Studio が設計した、輸送用コンテナを再利用して形成された職場は、スペインの農産業会社に柔軟性をもたらします。",
       "image_url": "https://design-milk.com/images/2026/04/impepinable-studio-agrosemillas-offices-del-rio-bani-03.jpg",
-      "body_ja": "農業ビジネスには、都市部に拠点を置く一般的な企業とは異なる要件があります。これは、設計者がさまざまな機能をサポートする本社の業務とスタッフの連携を構想するときに、特有の一連の課題を引き起こす可能性があります。\nImpepinable Studio が種子加工会社 Agrosemillas のハブの設計を依頼されたとき、チームは特定の制約を受け入れ、環境と自然環境の要素に注目しました。"
-    },
-    {
-      "title": "Could the Project Hail Mary VR 'sequel' redefine how we experience movies?",
-      "url": "https://www.creativebloq.com/3d/video-game-design/could-the-project-hail-mary-vr-sequel-redefine-how-we-experience-movies",
-      "summary": "The mixed-reality game will immerse players in a new extension of the story.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T14:28:01",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/wzFaRHtbmrzUzx2jVuEija-1280-80.webp",
-      "title_ja": "プロジェクト Hail Mary VR の「続編」は、私たちの映画体験の方法を再定義する可能性がありますか? |9月|複合現実ゲームは、プレイヤーをストーリーの新たな展開に引き込みます。",
-      "summary_ja": ""
+      "body_ja": "農業ビジネスには、都市部に拠点を置く一般的な企業とは異なる要件があります。これは、設計者がさまざまな機能をサポートする本社の業務とスタッフの連携を構想するときに、特有の一連の課題を引き起こす可能性があります。\nImpepinable Studio が種子加工会社 Agrosemillas のハブの設計を依頼されたとき、チームは特定の制約を受け入れ、環境と環境要素に注目しました。"
     },
     {
       "title": "The New Laundry Chair by Simone Giertz Cleans Up Nicely",
@@ -201,18 +416,6 @@
       "body_ja": "織機の夜明け以来、人類全員が織機を経験してきました。私たちは何千年もの間、最善を尽くしてきましたが、変わらないものがいくつかあります。それは、完全に汚れていても、完全にきれいでもない衣類の山です。それはその間のどこかの限界状態に存在します。デザイナー、発明家、その他多くの活動を行っているシモーネ・ギエルツは、長年の問題に対する答えであるランドリーチェアを発表しました。血栓の形成に最適な回転補助アーム付き"
     },
     {
-      "title": "ACE Surfaces by PoliLam",
-      "url": "https://www.dezeen.com/2026/04/08/ace-surfaces-polilam-dezeen-showroom/",
-      "summary": "<p>Dezeen Showroom: US company PoliLam utilised nanotechnology to create its ACE Surfaces range of laminate panels, which have high performance qualities and are soft to the touch. Made for applications such as wall panelling, cabinetry and countertops, the ACE Surfaces range of high-pressure lamina",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T13:00:41",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/ace-surfaces-polilam-design_dezeen_2364_sq-411x411.jpg",
-      "title_ja": "PoliLam による ACE サーフェス",
-      "summary_ja": "Dezeen ショールーム: 米国企業 PoliLam は、ナノテクノロジーを利用して、高性能品質と柔らかな手触りを備えた ACE Surfaces シリーズのラミネート パネルを作成しました。マ"
-    },
-    {
       "title": "An Argument for Interior Design with Neuroaesthetics in Mind",
       "url": "https://design-milk.com/an-argument-for-interior-design-with-neuroaesthetics-in-mind/",
       "summary": "John Hopkins University's International Arts + Mind Lab publishes a report calling for the development of a new interdisciplinary Neuroarchitecture sector.",
@@ -224,18 +427,6 @@
       "summary_ja": "ジョン・ホプキンス大学の International Arts + Mind Lab は、新しい学際的なニューロアーキテクチャ部門の開発を求めるレポートを発表しました。",
       "image_url": "https://design-milk.com/images/2026/04/John-Hopkins-Intentional-Spaces-7.jpg",
       "body_ja": "インテリア デザインでは、スタイルの流行が去来します。多くの場合、こうした傾向は嗜好の変化や一時的な、あえて空虚な文化現象を反映していますが、それ以外のことはほとんどありません。私たちの生活の背景を形成する住宅、オフィス、そして常に流動的な市民空間において、これらの環境はより具体的な意図を持って構想されるべきではないでしょうか?適切な音響計画や照明計画が、ギミックの効いた柔軟性に対する認識された「必要性」に取って代わられるべきではないでしょうか?そして、なんだ"
-    },
-    {
-      "title": "The most gorgeous floral iPad cases to start your Spring refresh",
-      "url": "https://www.creativebloq.com/tech/phones-tablets/the-most-gorgeous-floral-ipad-cases-to-start-your-spring-refresh",
-      "summary": "Upgrade your iPad accessories for the new season.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T13:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bNdfvXLA4aaoRQHRdQPni4-1280-80.jpg",
-      "title_ja": "春のリフレッシュを始めるのに最適な、最もゴージャスな花柄の iPad ケース",
-      "summary_ja": "新しい季節に向けてiPadアクセサリをアップグレードしてください。"
     },
     {
       "title": "Social media on trial",
@@ -250,90 +441,6 @@
       "summary_ja": ""
     },
     {
-      "title": "Sabella Arquitetura crowns Brazilian house with gridded timber roof",
-      "url": "https://www.dezeen.com/2026/04/08/sabella-arquitetura-casa-colmeia/",
-      "summary": "<p>A gridded timber roof shelters the interiors and external terraces of Casa Colmeia, a low-lying home outside São Paolo designed by local studio Sabella Arquitetura. Located on a sloping wooded site in Porto Feliz, the 1,600-square-metre home is organised across two wide levels that open out onto ",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T10:30:38",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/sabella-arquitetura-casa-colmeia-house-brazil-sq_dezeen_2364_col_3-411x411.jpg",
-      "title_ja": "Sabella Arquitetura が格子状の木材屋根をブラジルの家に冠",
-      "summary_ja": "地元のスタジオ、サベラ・アーキテトゥーラが設計したサンパウロ郊外の低地住宅カーサ・コルメイアの内部と外部テラスは、格子状の木造屋根で保護されています。 SL沿いにあります"
-    },
-    {
-      "title": "Smaller-wheeled Lime bike aims to \"get more people cycling\"",
-      "url": "https://www.dezeen.com/2026/04/08/lime-bike/",
-      "summary": "<p>Micromobility company Lime is rolling out a new design of its rental electric bikes in the UK that it hopes will be more appealing to women and older riders. Updated Lime bikes started appearing in British cities in late March, having already been trialled on streets in select locations across th",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T10:00:23",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/lime-bike-new-generation-sq_dezeen_2364_col_1-411x411.jpg",
-      "title_ja": "より小さな車輪のライムバイクは「より多くの人にサイクリングをしてもらう」ことを目指す",
-      "summary_ja": "マイクロモビリティ企業ライムは、女性や高齢のライダーにとってより魅力的なものになることを期待して、英国でレンタル電動自転車の新しいデザインを展開している。ライムバイクステーションを更新しました"
-    },
-    {
-      "title": "Why are we all so obsessed with Apple's Little Finder Guy?",
-      "url": "https://www.creativebloq.com/art/character-design/why-are-we-all-so-obsessed-with-apples-little-finder-guy",
-      "summary": "The new mascot has already won hearts.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T10:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/gCixw8hvk9NAzu63KURpdM-1280-80.jpg",
-      "title_ja": "なぜ私たちは Apple の Little Finder Guy にこれほど夢中になるのでしょうか? |9月|新しいマスコットはすでに人々の心を掴んでいます。",
-      "summary_ja": ""
-    },
-    {
-      "title": "Kengo Kuma appointed to extend National Gallery in London",
-      "url": "https://www.dezeen.com/2026/04/08/kengo-kuma-national-gallery-wing/",
-      "summary": "<p>Architecture studio Kengo Kuma and Associates has won the competition to design a new wing for the National Gallery in London, which will be the museum's largest transformation in its 200-year history. Tokyo-based Kengo Kuma and Associates will work alongside architecture firms BDP and MICA to de",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T09:45:26",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/kengo-kuma-national-gallery-wing-news-sq_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "隈研吾、ロンドンのナショナル・ギャラリーの増築に任命 |9月|建築スタジオ隈研吾建築都市設計事務所が、ロンドンのナショナル・ギャラリーの新館設計コンペで優勝した。これは同美術館にとって最大の変革となる。",
-      "summary_ja": ""
-    },
-    {
-      "title": "Root chandelier by Tala",
-      "url": "https://www.dezeen.com/2026/04/08/root-chandelier-tala-dezeen-showroom/",
-      "summary": "<p>Dezeen Showroom: British brand Tala took inspiration from the natural growth of trees to design the Root chandelier, which puts on organic twist on the traditional hanging light. Crafted from solid brass with glass diffusers, the Root chandelier is based on the way trees grow, splitting and divid",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T09:30:45",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/root-chandelier-tala-design_dezeen_2364_sq-411x411.jpg",
-      "title_ja": "Tala のルートシャンデリア",
-      "summary_ja": "Dezeen ショールーム: 英国ブランド Tala は、木の自然な成長からインスピレーションを得て、伝統的な吊り下げライトに有機的なひねりを加えたルート シャンデリアをデザインしました。 C"
-    },
-    {
-      "title": "Mata Architects adds timber-clad Panoramic House extension to Hampstead home",
-      "url": "https://www.dezeen.com/2026/04/08/mata-architects-timber-extension-hamstead-home/",
-      "summary": "<p>Local studio Mata Architects has extended a family home in Hampstead, London, with a timber-clad building featuring a glazed corner and an overhanging roof. Named Panoramic House, the extension was designed to sit lower than the main living space, to make better use of the space and connect the h",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-04-08T09:00:47",
-      "image_url": "http://static.dezeen.com/uploads/2026/04/panoramic-house-mata-architects-house-extension-london-united-kingdom-architecture_dezeen_2364_sq-411x411.jpg",
-      "title_ja": "マタ アーキテクツ、ハムステッドの家に木材で覆われたパノラマ ハウスの増築を追加",
-      "summary_ja": "地元のスタジオであるマタ・アーキテクツは、ロンドンのハムステッドにある家族の家を増築し、ガラス張りのコーナーと張り出した屋根が特徴の木材で覆われた建物を建てました。パノラマハウスと名付けられた、"
-    },
-    {
-      "title": "Always doing your best work at the worst possible time? An ADHD coach explains what's happening in your brain",
-      "url": "https://www.creativebloq.com/creative-inspiration/always-doing-your-best-work-at-the-worst-possible-time-an-adhd-coach-explains-whats-happening-in-your-brain",
-      "summary": "\"Your inconsistency isn't a character flaw\".",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T09:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tDAyotK39c2ENDMdrcUTVT-1280-80.gif",
-      "title_ja": "いつも最悪の時に最高の仕事をしているでしょうか? ADHD コーチがあなたの脳で何が起こっているのかを説明します",
-      "summary_ja": "「あなたの矛盾は性格上の欠陥ではありません。」"
-    },
-    {
       "title": "光のスタンダードを再考 パナソニック「MODIFY In Lights」開催",
       "url": "https://www.axismag.jp/posts/2026/04/706581.html",
       "summary": "パナソニックは、インテリア照明シリーズ「MODIFY（モディファイ）」のラインアップ拡充にあわせ、インスタレーションイベント「MODIFY In Lights」を2025年4月9日（木）から11日（土）まで東京・南青山の [&#8230;]",
@@ -342,55 +449,7 @@
       "lang": "ja",
       "published": "2026-04-08T08:29:19",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/04/re_image01.jpg",
-      "body_ja": "NEWS ｜ インテリア / 見本市・展示会\n12分前\nパナソニックは、インテリア照明シリーズ「MODIFY（モディファイ）」のラインアップ拡充にあわせ、インスタレーションイベント「MODIFY In Lights」を2025年4月9日（木）から11日（土）まで東京・南青山のLA COLLEZIONE UNOで開催する。\n「MODIFY」は、プロダクトデザイナー深澤直人の監修のもと開発された照明シリーズ。「真球」「半球」「円錐台」という、長く使われてきた照明の原形をベースに、余計な要素を削ぎ落としたミニマルな造形が特徴だ。カバー全体が光る構造や、眩しさに配慮した設計により、空間を均質に包み込む光を実現している。\n今回の拡充では、カラーやサイズのバリエーションを拡大し、合計186品番へと拡張。さらに交換型の「LEDフラットランプ」に対応したモデルも追加され、調光・調色といった機能性と、長く使い続けるためのメンテナンス性が備わった。\nこうした進化を背景に同シリーズ誕生20年として開催される「"
-    },
-    {
-      "title": "This hand-drawn Where's Wally?-like game is as calming as it is beautiful",
-      "url": "https://www.creativebloq.com/3d/video-game-design/this-hand-drawn-wheres-wally-like-game-is-as-calming-as-it-is-beautiful",
-      "summary": "Nippets is all about people watching.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T08:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/LSjjgiyAGYwtGq9nmTEwpj-1280-80.png",
-      "title_ja": "この手描きの「ウォーリーを探せ?」風のゲームは、美しいと同時に心を落ち着かせます",
-      "summary_ja": "ニペットは人々を観察することがすべてです。"
-    },
-    {
-      "title": "Why Super Mario Land felt different from the other games",
-      "url": "https://www.creativebloq.com/3d/video-game-design/why-super-mario-land-felt-different-from-the-other-games",
-      "summary": "But it still became a classic.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T07:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/LqJhNEtzHTYbXKp5DwMq3P-1280-80.jpg",
-      "title_ja": "スーパーマリオランドが他のゲームと違うと感じた理由",
-      "summary_ja": "しかし、それでも古典になりました。"
-    },
-    {
-      "title": "Incredible photos taken from space are going viral, and everyone's saying Apple should turn them into billboards",
-      "url": "https://www.creativebloq.com/design/incredible-photos-taken-from-space-are-going-viral-and-everyones-saying-apple-should-turn-them-into-billboards",
-      "summary": "These photos from the Artemis II mission were shot on an iPhone 17 Pro Max.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T06:59:27",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/P8ZtG8DAqp9idhPuNb87w3-1280-80.jpg",
-      "title_ja": "宇宙から撮影された信じられないような写真が急速に広まっており、Apple は写真を広告塔にすべきだと誰もが言っています",
-      "summary_ja": "アルテミス II ミッションのこれらの写真は、iPhone 17 Pro Max で撮影されました。"
-    },
-    {
-      "title": "Snog, Marry, Avoid: An honest guide to ChatGPT, Claude and Gemini",
-      "url": "https://www.creativebloq.com/ai/snog-marry-avoid-an-honest-guide-to-chatgpt-claude-and-gemini",
-      "summary": "I've said unrepeatable things to all 3 main AIs, but which one should you use?",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-04-08T06:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/xLdmzA3y9a477vJ2YUXq6e-1280-80.png",
-      "title_ja": "スノッグ、結婚、回避: ChatGPT、クロード、ジェミニへの正直なガイド",
-      "summary_ja": "主要AI3体にとんでもないことを言ってしまいましたが、どれを使うべきでしょうか？"
+      "body_ja": "NEWS ｜ インテリア / 見本市・展示会\n2026.04.08 17:29\nパナソニックは、インテリア照明シリーズ「MODIFY（モディファイ）」のラインアップ拡充にあわせ、インスタレーションイベント「MODIFY In Lights」を2025年4月9日（木）から11日（土）まで東京・南青山のLA COLLEZIONE UNOで開催する。\n「MODIFY」は、プロダクトデザイナー深澤直人の監修のもと開発された照明シリーズ。「真球」「半球」「円錐台」という、長く使われてきた照明の原形をベースに、余計な要素を削ぎ落としたミニマルな造形が特徴だ。カバー全体が光る構造や、眩しさに配慮した設計により、空間を均質に包み込む光を実現している。\n今回の拡充では、カラーやサイズのバリエーションを拡大し、合計186品番へと拡張。さらに交換型の「LEDフラットランプ」に対応したモデルも追加され、調光・調色といった機能性と、長く使い続けるためのメンテナンス性が備わった。\nこうした進化を背景に同シリーズ誕生"
     },
     {
       "title": "毒をテーマにしたNIFRELの新ゾーン「どくにふれる」「こわい」から「すごい」へ",
@@ -401,7 +460,7 @@
       "lang": "ja",
       "published": "2026-04-08T05:21:19",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/03/45e3d21ec80b58865e10810a7d34ba8a.jpg",
-      "body_ja": "NEWS ｜ サイエンス\n3時間前\n大阪府吹田市EXPOCITY内の「生きているミュージアム ニフレル」は、毒をテーマにした新ゾーン「どくにふれる」をオープンした。毒という存在を“危険”として排除するのではなく、生きものが生き抜くために獲得してきた“個性”として捉え直す体験型展示である。\n同ゾーンのコンセプトは「DOKU DOKUしちゃう？」。恐怖や緊張を喚起する“ドキドキ”と、好奇心や興奮を引き出す“ワクワク”という相反する感情を同時に立ち上げることで、来場者の認識を変化させる構成だ。展示を通して、当初は「こわい」と感じていた存在が、観察を重ねるうちに「すごい」「おもしろい」へと転換していくプロセスそのものを体験してもらう。約350㎡の空間には、魚類、爬虫類、両生類など毒を持つ生きもの約30種・250点が展示されている。色彩や造形、視点によって印象が変化する空間演出のもと、生きものの持つ特性が多角的に提示される。\n展示は大きく3つのエリアで構成される。ひとつは、毒の役割を「こうげき」「"
+      "body_ja": "NEWS ｜ サイエンス\n2026.04.08 14:21\n大阪府吹田市EXPOCITY内の「生きているミュージアム ニフレル」は、毒をテーマにした新ゾーン「どくにふれる」をオープンした。毒という存在を“危険”として排除するのではなく、生きものが生き抜くために獲得してきた“個性”として捉え直す体験型展示である。\n同ゾーンのコンセプトは「DOKU DOKUしちゃう？」。恐怖や緊張を喚起する“ドキドキ”と、好奇心や興奮を引き出す“ワクワク”という相反する感情を同時に立ち上げることで、来場者の認識を変化させる構成だ。展示を通して、当初は「こわい」と感じていた存在が、観察を重ねるうちに「すごい」「おもしろい」へと転換していくプロセスそのものを体験してもらう。約350㎡の空間には、魚類、爬虫類、両生類など毒を持つ生きもの約30種・250点が展示されている。色彩や造形、視点によって印象が変化する空間演出のもと、生きものの持つ特性が多角的に提示される。\n展示は大きく3つのエリアで構成される。ひとつは、"
     },
     {
       "title": "分解・移築を前提とした木造モジュール建築「prewood」",
@@ -412,7 +471,7 @@
       "lang": "ja",
       "published": "2026-04-08T01:17:11",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/03/75b506af82843f3d48388b8affe77dea.jpg",
-      "body_ja": "NEWS ｜ プロダクト / 建築\n7時間前\n秋吉浩気が率いる建築系スタートアップのVUILDは、分解・移築・再利用を前提とした木造モジュール工法「prewood」を用いた建築を東京・日本橋茅場町に竣工した。都市の狭小地を敷地とし、限られた条件下で最大限の床面積を確保するとともに、建築のライフサイクル全体を視野に入れ、新たな都市の木造建築を提示する実証プロジェクトである。\n「prewood」は、木箱状の構造モジュールを積層する構成を採用し、解体時にはモジュール単位での分解・回収・再利用を可能とする。建設時だけでなく解体段階までを含めた環境負荷の低減を視野に入れ、アップフロントカーボンおよびエンボディードカーボンを削減した構法だ。\n大工ではなく足場職人による施工で、躯体工事はわずか2日間で完了する。専門技能への依存を低減すると同時に、施工プロセスそのものの再設計が試みられている。さらに、ビス位置の設計・管理をデジタル上で行い、3Dプリンター製ガイドを用いることで施工精度の向上を図るなど、デ"
+      "body_ja": "NEWS ｜ プロダクト / 建築\n2026.04.08 10:17\n秋吉浩気が率いる建築系スタートアップのVUILDは、分解・移築・再利用を前提とした木造モジュール工法「prewood」を用いた建築を東京・日本橋茅場町に竣工した。都市の狭小地を敷地とし、限られた条件下で最大限の床面積を確保するとともに、建築のライフサイクル全体を視野に入れ、新たな都市の木造建築を提示する実証プロジェクトである。\n「prewood」は、木箱状の構造モジュールを積層する構成を採用し、解体時にはモジュール単位での分解・回収・再利用を可能とする。建設時だけでなく解体段階までを含めた環境負荷の低減を視野に入れ、アップフロントカーボンおよびエンボディードカーボンを削減した構法だ。\n大工ではなく足場職人による施工で、躯体工事はわずか2日間で完了する。専門技能への依存を低減すると同時に、施工プロセスそのものの再設計が試みられている。さらに、ビス位置の設計・管理をデジタル上で行い、3Dプリンター製ガイドを用いることで施工"
     },
     {
       "title": "IKEA Emerges a Cheeky Disruptor in the Collectible Space with GREJSIMOJS",
@@ -451,7 +510,7 @@
       "title_ja": "レオナルド・リエンドのセッテチェント チェアは安定性に新たな深みをもたらします",
       "summary_ja": "Leonardo Liendo の Settecento チェアは、積み重ね可能で丈夫で、どんな用途にも対応できるため、住宅やおもてなしなどに最適です。",
       "image_url": "https://design-milk.com/images/2026/04/Settecento-Chair-Leonardo-Liendo-0.jpg",
-      "body_ja": "安定性 – この時代ではなんと斬新なコンセプトでしょう。私たちは人生のバランスを「少しだけゆっくりする」ことを模索し、創造し、切望しますが、それが実際にはすべての瞬間、そしておそらく将来の瞬間にも当てはまることを認めたくありません。私たちの最も静かだが致命的な武器の 1 つである持続的な強さと一貫性を維持するには、幅広いスタンスが必要です。レオナルド・リエンドのセッテチェント チェアは、混沌と考えられるものの中に座るスペースを生み出します。"
+      "body_ja": "安定性 – この時代ではなんと斬新なコンセプトでしょう。私たちは、人生のバランスを「少しだけゆっくりする」ことを模索し、創造し、切望しますが、それが実際にすべての瞬間、そしておそらく将来の瞬間にも当てはまることを認めたくありません。私たちの最も静かだが致命的な武器の 1 つである持続的な強さと一貫性を維持するには、幅広いスタンスが必要です。レオナルド・リエンドのセッテチェント チェアは、混沌と考えられるものの中に座るスペースを生み出します。"
     },
     {
       "title": "The old design workshop is dead. Long live design workshops.",
@@ -535,16 +594,6 @@
       "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/01/230929_DesignSystem_EyeCatch_02.png?fit=1201%2C631&ssl=1"
     },
     {
-      "title": "AI検索で「流入減」でも8割が成果を実感？ BtoBマーケの新たな勝ち筋が判明【日本SPセンター調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/04/07/52436",
-      "summary": "<div class=\"field--name-field-brief-desc\">AI検索対策で最も成果が出るコンテンツは？ BtoBとBtoCそれぞれで調査。</div>\n      \n            <div class=\"field--name-body\">\n<p>日本SPセンターが運営するコンテンツマーケティング・アカデミーは、「コンテンツマーケティング・サーベイ（CM-SURVEY）」を実施した。コンテンツマーケティング業務に関わるビジネスパーソン65名を対象に調べている。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-06T21:00:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0401_SP_01.png?itok=UyJpRVxV"
-    },
-    {
       "title": "Ravi Raj Restores a Century-Old Croton-on-Hudson Residence",
       "url": "https://design-milk.com/ravi-raj-restores-a-century-old-croton-on-hudson-residence/",
       "summary": "Ravi Raj renovates a historic early 20th-century stone house in Mount Airy, Croton-on-Hudson, restoring and extending its material logic through a contemporary interior.",
@@ -569,19 +618,6 @@
       "summary_ja": "メルボルンのデザイナー Tali Roth がオーストラリアのハードウェア ブランド Lo&#038; のためにデザインしました。 Co Interiors の Al Dente コレクションは、認識可能な食品の形を巧みに再利用しています。",
       "image_url": "https://design-milk.com/images/2026/04/lo-and-co-tali-roth-aldente-hardware-collection-15.jpg",
       "body_ja": "私たちのインテリアの最も小さな要素が最近注目を集めています。私たちの家庭、仕事場、レストラン、店舗、公共の共有環境の装備が偶然に任せられることはなくなり、ハードウェアはついに当然の注目を集め始めています。これらの頻繁に使用される小さなコンポーネントは、私たちの日常生活の中心です。キッチン、ワードローブ、そしてこれらのスペースを区切るドアの機能に不可欠ですが、最終的には重要ではありません"
-    },
-    {
-      "title": "TSATSAS Unveils a New Hue for the 931 Bag by Dieter Rams",
-      "url": "https://design-milk.com/tsatsas-unveils-a-new-hue-for-the-931-bag-by-dieter-rams/",
-      "summary": "The iconic design now comes in a burgundy calfskin—a supple, luxurious tone that highlights the handbag's craftsmanship.",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-04-06T13:00:48",
-      "title_ja": "TSATSAS がディーター・ラムスの 931 バッグの新しい色合いを発表 |9月|この象徴的なデザインが、ハンドバッグのクラフトマンシップを際立たせる、しなやかで高級感のあるバーガンディ カーフスキンで登場しました。",
-      "summary_ja": "",
-      "image_url": "https://design-milk.com/images/2026/04/TSATSAS_931_DieterRams_burgundy-2-e1775404765429.jpeg",
-      "body_ja": "アイコンをどのように改善しますか? 931 ハンドバッグのアップデートに関して、ドイツのアクセサリー ブランド TSATSAS は何も変更しませんでした。厳格でコンパクトなデザインは、ディーター ラムスのミッドセンチュリーのクラシックと同じくらい耐久性があります。代わりに、TSATSAS はカーフスキン バッグの新色であるバーガンディを導入しました。この最新のトーンは、2018 年にリリースされたブラック、コンクリート グレー、カーキ グリーンのバージョンに加わります。\nこの作品は 1963 年のラムズのデザインに基づいています。当時、ラムズは"
     },
     {
       "title": "Not Useless: Why Experimental Websites Matter More Than You Think",
@@ -665,6 +701,16 @@
       "body_ja": "NEWS ｜ カルチャー / ビジネス\n2026.04.06 16:03\n新媒体『とぶ！ぴあ』が4月6日（月）に創刊される。2011年に休刊となった情報誌『ぴあ』が、B5版96ページ、フルカラーの月刊誌として復刊したものだ。15年ぶりとなる紙媒体での再始動は、アナログとデジタルを接続する新たなメディアとして位置づけられる。\n『とぶ！ぴあ』の特徴は、紙のページをめくる行為と、デジタルへの即時接続を組み合わせた構造にある。誌面に掲載されたQRコードを通じて、「ぴあアプリ」やウェブへと遷移し、最新情報の取得やチケット購入へシームレスにつながる。紙がもたらす偶然の出会いと、デジタルの即時性を往復する設計は、従来の情報誌の枠組みを更新する試みだ。\n注目すべきは、「検索」や「レコメンド」に依存しない情報体験だ。インターネット環境では、既存の関心や嗜好に基づいた情報が優先的に提示される一方で、未知の対象との出会いは生まれにくい。しかし新しいぴあでは、映画を中心に音楽、演劇、アートなど複数ジャンルを横断"
     },
     {
+      "title": "BtoB顧客の8割が「商談内容を忘れる」。営業資料に足りない“致命的な3項目”とは？【Cone調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/04/06/52431",
+      "summary": "<div class=\"field--name-field-brief-desc\">営業資料に入れるべき3つのスライドとは？ “定番構成”と“顧客ニーズ”のズレが明らかに。</div>\n      \n            <div class=\"field--name-body\">\n<p>Coneは、営業資料の作成に関する調査を実施した。同社が支援した営業資料100件と、過去2年以内にBtoBサービスの導入検討に関わった経験がある222名を対象に調べている。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n<p>関",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-05T21:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0331_Cone_01.png?itok=QFWYe5aY"
+    },
+    {
       "title": "The invisible layer of UX most designers ignore",
       "url": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4",
       "summary": "<h4>How your design decisions translate to screen reader output</h4><p>Most designers spend their time editing and improving what our users see, like color palettes, layout grids, and type hierarchy. We obsess over high-fidelity polish and happily push pixels until everything feels right.</p><p><str",
@@ -675,19 +721,6 @@
       "image_url": "https://cdn-images-1.medium.com/max/1024/1*kmT7QnHT5fCWK6-IsZWsLg.png",
       "title_ja": "ほとんどのデザイナーが無視する UX の目に見えない層",
       "summary_ja": "デザイン上の決定がスクリーン リーダーの出力にどのように反映されるかほとんどのデザイナーは、カラー パレット、レイアウト グリッド、タイプ hie など、ユーザーに表示されるものの編集と改善に時間を費やしています。"
-    },
-    {
-      "title": "F5: Alex Lerian on Live Music, a Favorite Burrito Spot, Materials + More",
-      "url": "https://design-milk.com/f5-alex-lerian-on-live-music-a-favorite-burrito-spot-materials-more/",
-      "summary": "Alex Lerian, native New Yorker and general manager of Ege Capets Americas, shares some of his favorites, from museums to live music, and more, in this Friday Five.",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-04-03T16:00:29",
-      "title_ja": "F5: Alex Lerian がライブ ミュージック、お気に入りのブリトー スポット、素材などについて語る",
-      "summary_ja": "生粋のニューヨーカーであり、Ege Capets Americas のゼネラルマネージャーである Alex Lerian が、美術館からライブ音楽などに至るまで、彼のお気に入りのいくつかをこの Friday Five で紹介します。",
-      "image_url": "https://design-milk.com/images/2026/04/Alex-Lerian-Ege-Carpets-works-01-EXTREME-CASHMERE.jpg",
-      "body_ja": "ニューヨーク市で生まれ育ったアレックス・レリアンは、終わりのない動きの中で育ち、それが彼の空間認識を高めるだけでなく、彼の美的認識を形作りました。 「光、物質、環境を常に観察していることに気づき始めました」と彼は言います。 「デザインは、私があらゆることを経験するレンズのようなものになりました。」\nLerian はキャリアを通じて、アカウント エグゼクティブおよびプロジェクト マネージャーとしての役割を果たしてきたため、思慮深い恩師となってきました。"
     },
     {
       "title": "メゾン・マルジェラ 6つの感情を起点とした香りの“解体と再構築”   新フレグランス「The Scentsorium Collection」",
@@ -710,28 +743,6 @@
       "published": "2026-04-03T07:03:32",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/03/Uool_2.jpg",
       "body_ja": "NEWS ｜ インテリア / プロダクト\n2026.04.03 16:03\n岐阜県多治見市を拠点とするタイルメーカーのエクシィズは、家電製造過程で発生する断熱材用グラスウールの廃材を主原料とする磁器質タイル「Uool（ウール）」を開発した。\n多くの家電廃材は質の高い素材でありながら活用されずに廃棄されてきた。エクシィズは、リサイクルタイル開発部門であるecorevo（エコレボ）において、低温焼成による環境負荷低減タイルの可能性を探求してきたが、ガラス粉砕コストなど実用化への壁が存在していた。そこで提供された微粉砕グラスウールと廃粘土を独自比率で調合することで原料化に成功。さらに電気炉による低温短時間焼成プロセスを確立し、従来比でCO²排出量を55％、エネルギー消費量を60％削減した。\n「Uool」は、家電廃棄物と鉱山廃棄物というふたつの産業副産物を活用し、環境性能とタイル本来の機能性を両立する点が特徴である。吸水率はわずか1.5％未満と低く、水廻りや屋外空間にも強い耐久性を持つ。無釉タイ"
-    },
-    {
-      "title": "遊具とオブジェの境界を揺さぶる エーロ・アールニオによるロッキングチェア「ロシナンテ」",
-      "url": "https://www.axismag.jp/posts/2026/04/705171.html",
-      "summary": "AKASE GROUPはこの春、スペインのデザイン家具ブランドVONDOMの正規代理店となり、日本国内での販売を始めたが、そのなかのひとつに、小品ながら興味深いプロダクトがある。 フィンランド出身のデザイナー、エーロ・ア [&#8230;]",
-      "source": "AXIS Web",
-      "icon": "🎭",
-      "lang": "ja",
-      "published": "2026-04-03T01:45:13",
-      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/03/Vondom_Rosinanre_001.jpg",
-      "body_ja": "NEWS ｜ ビジネス\n2026.04.03 10:45\nAKASE GROUPはこの春、スペインのデザイン家具ブランドVONDOMの正規代理店となり、日本国内での販売を始めたが、そのなかのひとつに、小品ながら興味深いプロダクトがある。\nフィンランド出身のデザイナー、エーロ・アールニオが手がけたロッキングチェア「ROSINANTE（ロシナンテ）」である。馬のフォルムを抽象化した本作は、子どもの遊具としての機能を持ちながら、空間に強い存在感をもたらすデザインピースだ。\nその造形は、曲線によって構成されたシンプルなフォルムに特徴づけられる。木馬という原初的な遊具のイメージを引き継ぎながらも、現代的なプロダクトへと再構成されている。屋内にも屋外にも置くことができ、公共空間や商業施設、住宅に至るまで、空間にユーモラスな遊びの要素をもたらす。\n「ロシナンテ」という名称は、スペイン文学『ドン・キホーテ』に登場する馬の名前に由来する。文化的背景を内包するネーミングとともに、デザインそのものもまた、普遍"
-    },
-    {
-      "title": "建具の体験型ショールームが南青山に誕生。「Aria & Aura Aoyama Gallery NATURA MAESTRA」",
-      "url": "https://www.axismag.jp/posts/2026/04/705514.html",
-      "summary": "キッチンや造作家具、木製サッシ、建具を手がける国内4社による協業ブランドAria &#038; Auraは、東京・南青山に新たなショールーム「Aria &#038; Aura Aoyama Gallery NATURA  [&#8230;]",
-      "source": "AXIS Web",
-      "icon": "🎭",
-      "lang": "ja",
-      "published": "2026-04-02T06:39:30",
-      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/03/578b6a9054142431992ab1d61675499e.jpg",
-      "body_ja": "NEWS ｜ インテリア / ビジネス\n2026.04.02 15:39\nキッチンや造作家具、木製サッシ、建具を手がける国内4社による協業ブランドAria & Auraは、東京・南青山に新たなショールーム「Aria & Aura Aoyama Gallery NATURA MAESTRA」を開設した。2013年の発足以来、新宿OZONEを拠点としてきた同ブランドにとって、本拠地の移転は単なる場所の変更ではなく、ブランドの位置づけを更新する転機となる。\nAria & Auraは4社が協業するブランドで、「無垢をデザインする」というコンセプトのもと、樹齢100年を超える天然木材を、職人の技術と現代のデザインで住空間へ届けることを目指している。\n今回移転する南青山という立地の選択には明確な意図がある。同エリアには世界的な家具ブランドのショールームが集積する一方で、木製サッシなどの建具や造作家具に特化した拠点はほとんど存在してこなかった。だが、建具と建物は一体化していて、家具よりはるかに長く使い"
     },
     {
       "title": "良いデザインシステムとは？その基本と構造をグッドパッチが解説｜Blog｜Goodpatch グッドパッチ",
@@ -796,7 +807,7 @@
       "icon": "🎨",
       "lang": "en",
       "published": "2026-03-30T11:48:00",
-      "title_ja": "Google Stitch: これでジュニアデザイナーは終わりですか? |9月|ピクセルパーフェクトなデザイナーが亡くなり、Google Stitch が葬儀を行ったところです。私たちは手動 UI の「技術」を、30 秒のプロンプトが表示される「Vibe Design」の時代に正式に置き換えます。",
+      "title_ja": "Google Stitch: これでジュニアデザイナーは終わりですか? |9月|ピクセル完璧なデザイナーが亡くなり、Google Stitch が葬儀を執り行いました。私たちは正式に手動 UI の「技術」を、30 秒のプロンプトが表示される「Vibe Design」の時代に置き換えています。",
       "summary_ja": ""
     },
     {
@@ -941,16 +952,6 @@
       "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/03/opening.jpg?fit=6192%2C4128&ssl=1"
     },
     {
-      "title": "神山まるごと高専にグッドパッチが出張授業。「起業家の卵たち」にUXデザインの重要性をどう伝えたか？｜Blog｜Goodpatch グッドパッチ",
-      "url": "https://goodpatch.com/blog/2026-03-kamiyama",
-      "summary": "普段はワークショップなどを通じて、デザインを教えているグッドパッチですが、私たちがデザインを教える相手は社会人だけではありません。 2026年1月、徳島県にある「神山まるごと高等専門学校（以下、神山まるごと高専）」に招待 [&#8230;]",
-      "source": "Goodpatch Blog",
-      "icon": "✏️",
-      "lang": "ja",
-      "published": "2026-03-17T01:00:00",
-      "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/03/image2.jpg?fit=1999%2C1330&ssl=1"
-    },
-    {
       "title": "How Aspect Ratios Define Perception, Rhythm, and Flow",
       "url": "https://webdesignerdepot.com/how-aspect-ratios-define-perception-rhythm-and-flow/",
       "summary": "A deep exploration of how aspect ratios shape perception, visual rhythm, and usability in modern interfaces. From grids to galleries to video players, this article dissects how proportion silently governs how users see, feel, and interact with content.",
@@ -1020,17 +1021,16 @@
       "summary_ja": "デザイントークンは私たちの生活を楽にするはずでしたが、今では私たちを生きたまま食べています。デザインとコードの調和を生み出す方法として始まったものが、終わりのない迷路へと変わった"
     },
     {
-      "title": "Prompt Hoarders: 7 Reasons Saving Prompts Won’t Make You Creative",
-      "url": "https://webdesignerdepot.com/prompt-hoarders-7-reasons-saving-prompts-wont-make-you-creative/",
-      "summary": "We’re not getting smarter with AI — we’re just getting better at hoarding prompts and calling it “creativity.” The real danger isn’t AI replacing us. It’s us quietly forgetting how to think.",
-      "source": "Web Designer Depot",
-      "icon": "🎨",
-      "lang": "en",
-      "published": "2026-03-05T13:04:00",
-      "title_ja": "プロンプトをため込む人: プロンプトを保存してもクリエイティブになれない 7 つの理由",
-      "summary_ja": "私たちは AI に関して賢くなっているのではなく、プロンプトを溜め込み、それを「創造性」と呼ぶことが上手になっているだけです。本当の危険は、AI が私たちに取って代わることではありません。私たちは静かにその方法を忘れています"
+      "title": "URLクエリパラメータ(クエリストリング)の意味とは。使い方は? 除外はすべき?［第4回］",
+      "url": "https://webtan.impress.co.jp/e/2012/04/26/12663",
+      "summary": "<div class=\"field--name-body\">\n<p>今回も引き続き、Googleアナリティクスの導入に際しての設定を解説していく。<a href=\"https://webtan.impress.co.jp/e/2012/04/12/12561\">第2回</a>で新規に作成した「プロファイルA」を例にしながら、「URLクエリパラメータ」を除外するかしないか、除外する場合の設定手順を解説する。</p>\n\n\n\n\n\n<h2>「URL クエリパラメータを除外」の設定画面を開く</h2>\n\n\n\n<p>まずは、第2回2ページ目の<a href=\"https://webtan.impress.",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2012-04-26T00:00:00",
+      "image_url": "https://webtan.impress.co.jp/files/images/article2012/google_analytics/google_analytics04_01.png"
     }
   ],
-  "last_updated": "2026-04-09T07:38:39.659222+09:00",
+  "last_updated": "2026-04-10T07:41:01.325576+09:00",
   "count": 90
 }
