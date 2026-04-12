@@ -1,6 +1,224 @@
 {
   "articles": [
     {
+      "title": "産総研のフィジカルAIプロジェクトに迫る　10万年ギャップを超えろ！",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2604/13/news006.html",
+      "summary": "産業技術総合研究所（産総研）が「フィジカル領域の生成AI基盤モデルに関する研究開発」プロジェクトについて解説するウェビナーを開催。同プロジェクトを構成する6つのグループから最新の研究成果が報告された。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2604/13/cover_news006.jpg",
+      "body_ja": "産業技術総合研究所（産総研）が「フィジカル領域の生成AI基盤モデルに関する研究開発」プロジェクトについて解説するウェビナーを開催。同プロジェクトを構成する6つのグループから最新の研究成果が報告された。\n産業技術総合研究所（以下、産総研）は2026年3月23日、「フィジカル領域の生成AI基盤モデルに関する研究開発」プロジェクトについて解説するウェビナーを開催した。日本の主力産業である製造業を中心に注目を集めるフィジカルAI（人工知能）がテーマになっていることもあり、参加者は400人を超えたという。\n冒頭では、プロジェクトの概要と狙いを、産総研 人工知能研究センター 首席研究員の佐藤雄隆氏が解説した。2024〜2026年度の3年間で計画されている同プロジェクトは、産総研としてフィジカルAIの基盤モデルを活用したシステム、アプリケーションを広く浸透させるとともに、日本のさまざまな産業の業務改善、業務改革を促して国際競争力の維持／向上に寄与することを目指している。また、透明性を持つ基盤モデルの構"
+    },
+    {
+      "title": "Seedance 2.0×AIエージェントでAI動画が激変　“AI脚本家”や“AI絵コンテ作家”との共同作業で、アニメ制作が身近に",
+      "url": "https://ascii.jp/elem/000/004/394/4394296/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/13/4450810/s/ed5fd330b83d527b.jpg\" width=\"60\" />Seedance 2.0でAI動画の品質と一貫性が向上。脚本や絵コンテを担うAIエージェントの分業により、初心者でも短時間でアニメ制作しやすくなってきた。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/13/4450810/s/ed5fd330b83d527b.jpg"
+    },
+    {
+      "title": "歯科技工所経営に特化した経営分析機能を強化、歯科技工基幹業務クラウド「エミウム クラウド技工」",
+      "url": "https://ascii.jp/elem/000/004/393/4393366/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/12/4450628/s/31a2d19de73051d1.png\" width=\"60\" />エミウム株式会社は4月8日に、歯科技工基幹業務クラウド「エミウム クラウド技工」の経営ダッシュボード機能のアップデートを発表。月次売上高・受注件数・平均単価・再製作率・保険割合といったKPI（重要業績評価指標）の可視化や、顧客別分析、技工物別分析、技工士別分析、ピボット分析など、歯科技工所経営に特化した経営分析機能を搭載し強化した。</p><br clear=\"lef",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/12/4450628/s/31a2d19de73051d1.png"
+    },
+    {
+      "title": "発汗計測による熱中症リスク管理デバイス「カナルパイロット」新モデル発表",
+      "url": "https://ascii.jp/elem/000/004/393/4393309/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/12/4450619/s/0b7bf9b48054bd73.jpg\" width=\"60\" />公立諏訪東京理科大学発ベンチャーのカナルウォーター株式会社は4月6日に、建設・製造現場向けの熱中症対策機器「カナルパイロット」の新モデルを発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/12/4450619/s/0b7bf9b48054bd73.jpg"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年4月17日号）",
+      "url": "https://ascii.jp/elem/000/004/393/4393123/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg\" width=\"60\" />巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg"
+    },
+    {
+      "title": "日本のミリ波どうなる？ カギを握るのはやはりiPhoneか",
+      "url": "https://ascii.jp/elem/000/004/390/4390044/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/10/4449682/s/a74c3bbcc8dd6f49.jpg\" width=\"60\" />日本でミリ波が広がるかどうかは、対応端末の拡大が焦点。特にiPhoneが日本向けにミリ波対応するかが、普及の大きな分岐点になりそうだ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/10/4449682/s/a74c3bbcc8dd6f49.jpg"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～自分へのご褒美に4.4万円でCPUグリスの特注ボトルを買った話～",
+      "url": "https://ascii.jp/elem/000/004/389/4389847/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />自分へのご褒美に4.4万円でCPUグリスの特注ボトルを買った話。木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "タブー化する「ワクチン」、がん治療をモデルナが改名した理由",
+      "url": "https://ascii.jp/elem/000/004/394/4394322/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />画像クレジット:Stephanie Arnett/MIT Technology Review | Adobe Stock</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T21:39:45",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-12T21:14:38",
+      "title_ja": "トランプ当局者は銀行にアンスロピック社のミトス・モデルをテストするよう奨励している可能性がある",
+      "summary_ja": "最近国防総省がAnthropicをサプライチェーンのリスクと宣言したため、この報告書は特に驚くべきものである。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "body_ja": "ブルームバーグによると、スコット・ベッセント財務長官とジェローム・パウエル連邦準備制度理事会議長は今週、銀行幹部らを招集して会議を開き、アンスロピックの新しいミトス・モデルを利用して脆弱性を検出するよう幹部らに奨励したという。\n実際、JPモルガン・チェースは、このモデルにアクセスできる最初のパートナー組織の1つとしてリストされた唯一の銀行であったが、ゴールドマン・サックス、シティグループ、バンク・オブ・アメリカ、およびモルガン・スタンレーは、伝えられるところによれば、このモデルにアクセスできる唯一の銀行である。"
+    },
+    {
+      "title": "そのPC作業、まだ“手動”でやっているんですか？　チャットの次は「AIに作業を任せる」時代へ（Cowork活用編）",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/13/news014.html",
+      "summary": "最新のAIでは、PC上の作業をAIに任せられるようになりました。ファイル整理や情報のまとめ、繰り返し作業の自動化など、AI活用の発想を大きく変える5つの活用シーンを具体例で紹介します。Claude Coworkをまだ使っていない人でも、自分の業務に当てはめて使いどころを考えられる内容です。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-12T20:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2604/13/cover_news014.jpg",
+      "body_ja": "最新のAIでは、PC上の作業をAIに任せられるようになりました。ファイル整理や情報のまとめ、繰り返し作業の自動化など、AI活用の発想を大きく変える5つの活用シーンを具体例で紹介します。Claude Coworkをまだ使っていない人でも、自分の業務に当てはめて使いどころを考えられる内容です。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAIといえば「チャットで質問して答えをもらうもの」だと思っていないでしょうか。しかし今や、それだけで満足していると危ういかもしれません。AIは既に、答えるだけでなくPC作業そのものを実行する段階に入り始めています。ファイル整理、エクセル作業、資料の清書、情報収集。今あなたが手で行っている作業の多くは、AIが代わりに実行できるようになりつつあります。\nその代表例が、Claude Cowork（クロード・コワーク）のような自律実行型AIエージェントです。Cowork登場のタイミングでSaaS関連の株価が急落したため、「SaaSの死」との"
+    },
+    {
+      "title": "Apple reportedly testing four designs for upcoming smart glasses",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-12T19:58:42",
+      "title_ja": "Apple は次期スマートグラスの 4 つのデザインをテストしていると伝えられています |9 月|これらのメガネは、かつて Apple にさまざまな複合現実および拡張現実デバイスの発売を求めた野心的な計画から一歩後退したものです。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+      "body_ja": "ブルームバーグのマーク・ガーマン氏によると、アップルは2027年に最初のスマートグラスを販売する予定で、今年末に発表される可能性があるという。\nガーマン氏は同社のスマートグラス戦略の進化について着実に報告してきたが、今回、スマートグラスがどのように見えるかについてさらに詳しい情報を得た。アップルは4つのデザインをテストしており、最終的にはその一部または全部を発売する可能性があると述べた。\nこれらのデザインには、大きな長方形のフレーム、よりスリムなフレームが含まれていると伝えられています。"
+    },
+    {
+      "title": "生成AI導入の主導体制を決めるための5つの指針！90日で実行するためのロードマップ",
+      "url": "https://ainow.ai/2026/04/13/277916/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25b8%25bb%25e5%25b0%258e%25e4%25bd%2593%25e5%2588%25b6%25e3%2582%2592%25e6%25b1%25ba%25e3%2582%2581%25e3%2582%258b%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae5%25e3%2581%25a4%25e3%2581%25ae%25e6%258c%2587%25e9%2587%259d%25ef%25bc%258190",
+      "summary": "<p>&#29983;&#25104;AI&#12434;&#23566;&#20837;&#12375;&#12383;&#12356;&#12369;&#12428;&#12393;&#12300;&#35504;&#12364;&#27770;&#12417;&#12427;&#12398;&#12363;&#12301;&#12364;&#23449;&#12395;&#28014;&#12356;&#12383;&#12414;&#12414;&#12289;&#20250;&#35696;&#12384;&#12369;&#12364;&#22679;&#12360;&#12390",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-04-12T15:18:29",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/04/Gemini_Generated_Image_1cebzl1cebzl1ceb-1.jpeg",
+      "body_ja": "生成AIを導入したいけれど「誰が決めるのか」が宙に浮いたまま、会議だけが増えてしまうという悩みを抱えている企業も多いのではないでしょうか。\nこの記事では、経営・現場・情シス・法務を共同主導に束ねる5つの指針と、90日で数字を出す実行計画を解説します。\n目次\n生成AI導入の主導体制を決める5つの指針\n主導権を決めるうえで押さえるべき論点は以下の5つです。\n- 経営が決めるべき領域を明確にする\n- 現場が決めるべき領域を明確にする\n- 情報システムが決めるべき領域を明確にする\n- 法務・セキュリティが決めるべき領域を明確にする\n- 共同主導で決めるべき領域を明確にする\n経営主導か現場主導かの二択に寄せると議論が荒れるため、先に5つへ分解しておきましょう。\n経営が決めるべき領域を明確にする\n経営層が握るべきなのは導入目的・投資枠・全社KPI・許容リスク水準の4項目です。生産性の目標値、顧客対応の品質基準、機密情報の投入可否など、部門最適の延長では決め切れない論点だからです。\n生成AIが業務プロ"
+    },
+    {
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-12T15:07:08",
+      "title_ja": "LLM から幻覚まで、一般的な AI 用語の簡単なガイドです",
+      "summary_ja": "AI の台頭により、新しい用語や俗語が雪崩のように登場しました。ここでは、遭遇する可能性のあるいくつかの最も重要な単語やフレーズの定義をまとめた用語集を示します。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+      "body_ja": "人工知能は奥深く複雑な世界です。この分野で働く科学者は、自分たちが研究している内容を説明するために専門用語や専門用語に頼ることがよくあります。その結果、人工知能業界を取材する際には、これらの専門用語を頻繁に使用する必要があります。そのため、記事内で使用する最も重要な単語やフレーズの定義をまとめた用語集を作成することが役立つと考えました。\n私達はします"
+    },
+    {
+      "title": "AIを組み込んだOJTを安全に定着させる7ステップ！週次運用の進め方とKPI設計も",
+      "url": "https://ainow.ai/2026/04/13/277923/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%2592%25e7%25b5%2584%25e3%2581%25bf%25e8%25be%25bc%25e3%2582%2593%25e3%2581%25a0ojt%25e3%2582%2592%25e5%25ae%2589%25e5%2585%25a8%25e3%2581%25ab%25e5%25ae%259a%25e7%259d%2580%25e3%2581%2595%25e3%2581%259b%25e3%2582%258b7%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e9%2580%25b1",
+      "summary": "<p>&#12300;AI&#30740;&#20462;&#12391;&#12399;&#20351;&#12360;&#12383;&#12398;&#12395;&#29694;&#22580;&#12395;&#25147;&#12427;&#12392;&#32154;&#12363;&#12394;&#12356;&#12301;&#12300;&#19978;&#21496;&#12364;&#28961;&#29702;&#12394;&#12367;&#22238;&#12379;&#12427;AI&#25512;&#36914;&#12398;&#26041;&#278",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-04-12T15:07:00",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/04/Gemini_Generated_Image_qu4g2vqu4g2vqu4g.jpeg",
+      "body_ja": "「AI研修では使えたのに現場に戻ると続かない」「上司が無理なく回せるAI推進の方法が知りたい」\nそんな悩みを抱えている方は多いのではないでしょうか。\nこの記事では、AI を組み込んだOJTを週次運用で安全に定着させる7ステップと、成果を数字で示すKPI設計を解説します。\n目次\n週次運用で回すAIを組み込んだOJTの全体像\nAI OJTが研修で止まる一番の原因は、Off-JTで覚えた操作が現場の成果物・承認・責任分界の流れにつながらないことです。ここを埋めるのが週次運用です。\n毎週短くふりかえってズレを潰し、型を少しずつ現場仕様に寄せていくことで、上司が毎日つきっきりにならずに済みます。受講者側の「使った・使わなかった」「どこで詰まったか」も翌週に持ち越さず回収できます。\nリスクを見つけ、統制を設計し、継続的に直していく考え方はNIST AI RMFやISO/IEC 23894が示す方向性とも重なります。AIを入れるほど運用設計が効いてくる、という前提を最初に共有しておくと現場の腹落ちが変"
+    },
+    {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-12T15:00:00",
+      "title_ja": "HumanX カンファレンスでは、誰もがクロードについて話していました",
+      "summary_ja": "Anthropic は、サンフランシスコで開催された AI 中心のカンファレンスの主役でした。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+      "body_ja": "今週サンフランシスコで開催されたHumanX AIカンファレンスでは、数千人の技術者が市のモスコーンセンターに集まり、エージェントAIがビジネスをどのように変えるかについて議論が集中した。ビジネスやコーディングのタスクを自動化するエージェントは、主に企業および消費者向けのチャットボットを通じて、業界全体に導入され始めています。\n当然のことながら、どのチャットボットが最も人気があるのか​​知りたかったのですが、常に最もよく聞かれる名前が 1 つありました。"
+    },
+    {
+      "title": "情報収集を効率化できる生成AIツール3選！Gemini・Manus・ChatGPTを用途別に比較",
+      "url": "https://ainow.ai/2026/04/12/277918/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2583%2585%25e5%25a0%25b1%25e5%258f%258e%25e9%259b%2586%25e3%2582%2592%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab3%25e9%2581%25b8%25ef%25bc%2581gemini%25e3%2583%25bbmanus%25e3%2583%25bbchatgp",
+      "summary": "<p>&#12300;&#26469;&#26376;&#12363;&#12425;AI&#12391;&#24773;&#22577;&#21454;&#38598;&#12434;&#21177;&#29575;&#21270;&#12375;&#12390;&#12301;&#12392;&#35328;&#12431;&#12428;&#12383;&#12418;&#12398;&#12398;&#12289;&#12393;&#12398;&#12484;&#12540;&#12523;&#12434;&#12393;&#12358;&#20351;&#12356;&#20998",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-04-12T14:51:45",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/04/Gemini_Generated_Image_ro4rp5ro4rp5ro4r.jpeg",
+      "body_ja": "「来月からAIで情報収集を効率化して」と言われたものの、どのツールをどう使い分ければよいか悩んでいる方は多いのではないでしょうか。\nこの記事では、AINOW編集部がおすすめする情報収集ツールのGemini・Manus・ChatGPTを用途別に比較し、料金と出典の扱いから失敗しない選び方を解説します。\n目次\n情報収集AIは仕事の型で3分類すると迷わない\n情報収集AIを使い分けるための基本分類は以下の3つです。\n- 速報性・横断検索でWebを広く速く拾う\n- 深掘り自動調査で論点設計から統合まで自動化する\n- 汎用情報収集で日常業務の調査をこなす\nどの業務をどのタイプに当てるかを先に固定しておくと、ツール比較で迷わなくなります。\n速報性・横断検索でWebを広く速く拾う\n市場動向・競合の発表・価格改定・炎上リスクなど、まず全体を拾って当たりをつけたい局面では検索連携型の生成AIが役立ちます。回答と一緒に出典リンクを出せるため、チーム内で「結局どのURLを読めばよいか」を揃えやすくなります。\n初"
+    },
+    {
+      "title": "軽量約375g、防水レインブーツ「TNF RAIN LOW GTX」がお買い得",
+      "url": "https://ascii.jp/elem/000/004/393/4393783/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/01/14/4401328/s/ee29e1caa57f2938.jpg\" width=\"60\" />ザ・ノース・フェイスの「TNF RAIN LOW GTX」がAmazonで参考価格24,000円から37％オフ。GORE-TEXとVibramソールを備えた軽量レインブーツを、お得にチェックできます。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T13:00:00",
+      "image_url": "https://ascii.jp/img/2026/01/14/4401328/s/ee29e1caa57f2938.jpg"
+    },
+    {
+      "title": "【17万円台】公式18万円台のMacBook Air 13インチがAmazonで狙い目",
+      "url": "https://ascii.jp/elem/000/004/392/4392372/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/03/20/4438641/s/2fb325073249f5c7.jpg\" width=\"60\" />Appleの13インチMacBook Air M5モデルがAmazonで17万円台です。16GBメモリ、512GB SSDの使いやすい構成を、お得に狙えるタイミングです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/03/20/4438641/s/2fb325073249f5c7.jpg"
+    },
+    {
+      "title": "【2026春アニメまとめ】新年度とともに放映＆配信開始！ 80作品以上の春アニメを全部チェック！",
+      "url": "https://ascii.jp/elem/000/004/386/4386936/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/02/4445434/s/2e826c9b0fea5349.jpg\" width=\"60\" />新学期、新生活の始まる4月。春アニメ特集もスタート。80本以上の作品を紹介予定なので、しっかりチェックしてほしい！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-12T10:20:00",
+      "image_url": "https://ascii.jp/img/2026/04/02/4445434/s/2e826c9b0fea5349.jpg"
+    },
+    {
+      "title": "OpenAIのアルトマンCEO、批判的報道と自宅への火炎瓶事件についての個人ブログ公開　家族写真も",
+      "url": "https://www.itmedia.co.jp/news/articles/2604/12/news018.html",
+      "summary": "OpenAIのサム・アルトマンCEOは、自身を批判する報道や自宅への火炎瓶投げ込み事件を受け、個人ブログで心境を明かした。AIへの不安に理解を示しつつ、過度な扇動が暴力を招くリスクを指摘。AGIを巡る権力争いを「権力の指輪」に例え、技術を広く共有し、民主的なプロセスで管理する重要性を強調している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-12T00:19:00",
+      "image_url": "https://image.itmedia.co.jp/news/articles/2604/12/cover_news018.jpg",
+      "body_ja": "米OpenAIのサム・アルトマンCEOは4月11日（現地時間）、個人のブログで、The New Yorkerによる同氏に関する記事や自宅への火炎瓶投げ込み事件について語った。The New Yorkerの長編記事は、AI業界で絶大な影響力を持つアルトマン氏の特異な経営手法や、周囲を丸め込む比類のない説得力について掘り下げたものだ。同氏のビジネスの才覚を高く評価する声がある一方で、かつての同僚からは同氏に「人を欺くパターン」があり、人類の存亡に関わる技術を託すには危険だという警告も出されており、同氏の光と影を描き出している。\nサンフランシスコ警察の発表によると、火炎瓶の投げ込み事件は4月10日の午前3時45分ごろ、サンフランシスコにあるアルトマン氏の自宅で発生した。火炎瓶は家の外門に当たって火災を発生させたものの負傷者はなく、事件から約1時間後にOpenAI本社で建物を燃やすと脅していた20歳の容疑者が逮捕された（米CNBCより）。\nアルトマン氏はブログで、自身への扇動的な記事が世間の不安"
+    },
+    {
       "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
       "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
@@ -12,106 +230,6 @@
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
       "body_ja": "OpenAIの最高経営責任者（CEO）サム・アルトマン氏は金曜夜、自宅への明らかな攻撃と、彼の信頼性に対する疑問を生じさせるニューヨーカーの詳細なプロフィールの両方に反応するブログ投稿を公開した。\n金曜早朝、何者かがアルトマンさんのサンフランシスコの自宅に火炎瓶を投げ込んだとされる。 SF紙によると、この事件で負傷者は出ず、容疑者は後にOpenAI本社で逮捕され、建物に放火すると脅迫されたという。"
-    },
-    {
-      "title": "RTX 5090搭載ゲーミングPCが値下げ｜最大13.2万円オフの激安セール",
-      "url": "https://ascii.jp/elem/000/004/390/4390430/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/10/4449909/s/656671e734fbb7a7.png\" width=\"60\" />セブンアールジャパンが運営するパソコンショップSEVENが、4月12日に最新のゲーミングPCを含む特別セールを開催。最大132,000円オフの大幅値下げに注目が集まる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/10/4449909/s/656671e734fbb7a7.png"
-    },
-    {
-      "title": "空気清浄機、どれ選ぶ？迷ったらこれ。加湿もこれ1台、シャープが3万円切り",
-      "url": "https://ascii.jp/elem/000/004/390/4390432/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/10/4449893/s/5ed36e1f1fa44995.jpg\" width=\"60\" />シャープの「加湿 空気清浄機 KI-TS50-W」がAmazonで割引対象。参考価格39,800円のところ、25％オフの29,790円で販売中。プラズマクラスター25000に対応し、空気清浄（～23畳）と加湿（最大600mL/h）を1台でこなせる薄型スリムモデル。売れ行きとレビューの安定感もあって、選びやすい1台。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T14:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/10/4449893/s/5ed36e1f1fa44995.jpg"
-    },
-    {
-      "title": "魚焼き、裏返さなくていい。ほぼ放置でいいロースター、6,980円",
-      "url": "https://ascii.jp/elem/000/004/390/4390184/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/10/4449780/s/25ff65f1f2a99e2f.jpg\" width=\"60\" />山善の「ワイドグリル フィッシュロースター NFR-1100(MB)」がAmazonで割引対象。参考価格7,981円のところ、13％オフの6,980円で販売中。上下ヒーターの両面焼きで裏返し不要、30分タイマー付きでほぼ放置で使える電気ロースター。本体とヒーター以外は水洗い可能。魚焼きを面倒に感じてるなら、この手のロースターはハマりやすい。</p><br clear=",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/10/4449780/s/25ff65f1f2a99e2f.jpg"
-    },
-    {
-      "title": "小柄＆丸顔の最強妹キャラ「えぬちゃん」が、待望の1st DVDで等身大のお家デート！",
-      "url": "https://ascii.jp/elem/000/004/388/4388038/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/08/4448375/s/735ca87d41c10a47.jpg\" width=\"60\" />小柄で丸顔でとにかく可愛いと評判！　いま撮影会で注目されている「えぬちゃん」が、1st DVD「ぷりっとえぬ」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/08/4448375/s/735ca87d41c10a47.jpg"
-    },
-    {
-      "title": "【2026春アニメまとめ】新年度とともに放映＆配信開始！ 80作品以上の春アニメを全部チェック！",
-      "url": "https://ascii.jp/elem/000/004/386/4386936/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/02/4445434/s/2e826c9b0fea5349.jpg\" width=\"60\" />新学期、新生活の始まる4月。春アニメ特集もスタート。80本以上の作品を紹介予定なので、しっかりチェックしてほしい！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T09:20:00",
-      "image_url": "https://ascii.jp/img/2026/04/02/4445434/s/2e826c9b0fea5349.jpg"
-    },
-    {
-      "title": "【2026春アニメ】『キルアオ』『BEASTARS FINAL SEASON』『だんでらいおん』など6作品",
-      "url": "https://ascii.jp/elem/000/004/392/4392065/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/11/4450416/s/86cde111e2a03c89.jpg\" width=\"60\" />春アニメ特集も最終盤。ネット配信作品などを含めて紹介。今回は『キルアオ』『BEASTARS FINAL SEASON』『だんでらいおん』など、計6作品を紹介。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T09:15:00",
-      "image_url": "https://ascii.jp/img/2026/04/11/4450416/s/86cde111e2a03c89.jpg"
-    },
-    {
-      "title": "成績だけじゃもう無理！ 約8割の親が「習い事の選び方」を変えるべきと実感、これからはコミュニケーション力が鍵だぞ",
-      "url": "https://ascii.jp/elem/000/004/388/4388225/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/08/4448612/s/59867231124d2881.png\" width=\"60\" />習い事の選び方に、見逃せない変化が起きてきている!?</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/08/4448612/s/59867231124d2881.png"
-    },
-    {
-      "title": "富士通の「学割」はPCが3000円オフ！ 4年保証も無料！",
-      "url": "https://ascii.jp/elem/000/004/387/4387572/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2024/12/30/4141208/s/2f6224db1665e82d.png\" width=\"60\" />富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T09:00:00",
-      "image_url": "https://ascii.jp/img/2024/12/30/4141208/s/2f6224db1665e82d.png"
-    },
-    {
-      "title": "まるで高級ゲームボーイ、レトロゲームに最適な快適性と懐かしさを兼ねたAndroidゲーム機",
-      "url": "https://ascii.jp/elem/000/004/387/4387529/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/06/4447249/s/305d423f64ab2d2e.png\" width=\"60\" />レトロゲーム機へのオマージュを、フルメタル筐体と超高精細ディスプレーで昇華した「AYANEO Pocket VERT」。懐かしさと高級感が矛盾なく共存する、大人のための携帯ゲーム機をレビュー。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/06/4447249/s/305d423f64ab2d2e.png"
-    },
-    {
-      "title": "31.5型×4Kでもこの価格！ 4万円切りで狙える大画面ディスプレーがコスパ最強すぎる",
-      "url": "https://ascii.jp/elem/000/004/390/4390355/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/03/27/4442099/s/ef61dfb1f93c90be.png\" width=\"60\" />ViewSonicの「VA3208-4K-MHD」は、仕事から動画視聴まで幅広く使える1台。HDR10対応や豊富な入力端子もうれしい。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-11T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/03/27/4442099/s/ef61dfb1f93c90be.png"
     },
     {
       "title": "経産省、30社を「DX銘柄2026」に認定　3年連続選出のSMBCは500億円超投資、成果は？",
@@ -172,7 +290,7 @@
       "title_ja": "TechCrunch は東京に向かい、スタートアップの戦場をもたらします |9 月| SusHi Tech 2026 は、社会を再構築する 4 つのテクノロジー領域 (AI、ロボティクス、レジリエンス、エンターテイメント) に焦点を当てています。人型ロボットのライブデモや自律走行に関するセッションが期待できます",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800",
-      "body_ja": "TechCrunch は、4 月 27 ～ 29 日に東京ビッグサイトで開催されるアジア最大のグローバル イノベーション カンファレンスである SusHi Tech Tokyo 2026 と提携しています。そして、私たちは単にそれを取材するために現れるだけではありません。私たち自身の Startup Battlefield プログラム マネージャーであるイザベル ヨハネッセンは、カンファレンスの旗艦となる世界的なピッチ コンテストである SusHi Tech Challenge の審査員として現場​​に立つ予定です。\n勝者にとって、これ以上の賭けはありません: SusHi Tech Challenge Gran"
+      "body_ja": "TechCrunch は、4 月 27 ～ 29 日に東京ビッグサイトで開催されるアジア最大のグローバル イノベーション カンファレンスである SusHi Tech Tokyo 2026 と提携しています。そして、私たちはそれを取材するために現れるだけではありません。私たち自身の Startup Battlefield プログラム マネージャーであるイザベル ヨハネッセンが、カンファレンスの旗艦となる世界的なピッチ コンテストである SusHi Tech Challenge の審査員として現場​​に立つ予定です。\n勝者にとって、これ以上の賭けはありません: SusHi Tech Challenge Gran"
     },
     {
       "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
@@ -183,9 +301,9 @@
       "lang": "en",
       "published": "2026-04-10T14:04:20",
       "title_ja": "名前には何が入っているのでしょうか？モデルナの「ワクチン」対「治療」のジレンマ",
-      "summary_ja": "それは国防総省ですか、それとも陸軍省ですか？メキシコ湾ですか、それともアメリカ湾ですか？ワクチン、それとも「個別ネオアンチゲン治療」?それがトランプ時代のヴォーカルだ",
+      "summary_ja": "それは国防総省ですか、それとも陸軍省ですか？メキシコ湾ですか、それともアメリカ湾ですか?ワクチン、それとも「個別ネオアンチゲン治療」?それがトランプ時代のヴォーカルだ",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/syringe-therapy1.jpg?resize=1200,600",
-      "body_ja": "名前には何が入っているのでしょうか？モデルナの「ワクチン」対「治療」のジレンマ\n企業は有望ながん治療法をめぐって言葉遊びをしている。\nそれは国防総省ですか、それとも陸軍省ですか？メキシコ湾ですか、それともアメリカ湾ですか？ワクチン、それとも「個別ネオアンチゲン治療」?\nこれが、インフルエンザや新興病原体に対する次世代mRNAワクチンの計画を立てている新型コロナウイルス感染症ショットメーカーのモデルナが直面している、トランプ時代の語彙の矛盾だ。"
+      "body_ja": "名前には何が入っているのでしょうか？モデルナの「ワクチン」対「治療」のジレンマ\n企業は有望ながん治療法をめぐって言葉遊びをしている。\nそれは国防総省ですか、それとも陸軍省ですか？メキシコ湾ですか、それともアメリカ湾ですか?ワクチン、それとも「個別ネオアンチゲン治療」?\nこれが、インフルエンザや新興病原体に対する次世代mRNAワクチンの計画を立てている新型コロナウイルス感染症ショットメーカーのモデルナが直面している、トランプ時代の語彙の矛盾だ。"
     },
     {
       "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
@@ -321,39 +439,6 @@
       "body_ja": "2028年までに企業向け生成AIアプリケーションの25％が年間5件以上のセキュリティインシデントを経験する――米Gartnerは4月9日（現地時間）、このような予測を発表した。MCPなど、AIを外部ツールやデータに接続するための共通規格はセキュリティよりも利便性を優先した設計のため、適切な監視なく導入すると情報漏えいや不正操作のリスクが高まると警告する。\nGartnerは、MCPなどの規格を利用する際は、データの意図しない露出や外部コンポーネントの脆弱（ぜいじゃく）性などのリスクに備える必要があると指摘。特に、エージェントが機密データへのアクセス、信頼できないコンテンツへの接触、外部との通信を1つのワークフローの中で実行している場合には注意が必要だという。\nこれらのリスクに対処するには、厳格なレビュー体制の確立や、高リスクなユースケースでAIと外部を連携させないこと、既知の脅威パターンへの対処、業務分野の専門家によるガードレールの定義などの対策が求められるとする。\n特に、AIアプリケーシ"
     },
     {
-      "title": "AIエージェントの「スキル」の品質低下を防ぐ？　テストと検証機能を強化",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news060.html",
-      "summary": "Anthropicは、AIアシスタント「Claude」の動作を拡張するAgent Skills作成ツール「skill-creator」に評価機能とベンチマーク機能を追加した。スキル作成者がコードを書かずにスキルの動作検証や品質を測定できるという。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-10T04:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2604/10/cover_news060.jpg",
-      "body_ja": "Anthropicは、AIアシスタント「Claude」の動作を拡張するAgent Skills作成ツール「skill-creator」に評価機能とベンチマーク機能を追加した。スキル作成者がコードを書かずにスキルの動作検証や品質を測定できるという。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAnthropicは2026年3月、AI（人工知能）アシスタント「Claude」向けAgent Skillsの作成ツール「skill-creator」の大幅な機能強化を発表した。\nAgent Skillsは、ユーザーの指示やメタデータ、スクリプト、テンプレートなどをひとまとめにし、特定のタスクをより適切に実行できるようにする仕組みだ。\nskill-creatorの新機能はWeb版の「Claude.ai」とデスクトップ版「Cowork」で利用可能で、開発者向けコーディング支援ツール「Claude Code」のプラグインとしても提供されている。\nAnthropicによると、202"
-    },
-    {
-      "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開　基礎から本番実装まで学べる",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/10/news057.html",
-      "summary": "AIエージェントの基礎から本番実装まで学べる5つのガイドをGoogleが無償公開した。Kaggleと共同で実施した研修プログラムを基にした内容で、開発者の実務に直結する知識を習得できる。各ガイドが扱う内容とは。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-10T04:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2604/10/cover_news057.jpg",
-      "body_ja": "AIエージェントの基礎から本番実装まで学べる5つのガイドをGoogleが無償公開した。Kaggleと共同で実施した研修プログラムを基にした内容で、開発者の実務に直結する知識を習得できる。各ガイドが扱う内容とは。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nGoogleは2026年2月26日（米国時間）、AIエージェントの開発と本番運用に関する開発者向けの5つのガイドを無償公開した。これらのガイドは、同社とデータサイエンスコミュニティーのKaggleが2025年11月に共同で実施した、5日間の研修プログラム「5-Day AI Agents Intensive Course」の内容を基にしている。\n各ガイドは、設計手順や構成要素を体系化したフレームワークやサンプルソースコードを含む。開発者はこれらのガイドを活用して、自社プロジェクトへの適用を想定しながら学習できる。以下、Googleによる説明を基に、各テーマの背景とガイドの要点を整理する。\nAIエージェントは、大規"
-    },
-    {
-      "title": "「Claude Cowork」一般提供開始　全社導入を支える管理機能も",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/10/news081.html",
-      "summary": "米Anthropicは、AIエージェント「Claude Cowork」の一般提供を全有料プランで開始した。同時にアクセス制御や支出制限などの企業向け管理機能も導入した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-10T02:50:00",
-      "image_url": "https://image.itmedia.co.jp/aiplus/articles/2604/10/cover_news081.jpg",
-      "body_ja": "米Anthropicは4月9日（現地時間）、AIエージェント機能「Claude Cowork」（以下、Cowork）の全ての有料プランでの一般提供を開始した。併せて、Coworkを安全かつ効率的に企業内に展開するための管理機能群を新たに導入した。Coworkを早期に導入した企業で生じていた、管理方法に関する疑問に対応した形だ。\n今回追加された管理機能は以下の通り。\n- ロールベースのアクセス制御： 管理者はユーザーをグループに分け、グループごとに利用可能な機能を定義できるようになった\n- グループごとの支出制限： 管理コンソールからグループ単位で予算上限を設定できるようになった\n予算上限を設定する画面（出典：紹介動画）\n- 利用状況分析： 管理ダッシュボードと「Analytics API」で、セッション数やアクティブユーザー数、スキルとコネクタの呼び出し回数などを可視化できるようになった\n- OpenTelemetryのサポート： アプリケーションの動作状況を監視、記録するためのOSS規"
-    },
-    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
@@ -365,58 +450,6 @@
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
       "body_ja": "OpenAIは木曜日、パワーユーザーがずっと求めていたもの、つまり月額100ドルのプランを発表した。これまでのプランの価格は、無料 (広告が含まれるようになりました)、月額 8 ドルの Go プラン (広告も含まれます)、月額 20 ドルの Plus プラン (広告なし)、そして最大で 200 ドルの Pro プラン (これも広告なし) でした。\nOpenAI の料金プランのページには、現在、月額 200 ドルのプランがまったく掲載されていません。ただし、その最上位層はまだ利用可能であると OpenAI は確認しました。"
-    },
-    {
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-09T20:11:55",
-      "title_ja": "フロリダ州、ChatGPT が関与したとされる銃乱射事件を巡る OpenAI の捜査を発表",
-      "summary_ja": "ChatGPTは、昨年4月にフロリダ州立大学で2人が死亡、5人が負傷した襲撃事件の計画に使用されていたと伝えられている。被害者の遺族は訴訟を起こす予定だと明らかにした",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-      "body_ja": "フロリダ州の司法長官ジェームズ・ウスマイヤー氏は木曜日、同司法長官が昨年の銃乱射事件におけるChatGPTの役割疑惑についてOpenAIを調査する計画であると発表した。\n2025年4月、フロリダ州立大学のキャンパスで銃を乱射した男が発砲し、2人が死亡、5人が負傷した。先週、銃撃事件の被害者の一人の弁護士は、攻撃の計画にChatGPTが使用されたと主張した。被害者の遺族は訴訟を起こす予定だと明らかにした"
-    },
-    {
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-09T19:33:54",
-      "title_ja": "データ侵害の後、価値 100 億ドルのスタートアップ Mercor は 1 か月",
-      "summary_ja": "を余儀なくされています。ハッカーの被害に遭ったメルコールは訴訟に直面しており、有名顧客を失っていると伝えられている。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-      "body_ja": "6か月前、MercorはAIデータトレーニングスタートアップの価値を100億ドルと評価するシリーズCで3億5000万ドルという巨額の資金を調達し、飛躍していた。しかし、同社は3月31日にデータ侵害の標的だったことを認めて以来、困難な状況に直面している。\nそれ以来、ハッカーグループはメルコールのシステムから候補者のプロフィール、個人を特定できる情報、雇用主データ、情報源などを含む 4TB の盗まれたデータを入手したと主張しています。"
-    },
-    {
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-09T19:10:07",
-      "title_ja": "Muse Spark のリリース後、Meta AI アプリが App Store で 5 位に上昇 |9 月|このアプリは、Meta AI の新モデルが発売される直前には、App Store で 57 位にランクされていました。現在は第 5 位であり、さらに上昇しています。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
-      "body_ja": "MetaのAIアプリは、同社の最新AIモデルであるMuse Sparkが水曜日に発表されて以来、インストール数が大幅に増加している。これは、ソーシャル巨人のAI取り組みを総点検するために昨年Scale AIから採用されたMetaのスーパーインテリジェンス研究所所長であるAlexandr Wangの下での最初のモデルリリースである。\n市場情報プロバイダー Appfigures の新しいデータによると、Meta AI アプリに対する消費者の需要により、このアプリは直前の 57 位から順位を上げました。"
-    },
-    {
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-09T18:50:05",
-      "title_ja": "Anthropic はインターネットを保護するために Mythos のリリースを制限していますか? それとも Anthropic? |9月| Anthropic は今週、Mythos と呼ばれる最新モデルのリリースを制限したと発表した。その理由は、ユーザーが依存しているソフトウェアのセキュリティ上の脆弱性を発見する能力が高すぎるためである。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
-      "body_ja": "アンスロピックは今週、世界中のユーザーが利用しているソフトウェアのセキュリティ脆弱性を発見する能力が高すぎるため、ミトスと呼ばれる最新モデルのリリースを制限したと発表した。\nフロンティアラボは、Mythosを一般に公開する代わりに、アマゾン ウェブ サービスからJPモルガン・チェースに至るまで、重要なオンラインインフラを運用する大企業や組織のグループとそれを共有する予定だ。\nOpenAIは同様のものを検討していると報じられている"
     },
     {
       "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
@@ -566,9 +599,9 @@
       "lang": "en",
       "published": "2026-04-07T14:54:06",
       "title_ja": "中東の淡水化プラントはますます脆弱になっています",
-      "summary_ja": "MIT テクノロジー レビューの説明: 次に何が起こるかを理解するために、ライターが複雑で厄介なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。あ",
+      "summary_ja": "MIT テクノロジー レビューの説明: 次に何が起こるかを理解できるよう、ライターが複雑で厄介なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。あ",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/GettyImages-541061312.jpg?resize=1200,600",
-      "body_ja": "中東の淡水化プラントはますます脆弱になっている\n紛争や異常気象は、この地域に水を供給する大規模な淡水化プラントを脅かす可能性がある。\nMIT テクノロジー レビューの説明: 次に何が起こるかを理解するために、ライターが複雑で厄介なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。\nイランの紛争が激化するにつれ、重要な資源である淡水化技術が攻撃にさらされている"
+      "body_ja": "中東の淡水化プラントはますます脆弱になっている\n紛争や異常気象は、この地域に水を供給する大規模な淡水化プラントを脅かす可能性がある。\nMIT テクノロジー レビューの説明: 次に何が起こるかを理解できるよう、ライターが複雑で厄介なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。\nイランの紛争が激化するにつれ、重要な資源である淡水化技術が攻撃にさらされている"
     },
     {
       "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
@@ -676,41 +709,8 @@
       "published": "2026-04-02T17:06:01",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/04/Gemini_Generated_Image_uvzgg3uvzgg3uvzg.jpeg",
       "body_ja": "「稟議の締め切りが迫る中、生成AIの効果をどう数字に落とし、リスクをどこまで書けば承認されるのかだろうか？」\n「ベンダー導入と内製のどちらが得か、回収期間や見落としがちなコストまで根拠を添えて、今すぐ資料にしたい」\nこのような局面に当たることは、珍しくありません。\nこの記事では、稟議で問われやすい点を数字、リスク対策、撤退基準の3つに絞って整理します。\nあわせて、コピペして使える稟議テンプレート、ROI（費用対効果）の計算式、PoC（試験導入）を短期で終わらせる評価設計までまとめました。\n出典の曖昧な成功率や削減率を一般論として並べるのではなく、自社で再現できる根拠を揃えやすい形に寄せています。\n目次\n生成AIの稟議を通すための3つの要点\n経営が稟議で見ているのは「どれだけ効果がありそうか」ではなく、「管理できる形になっているか」です。どんなに期待値が高くても、リスクや損失の歯止めが見えなければ承認は出ません。\n稟議を通すには、効果・リスク・撤退基準の3点を具体的に書き切ることが必要です"
-    },
-    {
-      "title": "3カ月で示すAI導入の効果測定とAI ROI計算の手順-小さく始めて数字で説明する",
-      "url": "https://ainow.ai/2026/04/01/277840/?utm_source=rss&utm_medium=rss&utm_campaign=3%25e3%2582%25ab%25e6%259c%2588%25e3%2581%25a7%25e7%25a4%25ba%25e3%2581%2599ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e5%258a%25b9%25e6%259e%259c%25e6%25b8%25ac%25e5%25ae%259a%25e3%2581%25a8ai-roi%25e8%25a8%2588%25e7%25ae%2597%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%2586-%25e5%25b0%258f%25e3%2581%2595%25e3%2581%258f",
-      "summary": "<p>&#19978;&#21496;&#12363;&#12425;&#12300;AI&#12391;&#20309;&#12364;&#12393;&#12428;&#12384;&#12369;&#33391;&#12367;&#12394;&#12427;&#12398;&#12363;&#12289;3&#12459;&#26376;&#12391;&#25968;&#23383;&#12391;&#31034;&#12375;&#12390;&#12301;&#12392;&#35328;&#12431;&#12428;&#12383;&#12418;&#12398;&#1239",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-04-01T04:24:23",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/04/Gemini_Generated_Image_yebpfgyebpfgyebp.jpg",
-      "body_ja": "上司から「AIで何がどれだけ良くなるのか、3カ月で数字で示して」と言われたものの、時間短縮やコスト削減をどう測り、ROIや回収期間をどう出せばいいのか見当がつかない。小さく始めて失敗なく横展開したいし、セキュリティ面の注意点も押さえておきたい。そんな戸惑いは珍しくありません。\n3カ月で説明力のある資料にするなら、やることはシンプルです。対象業務を絞り、導入前のベースラインを取り、小規模のPoCで同じ条件の前後比較を行う。その差分を金額に換え、ROIと回収期間まで一気につなげます。外部で見かける「処理時間30％短縮」「待ち時間50％減」といった数字は、そのまま持ち込むと噛み合いません。ここでは数値を一般化せず、測り方と計算の筋道が再現できる形に整えます。\n目次\n- まず押さえる用語 KGI・KPI・ROI・回収期間（Payback）・純効果\n- 3カ月で成果が出やすいAI導入対象業務の絞り方（AI導入 効果測定の前提）\n- AIの適用パターンから業務候補を最短で出す（生成AI・検索要約・分"
-    },
-    {
-      "title": "議事録AIでZoom会議の効率を向上！3つの自動化術を解説",
-      "url": "https://ainow.ai/2025/08/28/277802/?utm_source=rss&utm_medium=rss&utm_campaign=%25e8%25ad%25b0%25e4%25ba%258b%25e9%258c%25b2ai%25e3%2581%25a7zoom%25e4%25bc%259a%25e8%25ad%25b0%25e3%2581%25ae%25e5%258a%25b9%25e7%258e%2587%25e3%2582%2592%25e5%2590%2591%25e4%25b8%258a%25ef%25bc%25813%25e3%2581%25a4%25e3%2581%25ae%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e8%25a1%2593%25e3%2582%2592%25e8%25a7%25a3",
-      "summary": "<p>&#12300;Zoom&#12398;&#20250;&#35696;&#37682;&#12434;&#12418;&#12387;&#12392;&#12473;&#12512;&#12540;&#12474;&#12395;&#33258;&#21205;&#21270;&#12375;&#12390;&#12289;&#26989;&#21209;&#12398;&#21177;&#29575;&#12434;&#19978;&#12370;&#12383;&#12356;&#12398;&#12391;&#12377;&#12364;&#12289;&#12393;&#123",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2025-08-27T20:15:31",
-      "image_url": "https://ainow.ai/wp-content/uploads/2025/08/サムネイル_SEO-11.jpg",
-      "body_ja": "「Zoomの会議録をもっとスムーズに自動化して、業務の効率を上げたいのですが、どうすればよいでしょうか？」 このように考えている方もいるかもしれません。会議内容を正確に把握し、議事録作成の手間を大幅に省くことで、他の業務に集中できるようになります。この記事では、Zoomで利用できるAIによる議事録の自動化術を3つご紹介し、業務効率を劇的に向上させる方法を解説します。\n目次\nZoomでAIを活用した議事録作成の全体像\nZoomでの会議におけるAI議事録は、単なる文字起こしにとどまらず、会議の生産性を飛躍的に高める可能性を秘めています。この章では、ZoomにおけるAI議事録の基本的な仕組みや、なぜ今これほど注目されているのか、そして従来の手動作成との違いについて深掘りします。\nZoomにおけるAI議事録作成の仕組みとは？\nZoomにおけるAI議事録作成の仕組みは、主に音声認識技術を基盤としています。会議中の会話をリアルタイムで音声データとして取得し、それをAIが分析してテキストに変換する「文"
-    },
-    {
-      "title": "Web会議の議事録作成を効率化するAIツールの選び方とおすすめ5選",
-      "url": "https://ainow.ai/2025/08/28/277799/?utm_source=rss&utm_medium=rss&utm_campaign=web%25e4%25bc%259a%25e8%25ad%25b0%25e3%2581%25ae%25e8%25ad%25b0%25e4%25ba%258b%25e9%258c%25b2%25e4%25bd%259c%25e6%2588%2590%25e3%2582%2592%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%2599%25e3%2582%258bai%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9",
-      "summary": "<p>&#12300;&#20250;&#35696;&#24460;&#12398;&#35696;&#20107;&#37682;&#20316;&#25104;&#12395;&#26178;&#38291;&#12364;&#12363;&#12363;&#12426;&#12377;&#12366;&#12390;&#12289;&#29983;&#29987;&#24615;&#12364;&#20302;&#19979;&#12375;&#12390;&#12356;&#12427;&#12301;&#12392;&#24745;&#12435;&#12391;&#12356;&",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2025-08-27T20:01:29",
-      "image_url": "https://ainow.ai/wp-content/uploads/2025/08/サムネイル_SEO-10.jpg",
-      "body_ja": "「会議後の議事録作成に時間がかかりすぎて、生産性が低下している」と悩んでいませんか。\nAI議事録ツールを活用すれば、会議の内容を網羅的に記録し、業務効率を大幅に向上できます。この記事では、AI議事録ツールの選び方と、おすすめの5つのツールを詳しく解説します。\n目次\nWeb会議でAI議事録ツールを活用する3つのメリット\nWeb会議にAI議事録ツールを導入すると、ビジネスの様々な側面で大きなメリットが生まれます。ここでは、具体的な利点を3つ紹介します。\nメリット1：議事録作成の時間を大幅に削減\nAI議事録ツールは、会議の音声を自動でテキスト化し、要約する機能によって、手動での議事録作成にかかる時間を大幅に削減します。これにより、会議後の記録作業から解放され、参加者はより重要な業務に集中できます。特にリモートワーク環境で課題となりがちな議事録作成の負担を軽減し、生産性向上に直接貢献します。\nメリット2：迅速かつ正確な情報共有を実現\n会議の内容がリアルタイムで文字起こしされ、自動で整理されるため"
     }
   ],
-  "last_updated": "2026-04-12T07:30:09.165750+09:00",
+  "last_updated": "2026-04-13T07:31:09.307168+09:00",
   "count": 60
 }
