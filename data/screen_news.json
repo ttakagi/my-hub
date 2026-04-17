@@ -1,17 +1,158 @@
 {
   "articles": [
     {
-      "title": "BackLite: BackLite Launches Knightsbridge DooH Site at Hyde Park Corner",
+      "title": "New York: 26North Closes $5.9B Debut Fund",
+      "url": "https://invidis.com/news/2026/04/new-york-26north-closes-5-9b-debut-fund/",
+      "summary": "<p>Private equity firm exceeds fundraising target with strong backing from global institutional investors, underscoring continued appetite for middle-market strategies. U.S.-based investment firm 26North has closed its inaugural private equity fund at $5.9 billion, surpassing its $4 billion target a",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-04-17T15:27:07",
+      "title_ja": "ニューヨーク: 26North が 59 億ドルのデビューファンドをクローズ |9 月|プライベート・エクイティ会社は世界の機関投資家からの強力な支援を受けて資金調達目標を上回り、中間市場戦略への意欲が続いていることを裏付けている。米国に拠点を置く投資会社",
+      "summary_ja": "",
+      "image_url": "https://invidis.com/wp-content/uploads/2025/06/2025-06-NYC-26North-AVISPL.jpg",
+      "body_ja": "プライベート・エクイティ会社は世界の機関投資家からの強力な支援を受けて資金調達目標を上回り、中間市場戦略への意欲が続いていることを裏付けている。\nニューヨーク：26Northが59億ドルのデビューファンドをクローズ\n米国に本拠を置く投資会社26ノースは、初のプライベート・エクイティ・ファンドを59億ドルでクローズし、目標の40億ドルを上回り、中間市場の機会に対する投資家の強い需要を示している。\nこの基金は広範なグローバル企業からのコミットメントを引き出しました。"
+    },
+    {
+      "title": "SBI Holdings: Tokyo Eyes Sphere-Style Immersive Arena",
+      "url": "https://invidis.com/news/2026/04/sbi-holdings-tokyo-eyes-sphere-style-immersive-arena/",
+      "summary": "<p>Japan’s SBI Holdings is exploring plans to develop a large-scale immersive entertainment venue in Tokyo, inspired by the high-profile Sphere concept in Las Vegas. According to multiple reports, SBI Holdings is in discussions with MSG Entertainment, the group behind the Sphere, as it evaluates the",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-04-17T14:04:45",
+      "title_ja": "SBIホールディングス：トーキョーアイズ スフィア型イマーシブアリーナ",
+      "summary_ja": "日本のSBIホールディングスは、ラスベガスで注目を集めたスフィア・コンセプトに触発された、東京に大規模な没入型エンターテインメント会場を開発する計画を検討している。マルチによると",
+      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2024-06-LAS-The-Sphere-Experience-13w3.jpg",
+      "body_ja": "日本のSBIホールディングスは、ラスベガスで注目を集めたスフィア・コンセプトに触発された、東京に大規模な没入型エンターテインメント会場を開発する計画を検討している。\nSBIホールディングス：トーキョーアイズ スフィア型イマーシブアリーナ\n複数の報道によると、SBIホールディングスは、同様のフォーマットを日本に導入する可能性を評価し、スフィアの背後にあるグループであるMSGエンターテインメントと協議しているという。\n初期段階の計画では、収容人数のある会場を提案しています"
+    },
+    {
+      "title": "VITALITY x EWC | NŌBL Studio",
+      "url": "https://motionographer.com/quickie/vitality-x-ewc-nobl-studio/",
+      "summary": "",
+      "source": "Motionographer",
+      "icon": "🎬",
+      "lang": "en",
+      "published": "2026-04-17T14:00:07",
+      "image_url": "https://s35726.pcdn.co/wp-content/uploads/2026/04/08-700x394.png",
+      "title_ja": "バイタリティ×EWC |ノーブルスタジオ |9月|",
+      "summary_ja": ""
+    },
+    {
+      "title": "Toshiba promotes sales leaders",
+      "url": "https://www.digitalsignagetoday.com/news/toshiba-promotes-sales-leaders/",
+      "summary": "",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-04-17T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/b6/23/7b98ef3b555538d5100500947246/cover_image__Is2FJibQ__toshiba_promotions.png.360x190_q85_crop_upscale.png",
+      "title_ja": "東芝、営業リーダーを昇進",
+      "summary_ja": ""
+    },
+    {
+      "title": "Common UX problems with digital signage",
+      "url": "https://www.digitalsignagetoday.com/blogs/common-ux-problems-with-digital-signage/",
+      "summary": "The next phase of digital signage won’t be defined by screen quality or scale. It will be defined by how well networks deliver clear, relevant and actionable experiences in real-world environments.",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-04-17T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/39/85/f48e8e15802d2f7ff1feef2ab202/cover_image__5xOkYxHG__AdobeStock_1912333446.jpeg.360x190_q85_crop_upscale.jpg",
+      "title_ja": "デジタル サイネージに関する一般的な UX の問題",
+      "summary_ja": "デジタル サイネージの次の段階は、画面の品質や規模によって定義されるものではありません。それは、ネットワークが現実世界でどれだけ明確で関連性があり、実用的なエクスペリエンスを提供できるかによって定義されます。"
+    },
+    {
+      "title": "Infocomm Edge: Avixa Postpones Dubai Show to 2027",
+      "url": "https://invidis.com/news/2026/04/infocomm-edge-avixa-postpones-dubai-show-to-2027/",
+      "summary": "<p>Due to the onfoing Middle East conflict, Avixa delays the debut of Infocomm Edge to 2027. A smaller, invite-only “Edge Preview” in 2026 will set the stage for the full-scale launch in Dubai. Avixa has postponed its new Middle East trade show to 2027. Originally scheduled for 27–28 October this ye",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-04-17T07:55:49",
+      "title_ja": "Infocomm Edge: アビクサ、ドバイショーを 2027 年に延期 |9月|中東紛争が進行中であるため、Avixa は Infocomm Edge のデビューを 2027 年に延期します。2026 年に小規模な招待制の「Edge Preview」が本格的なローンチの準備を整えます。",
+      "summary_ja": "",
+      "image_url": "https://invidis.com/wp-content/uploads/2026/04/Infocomm-Edge.jpg",
+      "body_ja": "中東紛争が進行中であるため、アヴィクサは Infocomm Edge のデビューを 2027 年に延期します。2026 年に招待制の小規模な「Edge Preview」がドバイでの本格的なローンチの準備を整えます。\nInfocomm Edge: アビクサ、ドバイショーを2027年に延期\nアヴィクサは、新たな中東見本市を2027年に延期した。当初は今年10月27～28日に予定されていたが、「Infocomm Edge」と名付けられたこのイベントは、1年後の同じ日に開催されることになった。の"
+    },
+    {
+      "title": "Brikk Channels the Jazzy Gangster Life in Music Video for Caravan Palace & Mouse: P.I. For Hire",
+      "url": "https://www.stashmedia.tv/brikk-channels-the-jazzy-gangster-life-in-music-video-for-caravan-palace-mouse-p-i-for-hire/",
+      "summary": "<p>Updating classic 1930s animation, director Matthew Reeve and the Brikk Animation team in Stockholm deliver a rollicking hand-animated music video for Fumi Games' first-person shooter MOUSE: P.I. For Hire. <a href=\"https://www.stashmedia.tv/brikk-channels-the-jazzy-gangster-life-in-music-video-for",
+      "source": "Stash Media",
+      "icon": "📡",
+      "lang": "en",
+      "published": "2026-04-17T06:58:16",
+      "title_ja": "ブリックが「Caravan Palace & Mouse: P.I.」のミュージック ビデオでジャジーなギャング ライフを紹介レンタル |9月| 1930 年代の古典的なアニメーションを更新し、マシュー リーブ監督とストックホルムの Brikk アニメーション チームが、Fumi Games の一人称シューティング用に陽気なハンドアニメーションのミュージック ビデオを制作しました。",
+      "summary_ja": "",
+      "image_url": "http://www.stashmedia.tv/wp-content/uploads/Caravan-Palace-Mouse-PI-For-Hire-Music-Video-by-Brikk-Animation-STASH-MAGAZINE6.jpg",
+      "body_ja": "1930 年代の古典的なアニメーションを更新し、マシュー リーブ監督とストックホルムの Brikk アニメーション チームが、Fumi Games の一人称シューティング ゲーム MOUSE: P.I. の陽気なハンドアニメーションのミュージック ビデオを制作しました。レンタル用。\nBrikk の映画および TV 部門の責任者である EP、Matthew Reeve 氏は次のように述べています。「このプロジェクトはゲームの公式サウンドトラックの一部であり、その独特のビジュアル アイデンティティ、つまり 1930 年代のアニメーションとギャング映画にインスピレーションを得た白黒のレトロ ノワールの世界に基づいて構築されています。\n「組み合わせることで"
+    },
+    {
+      "title": "The Wall: Samsung Shuts Down European Plant",
+      "url": "https://invidis.com/news/2026/04/the-wall-samsung-shuts-down-european-plant/",
+      "summary": "<p>Samsung has announced the closure of its TV manufacturing facility in Galanta, Slovakia – bringing an end to the European production site for its MicroLED The Wall. It was long held up as the flagship of Samsung’s European display manufacturing: the production facility for MicroLED The Wall in Ga",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-04-17T06:36:13",
+      "title_ja": "ザ・ウォール：サムスン、欧州工場を閉鎖",
+      "summary_ja": "サムスンは、スロバキアのガランタにあるテレビ製造施設の閉鎖を発表し、これによりMicroLED The Wallの欧州生産拠点は終了となる。長かったですヘル",
+      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2023-the-wall-samsung-galanta-61.jpg",
+      "body_ja": "サムスンは、スロバキアのガランタにあるテレビ製造施設の閉鎖を発表し、これによりMicroLED The Wallの欧州生産拠点は終了となる。\n壁：サムスンが欧州工場を閉鎖\nスロバキアのガランタにあるMicroLED The Wallの生産施設は、サムスンの欧州ディスプレイ製造の主力施設として長い間注目されてきた。しかし現在、主にテレビ製造に特化したこのサイトは閉鎖される予定だ。\nの中で"
+    },
+    {
+      "title": "ARグラス「VITURE Luma」と「XREAL One」選ぶならどっち？ 両者の性能や使い心地を比較してみた",
+      "url": "https://www.moguravr.com/viture-luma-vs-xreal-one-review-2026/",
+      "summary": "<p>「VITURE Luma」のレビュー記事の次は、今回は購入時の比較対象になるであろうARグラス「XREAL One」と比較したいと思います。 目次 ARグラスとは？ 見た目、サイズ：大きな違いなし 付け心地：「VITUR [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/viture-luma-vs-xreal-one-review-2026/\">ARグラス「VITURE Luma」と「XREAL One」選ぶならどっち？ 両者の性能や使い心地を比較してみた</a> appeared first on <a href=",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-17T05:13:57",
+      "image_url": "https://assets.moguravr.com/uploads/2026/04/8e42ca7166f9bdb7987b61b1d4ada9ab-kix.qvg46dtnfqye-300x190.webp"
+    },
+    {
+      "title": "「ぶいぱい」2年ぶりの大型イベント、「VPI THE TRIAL」、各チームリーダー4名による座談会インタビューが到着！",
+      "url": "https://www.moguravr.com/vpi_the_trial_interview/",
+      "summary": "<p>※今記事ではアップランドより提供のインタビュー記事を掲載します。 株式会社アップランド（本社：東京都世田谷区）が運営するVTuberグループ「ぶいぱい」による大型イベント『ぶいぱい発表会「VPI THE TRIAL」』が [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/vpi_the_trial_interview/\">「ぶいぱい」2年ぶりの大型イベント、「VPI THE TRIAL」、各チームリーダー4名による座談会インタビューが到着！</a> appeared first on <a href=\"https://",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-17T05:06:59",
+      "image_url": "https://assets.moguravr.com/uploads/2026/04/169de6b733f084b7709989c48255d305-kix.kea1ibgz5hko-300x169.webp"
+    },
+    {
+      "title": "【値上げ】Meta Quest 3が102,300円、Meta Quest 3Sの最安モデルが59,400円に価格改定",
+      "url": "https://www.moguravr.com/meta-quest-3-price-increase-2026/",
+      "summary": "<p>Metaは、Meta Quest 3およびMeta Quest 3Sの価格を改定すると発表しました。日本時間2026年4月19日より適用されます。 値上げの背景として、Metaは「高性能なVRハードウェアの製造コストが大 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/meta-quest-3-price-increase-2026/\">【値上げ】Meta Quest 3が102,300円、Meta Quest 3Sの最安モデルが59,400円に価格改定</a> appeared first on <a href=\"",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-17T04:34:19",
+      "image_url": "https://assets.moguravr.com/uploads/2026/04/ff5bc8d1d7a2ca00a24f0d3017401f44-kix.rw93dlf7dbpl-300x165.webp"
+    },
+    {
+      "title": "遂に出た！ 日本企業が開発したAIグラス「SABERA スマート眼鏡」そのコンセプトに迫る",
+      "url": "https://www.moguravr.com/sabera-jigjp-concept-pr/",
+      "summary": "<p>今年の2月、株式会社jig.jpが、ARグラスブランド「SABERA（サベラ）」の始動を発表。福井県鯖江市の老舗眼鏡メーカーのボストンクラブ、光学技術の開発企業Cellid株式会社とタッグを組み、日本発のスマート眼鏡ブラ [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/sabera-jigjp-concept-pr/\">遂に出た！ 日本企業が開発したAIグラス「SABERA スマート眼鏡」そのコンセプトに迫る</a> appeared first on <a href=\"https://www.moguravr.co",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-17T03:00:56",
+      "image_url": "https://assets.moguravr.com/uploads/2026/04/fa6478901fe3fb34134427e4b95233f3-i.0-300x200.webp"
+    },
+    {
+      "title": "London: Backlite Launches Knightsbridge DooH Site at Hyde Park Corner",
       "url": "https://invidis.com/news/2026/04/london-backlite-launches-knightsbridge-dooh-site-at-hyde-park-corner/",
-      "summary": "<p>BackLite UK and Wildstone have upgraded a Piccadilly Underpass location into a premium DooH site, now part of the operator’s Landmark Series. DooH network operator BackLite has expanded its premium large-format digital out-of-home portfolio with the launch of The Knightsbridge, a revamped install",
+      "summary": "<p>Backlite UK and Wildstone have upgraded a Piccadilly Underpass location into a premium DooH site, now part of the operator’s Landmark Series. DooH network operator Backlite has expanded its premium large-format digital out-of-home portfolio with the launch of The Knightsbridge, a revamped install",
       "source": "Sixteen:Nine",
       "icon": "🖥",
       "lang": "en",
       "published": "2026-04-16T14:45:54",
-      "title_ja": "BackLite: BackLite がハイド パーク コーナーにナイツブリッジ DooH サイトを開設 |9 月| BackLite UK と Wildstone は、ピカデリー アンダーパスの場所をプレミアム DooH サイトにアップグレードし、現在は運営会社のランドマーク シリーズの一部となっています。 DooHネットワークオペレーターBackLiteは経験を積んでいます",
+      "title_ja": "ロンドン: Backlite がハイド パーク コーナーにナイツブリッジ DooH サイトを開設 |9 月| Backlite UK と Wildstone は、ピカデリー地下道の場所をプレミアム DooH サイトにアップグレードし、現在は運営会社の Landmark シリーズの一部となっています。 DooHネットワークオペレーターBackliteは経験を積んでいます",
       "summary_ja": "",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Franck-Muller-advert-at-The-Knightsbridge-scaled-e1776349044321.jpg",
-      "body_ja": "BackLite UK と Wildstone は、ピカデリー アンダーパスの場所をプレミアム DooH サイトにアップグレードし、現在は運営会社のランドマーク シリーズの一部となっています。\nBackLite: BackLite がハイド パーク コーナーにナイツブリッジ DooH サイトを開設\nDooH ネットワーク オペレータの BackLite は、ハイド パーク コーナー近くのロンドンのピカデリー地下道にある改良されたインスタレーションである The Knightsbridge を立ち上げ、プレミアム大判デジタル屋外ポートフォリオを拡大しました。\nパートナーで開発"
+      "body_ja": "Backlite UK と Wildstone は、ピカデリー地下道の場所をプレミアム DooH サイトにアップグレードし、現在は運営会社の Landmark シリーズの一部となっています。\nロンドン：Backlite がハイドパークコーナーにナイツブリッジ DooH サイトを開設\nDooH ネットワーク オペレータの Backlite は、ハイド パーク コーナー近くのロンドンのピカデリー地下道にある改良されたインスタレーション、The Knightsbridge の立ち上げにより、プレミアム大判デジタル屋外ポートフォリオを拡大しました。\nパートナーで開発"
     },
     {
       "title": "Seatrade 2026: LG Shows Cruise-Ready Displays, Platform in Miami",
@@ -46,7 +187,7 @@
       "icon": "🖥",
       "lang": "en",
       "published": "2026-04-16T11:38:14",
-      "title_ja": "人物: アブセン、英国とアイルランドの BDM にマーク・メイソンを任命 |9 月|アブセン、英国での事業を強化主要な雇用によりアイルランドで存在感を示す。元 Avocor EMEA 営業担当副社長の Mark Mason 氏がパートナーの成長を推進し、業種全体でプロジェクト ビジネスを拡大するために参加",
+      "title_ja": "人物: アブセン、英国とアイルランドの BDM にマーク・メイソンを任命 |9 月|アブセン、英国での事業を強化重要な人材を擁するアイルランドの存在感。元 Avocor EMEA 営業担当副社長の Mark Mason 氏がパートナーの成長を推進し、業種全体でプロジェクト ビジネスを拡大するために参加",
       "summary_ja": "",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Mark-Mason-Day-1-pic.jpg",
       "body_ja": "アブセンは主要な雇用により英国とアイルランドでの存在感を強化します。元 Avocor EMEA 営業担当副社長の Mark Mason 氏が加わり、パートナーの成長を推進し、垂直市場全体でプロジェクト ビジネスを拡大します。\n人物: アブセン、マーク・メイソンを英国とアイルランドのBDMに任命\nAbsen は、Mark Mason を英国とアイルランドの事業開発マネージャーに任命し、欧州 ProAV チームを拡大しました。\nメイソンはプロの AV 分野で 20 年以上の経験をもたらします"
@@ -73,7 +214,7 @@
       "lang": "en",
       "published": "2026-04-16T10:00:00",
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/ae/85/aca23281b1820abe05b3600439a2/cover_image__0XmMrh1Z__Victoria_Secret_signage.jpg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "CrownTV がヴィクトリア シークレット ストアのデジタル サイネージ エクスペリエンスを強化",
+      "title_ja": "CrownTV がヴィクトリア シークレット ストアのデジタル サイネージ エクスペリエンスを強化 |9 月|",
       "summary_ja": ""
     },
     {
@@ -127,7 +268,7 @@
       "title_ja": "Futuresource レポート: AV コンバージェンスが ProAV 市場を再形成中",
       "summary_ja": "没入型ライブ イベントから LED の優位性まで、ProAV の成長はエクスペリエンス主導の展開と統合 AV エコシステムへと移行していると Futuresource は述べています。 Futuresource のアナリスト",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/MCS07141.jpg",
-      "body_ja": "没入型ライブ イベントから LED の優位性まで、ProAV の成長はエクスペリエンス主導の展開と統合 AV エコシステムへと移行していると Futuresource は述べています。\nFuturesource レポート: AV コンバージェンスにより ProAV 市場が再形成されている\nFuturesource Consulting のアナリストは、ProAV 市場が、コア製品カテゴリー間の融合、体験的需要、不均一な成長によってますます定義されるようになっていると指摘しています。\nIn a recent roundtable discussion, the firm’s"
+      "body_ja": "没入型ライブ イベントから LED の優位性まで、ProAV の成長はエクスペリエンス主導の展開と統合 AV エコシステムへと移行していると Futuresource は述べています。\nFuturesource レポート: AV コンバージェンスにより ProAV 市場が再形成されている\nFuturesource Consulting のアナリストは、ProAV 市場が、コア製品カテゴリー間の融合、体験的需要、不均一な成長によってますます定義されるようになっていると指摘しています。\n最近の円卓会議では、同社の"
     },
     {
       "title": "Andrea Love & Hornet Keep it Crafty for Coachella 2026",
@@ -161,46 +302,6 @@
       "lang": "ja",
       "published": "2026-04-16T06:08:27",
       "image_url": "https://assets.moguravr.com/uploads/2026/04/f251930b47fa1d89570e71ec4252eb77-kix.v6q7zho9lsvr-300x165.webp"
-    },
-    {
-      "title": "海外ストリーマーCDawgVAが自転車で日本縦断企画に挑戦中 VTuber・Ironmouseと同じ難病を持つ人達への支援を目的",
-      "url": "https://www.moguravr.com/cyclethon-5-ironmouse-charity-2026/",
-      "summary": "<p>4月5日より、Twitch上でチャリティーサイクリング企画「CYCLETHON 5」の配信が実施されています。企画を実施しているのは、Twitchで150万人以上のフォロワーを持つ人気ストリーマーのCDawgVA（シード [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/cyclethon-5-ironmouse-charity-2026/\">海外ストリーマーCDawgVAが自転車で日本縦断企画に挑戦中 VTuber・Ironmouseと同じ難病を持つ人達への支援を目的</a> appeared first on <a",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-16T05:58:57",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/b234dab81af647349b322d9b705c6ea1-kix.dk90uz2l9j3t-300x167.webp"
-    },
-    {
-      "title": "World Labs、ウェブブラウザで1億スプラット超をストリーミングできる「Spark 2.0」を公開",
-      "url": "https://www.moguravr.com/spark-2-0-release/",
-      "summary": "<p>4月14日、AI・3D技術企業World Labsは、3DGSレンダラー「Spark」の新バージョン「Spark 2.0」を公開しました。ウェブブラウザ上で1億個を超えるスプラットをストリーミング・レンダリングできる機能 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/spark-2-0-release/\">World Labs、ウェブブラウザで1億スプラット超をストリーミングできる「Spark 2.0」を公開</a> appeared first on <a href=\"https://www.moguravr.c",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-16T04:57:07",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/6ad0938971229e2f329560b8f9eff771-kix.hdrp4k46in7t-300x169.webp"
-    },
-    {
-      "title": "超音波でニオイを再現するVRデバイス、海外の独立研究チームが開発",
-      "url": "https://www.moguravr.com/ultrasound-smell-vr-device/",
-      "summary": "<p>海外の独立研究チームが、超音波を使って嗅覚を人工的に刺激するデバイスを開発しました。化学物質のカートリッジを使用しない点が大きな特徴です。 これまでVRにおける嗅覚再現は、液体カートリッジから香りを揮発させる方式が主流で [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/ultrasound-smell-vr-device/\">超音波でニオイを再現するVRデバイス、海外の独立研究チームが開発</a> appeared first on <a href=\"https://www.moguravr.com\">Mogura ",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-16T04:48:25",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/45ff31eb37d81eaa1ac02521b5ddaded-kix.t1ivyw1teayx-300x169.webp"
-    },
-    {
-      "title": "海外観光客向けの体験施設「BROTHER JOYFACTORY TOKYO」が6月都内にオープン！",
-      "url": "https://www.moguravr.com/brother-joyfactory-tokyo-2026/",
-      "summary": "<p>ブラザー販売株式会社は、東京都中央区のブラザー東京ショールーム内に体験型アミューズメント施設「BROTHER JOYFACTORY TOKYO」を2026年6月に開業する予定です。主に海外からのインバウンド客をターゲット [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/brother-joyfactory-tokyo-2026/\">海外観光客向けの体験施設「BROTHER JOYFACTORY TOKYO」が6月都内にオープン！</a> appeared first on <a href=\"https://www.m",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-16T04:45:26",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/53489cea2701d74df72075023a4e1b1f-kix.v91fo6t1v5ku-300x169.webp"
     },
     {
       "title": "BigStar Appoints Doug Appleton as Creative Director",
@@ -238,19 +339,6 @@
       "summary_ja": "英国の販売代理店である Solstice AV は、同社のエンタープライズ IPTV およびデジタル サイネージ プラットフォームを再販業者チャネルに導入するために Amino とパートナーシップを締結しました。この契約により Soltic が拡大",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Amino-Box.jpg",
       "body_ja": "英国の販売代理店である Solstice AV は、同社のエンタープライズ IPTV およびデジタル サイネージ プラットフォームを再販業者チャネルに導入するために Amino とパートナーシップを締結しました。\nSolstice AV: Amino IPTV、サイネージ プラットフォームがラインナップに追加\nこの契約により、Solstice AV のポートフォリオが集中管理されたビデオ配信に拡張され、再販業者にライブ TV、デジタル サイネージ、および複数拠点の組織全体にわたる内部コミュニケーションを配信する方法が提供されます。\nAmino のプラットフォームは IPTV、"
-    },
-    {
-      "title": "Norway: Zetadisplay Wins 1,400-Screen Rail DooH Deal",
-      "url": "https://invidis.com/news/2026/04/norway-zetadisplay-wins-1400-screen-rail-dooh-deal/",
-      "summary": "<p>Combining passenger information and advertising: Zetadisplay has secured a contract with Norway’s national railway operator Vy Group for a major DooH rollout across more than 130 trains. Zetadisplay has announced a DooH partnership with Vy Group, Norway’s national railway company. Under the agree",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-15T10:59:54",
-      "title_ja": "ノルウェー: Zetadisplay が 1,400 スクリーンの Rail DooH 取引を獲得 |9 月|乗客情報と広告の組み合わせ: Zetadisplay は、130 トン以上の鉄道で大規模な DooH 展開を行うため、ノルウェーの国鉄運営会社 Vy Group との契約を締結しました。",
-      "summary_ja": "",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2026-zetadisplay-no-vy-dooh-partnership-mockup.jpg",
-      "body_ja": "乗客情報と広告の組み合わせ: Zetadisplay は、130 以上の列車にわたる大規模な DooH 展開について、ノルウェーの国鉄運営会社 Vy Group との契約を締結しました。\nノルウェー：Zetadisplay が 1,400 スクリーンの Rail DooH 契約を獲得\nZetadisplay は、ノルウェーの国鉄会社である Vy Group との DooH パートナーシップを発表しました。この契約に基づき、インテグレーターは独自の CMS である Engage Suite に基づくエンドツーエンドのソリューションを提供します。"
     },
     {
       "title": "Soft on Sneakers: KORB Launches the Biom 720 for ECCO",
@@ -303,45 +391,6 @@
       "summary_ja": ""
     },
     {
-      "title": "DooH: 285 AMC Theaters to Feature In-Lobby Ad Network",
-      "url": "https://invidis.com/news/2026/04/dooh-285-amc-theaters-to-feature-in-lobby-ad-network/",
-      "summary": "<p>National Cinemedia is rolling out a lobby-based digital display network across 285 AMC theaters with Creative Realities, expanding cinema advertising beyond the screen into full-venue DooH. National Cinemedia is pushing deeper into place-based media, using theater lobbies as a new layer of invent",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-15T09:36:40",
-      "title_ja": "DooH: 285 の AMC 劇場でロビー広告ネットワークを導入 |9 月| National Cinemedia は、Creative Realities を備えた 285 の AMC 劇場にロビーベースのデジタル ディスプレイ ネットワークを展開し、映画広告をスクリーンを超えてフル VE に拡大しています。",
-      "summary_ja": "",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/AMC-Theater.jpeg",
-      "body_ja": "National Cinemedia は、Creative Realities を備えた 285 の AMC 劇場にロビーベースのデジタル ディスプレイ ネットワークを展開し、映画広告をスクリーンを超えて全会場の DooH に拡大しています。\nDooH: 285 の AMC シアターでロビー広告ネットワークを導入\nナショナル シネメディアは、観客が講堂に入る前に到達できるように設計された新しい在庫層として劇場のロビーを使用し、プレイスベースのメディアをさらに深く推進しています。\nこのイニシアチブでは複数の機能が追加されます"
-    },
-    {
-      "title": "Mobile OoH: Vector Media Introduces Impression-Based Currency",
-      "url": "https://invidis.com/news/2026/04/mobile-ooh-vector-media-introduces-impression-based-currency/",
-      "summary": "<p>Out-of-home media company Vector Media has partnered with measurement firm Reveal to introduce impression-based audience measurement for its mobility advertising network network across cities in the US. The collaboration is intended to give advertisers a more standardized way to plan, buy, and ev",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-15T09:21:42",
-      "title_ja": "Mobile OoH: Vector Media がインプレッションベースの通貨を導入",
-      "summary_ja": "屋外メディア企業 Vector Media は、測定会社 Reveal と提携して、自社のモビリティ広告ネットワーク network ac にインプレッションベースの視聴者測定を導入しました。",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2026-04-Vector-Media-Coachella.jpg",
-      "body_ja": "屋外メディア企業の Vector Media は、測定会社 Reveal と提携して、米国の各都市のモビリティ広告ネットワークにインプレッションベースの視聴者測定を導入しました。\nモバイル OoH: Vector Media がインプレッションベースの通貨を導入\nこのコラボレーションは、広告主が Vector の交通機関および街頭レベルのメディア資産全体で実施されるキャンペーンを計画、購入、評価するためのより標準化された方法を提供することを目的としています。\nリビールのPL"
-    },
-    {
-      "title": "Dubai: PHI Advertising to Build New Roadside OoH",
-      "url": "https://invidis.com/news/2026/04/dubai-phi-advertising-to-build-new-roadside-ooh/",
-      "summary": "<p>Dubai is continuing to expand its regulated out-of-home advertising network, with new roadside digital and static assets planned along some of the emirate’s busiest highway corridors. Dubai&#8217;s out-of-home operator Mada Media has awarded a strategic advertising concession to PHI Advertising, ",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-15T09:08:30",
-      "title_ja": "ドバイ: 新しい道路沿いの OoH を建設する PHI の広告 |9 月|ドバイは規制対象の屋外広告ネットワークを拡大し続けており、首長国で最も交通量の多い幹線道路沿いに新しい沿道デジタル資産と静的資産を計画している。",
-      "summary_ja": "",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/Mada-Media-PHI-1.jpg",
-      "body_ja": "ドバイは規制対象の屋外広告ネットワークの拡大を続けており、首長国で最も交通量の多い高速道路の一部に沿って、新たな沿道デジタル資産と静的資産を計画している。\nドバイ: 新しい道路沿いの OoH を構築するための PHI 広告\nドバイの屋外事業者マダ・メディアは、PHI Advertising に戦略的広告利権を与え、同社に道路脇の広告資産のポートフォリオを設置し商業化する権利を付与した。"
-    },
-    {
       "title": "Geometric Animation | RexMaxStudio",
       "url": "https://motionographer.com/quickie/geometric-animation-rexmaxstudio/",
       "summary": "",
@@ -387,7 +436,7 @@
       "lang": "en",
       "published": "2026-04-14T10:15:14",
       "title_ja": "Niceshit がリブランドと手作りフォントでデザインとモーションの 10 年を祝う",
-      "summary_ja": "バルセロナの Niceshit Studio のスタッフは、アニメーション/イラスト業界での 10 周年を記念し、カスタムの手描き書体を基にした完全なブランド変更を行いました。",
+      "summary_ja": "バルセロナの Niceshit Studio のスタッフは、アニメーション/イラスト業界で 10 周年を迎え、カスタムの手描き書体をベースにした完全なブランド変更を行いました。",
       "image_url": "http://www.stashmedia.tv/wp-content/uploads/Niceshit-Studio-rebrand-2026-STASH-MAGAZINE.jpg",
       "body_ja": "バルセロナの Niceshit Studio のスタッフは、アニメーション/イラスト業界の 10 周年を記念して、スタジオの 3 人の創設者の手書きから作成されたカスタムの手描き書体を基にした完全なブランド変更を行いました。\n共同設立者のカルメン・アンジェリーロ、グイド・ランベルティーニ、ロディエ・キッドマン: 「3 人の監督、1 つのフォント。常にアイデアが図面よりも優先されると信じてきたスタジオにとって、これは適切な選択です。コンセプトはビジュアルを獲得しなければなりません。"
     },
@@ -414,19 +463,6 @@
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/8e/bd/e852967943a2d4ba82721cc38291/cover_image__PfIdNmiL__Rental_Information.jpg.360x190_q85_crop_upscale.jpg",
       "title_ja": "MAX トレーラーをレンタル",
       "summary_ja": "レンタルハーフシートを読んで、次のイベントでどのようにシーンを作ることができるかを学びましょう。"
-    },
-    {
-      "title": "Panic Expands With Acquisition of Kingdom of Something",
-      "url": "https://www.stashmedia.tv/panic-expands-with-acquisition-of-kingdom-of-something/",
-      "summary": "<p>From the release: Animation studio Panic has acquired Amsterdam-based creative studio Kingdom of Something, bringing together two like-minded animation teams to deliver larger, more complex work for global brands.  <a href=\"https://www.stashmedia.tv/panic-expands-with-acquisition-of-kingdom-of-so",
-      "source": "Stash Media",
-      "icon": "📡",
-      "lang": "en",
-      "published": "2026-04-13T19:27:47",
-      "title_ja": "キングダム・オブ・サムシングの買収でパニック拡大",
-      "summary_ja": "リリースより: アニメーション スタジオのパニックは、アムステルダムを拠点とするクリエイティブ スタジオのキングダム オブ サムシングを買収し、志を同じくする 2 つのアニメーション チームを結集して、より大規模でより優れた作品を提供することを発表しました。",
-      "image_url": "http://www.stashmedia.tv/wp-content/uploads/Panic-Animation-Studio-Acquires-Kingdom-of-Something-_-STASH-MAGAZINE.jpg",
-      "body_ja": "リリースより:\nアニメーション スタジオのパニックは、アムステルダムを拠点とするクリエイティブ スタジオのキングダム オブ サムシングを買収し、志を同じくする 2 つのアニメーション チームを結集して、より大規模で複雑な作品を世界的なブランドに提供します。\nクリエイティブ ディレクターのギンツ ガットマニスによって設立され、スタジオ ヘッドのリタ ステイマネによって運営されているパニックは、大胆なアニメーション、キャラクター主導のストーリーテリング、ミックスメディア制作で世界中のブランドや代理店に評判を築いてきました。最近のプロジェクト"
     },
     {
       "title": "Breaking Through: How to Get Seen & Get Results",
@@ -485,31 +521,7 @@
       "lang": "en",
       "published": "2026-04-10T14:00:29",
       "image_url": "https://s35726.pcdn.co/wp-content/uploads/2026/04/ezgif-1e448835fed89189-700x394.jpg",
-      "title_ja": "からインスピレーションを得た |ゲンコバス",
-      "summary_ja": ""
-    },
-    {
-      "title": "BenQ, easescreen partner on innovative display experiences",
-      "url": "https://www.digitalsignagetoday.com/news/benq-easescreen-partner-on-innovative-display-experiences/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-10T11:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/e4/94/f2e9ce8b53905b9fd8cad9d9b935/cover_image__FEdXxMez__AdobeStock_1791208170.jpeg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "BenQ、革新的なディスプレイ体験のイーズスクリーンパートナー |9月|",
-      "summary_ja": ""
-    },
-    {
-      "title": "OOH advertising critical driver of connected commerce",
-      "url": "https://www.digitalsignagetoday.com/news/ooh-advertising-critical-driver-of-connected-commerce/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-10T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/46/dd/eba25ab8fba88a878dba5005ee8e/cover_image__ZvbfbNvg__AdobeStock_1851543444.jpeg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "OOH 広告によるコネクテッド コマースの重要な推進力",
+      "title_ja": "にインスピレーションを得た |ゲンコバス",
       "summary_ja": ""
     },
     {
@@ -535,20 +547,8 @@
       "image_url": "https://s35726.pcdn.co/wp-content/uploads/2026/04/Escape_VitorCervi_PromoFrame_04-700x295.png",
       "title_ja": "エスケープ |ヴィトール・チェルヴィ",
       "summary_ja": ""
-    },
-    {
-      "title": "Mad Propz | Cub Studio",
-      "url": "https://motionographer.com/quickie/mad-propz-cub-studio/",
-      "summary": "",
-      "source": "Motionographer",
-      "icon": "🎬",
-      "lang": "en",
-      "published": "2026-04-08T14:00:28",
-      "image_url": "https://s35726.pcdn.co/wp-content/uploads/2026/04/thumb-4-700x394.jpg",
-      "title_ja": "マッドプロップス |カブスタジオ |9月|",
-      "summary_ja": ""
     }
   ],
-  "last_updated": "2026-04-17T07:39:52.469182+09:00",
+  "last_updated": "2026-04-18T07:38:58.031160+09:00",
   "count": 46
 }
