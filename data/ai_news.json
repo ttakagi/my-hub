@@ -1,14 +1,177 @@
 {
   "articles": [
     {
+      "title": "1300ページを読んでExcelに整理――地道な開示作業、AIで工数93％削減　NEC流の業務改革方法とは",
+      "url": "https://www.itmedia.co.jp/business/articles/2604/20/news021.html",
+      "summary": "有価証券報告書における「サステナビリティー情報」の開示業務が義務化されるのを前に、NECはAI活用によって開示業務の工数を93％削減したと発表した。その仕組みとは。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2604/20/cover_news021.jpg",
+      "body_ja": "NECは4月16日、有価証券報告書における「サステナビリティー情報」の開示業務にAIを活用して、工数の93％を削減したと発表した。気候変動による事業リスクや戦略といった非財務情報の開示が2027年から段階的に義務化されるのを前に、実務担当者の業務負荷を下げる狙いがある。\nNECで気候関連の開示業務に携わる井上信也氏（環境企画推進グループ ディレクター）は、4月16日の記者説明会で「開示基準の理解が大変でした。『この項目はこれを意味する』と読み解いて、Excelに整理する地道な作業に取り組みました」と初期の対応を振り返る。\n同社は、この課題の解決にAIを活用した。業務工数の93％を削減した、NEC流のAI活用方法とは。\nサステナビリティー情報の開示について、日本ではサステナビリティー開示基準委員会が「サステナビリティー情報の開示基準」（SSBJ）を公表している。NECは今回、温室効果ガス排出量や気候リスクに関する「気候関連開示基準」（第2号、S2）の対応にAIを適用した。\n同社によると、S"
+    },
+    {
+      "title": "ChatGPTの画像生成AIが「Nano Banana」超え？　漫画や動画風カットが実用レベルに",
+      "url": "https://ascii.jp/elem/000/004/396/4396252/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/20/4454684/s/d513544b0443e309.jpg\" width=\"60\" />OpenAIの画像生成モデル「GPT-Image-2（仮称）」がChatGPT一部ユーザーに対して開放され始めています。グーグル「Nano Banana」に匹敵する、部分的には超えている部分もあると高い評価を集めつつあり、様々な可能性が探られています。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/20/4454684/s/d513544b0443e309.jpg"
+    },
+    {
+      "title": "建設領域に特化したフィジカルAI Agent「zenshot AI」提供開始　AIが建設現場の状況を把握し施工管理業務の一部を自動化",
+      "url": "https://ascii.jp/elem/000/004/396/4396200/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4454262/s/b68b1c3c094f53ec.jpg\" width=\"60\" />Zen Intelligence株式会社は4月14日に、建設領域に特化したフィジカルAI Agent「zenshot AI」の提供開始を発表した。現場でカメラを持り歩き撮影したデータをもとに、AIが建設現場の状況を把握して、安全管理や品質管理、工程管理をはじめとする施工管理業務の一部を自動化するという。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/17/4454262/s/b68b1c3c094f53ec.jpg"
+    },
+    {
+      "title": "地図を使ったプログラミング学習サービス「地図ぼうけんラボ」正式版提供開始　教育現場での利用にも対応",
+      "url": "https://ascii.jp/elem/000/004/396/4396199/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4454253/s/4e68a2e9ca13d032.jpg\" width=\"60\" />株式会社Geoloniaは4月15日に、デジタル地図とプログラミングを組み合わせた地図作品作成サービス「地図ぼうけんラボ」正式版の提供を開始した。ビジュアルプログラミングツール「Scratch 」をベースに開発し、プログラミング初心者でもブロックを組み合わせることで観光案内や防災シミュレーション、地域クイズなど多様な地図作品を作れるという。無料で利用可能とのこと。</",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/17/4454253/s/4e68a2e9ca13d032.jpg"
+    },
+    {
+      "title": "『今週のASCII.jp注目ニュース』生放送（4/18～4/24ぶん）",
+      "url": "https://ascii.jp/elem/000/004/396/4396194/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg\" width=\"60\" />アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの1週間の記事をランキング形式でお届け！　ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg"
+    },
+    {
+      "title": "究極折りたたみスマホ！ 「OPPO Find N6」は折り目無し＆激薄4.2mm＆ペン対応の巻：スマホ総研定例会377",
+      "url": "https://ascii.jp/elem/000/004/396/4396172/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />最新折りたたみスマホ「OPPO Find N6」を実機レビュー！ これまでの折りたたみ機にあった、画面の折り目がほぼゼロになったほか、開いて4.2mm、閉じても8.9mmの激薄っぷり、そしてペンにまで対応した超強力スペックなこの1台。詳しく紹介します！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-19T21:24:06",
+      "title_ja": "OpenAI の実存的な問い",
+      "summary_ja": "Equityの最新エピソードでは、OpenAIの最新の買収と、それが同社の「2つの大きな存続問題」に対処するかどうかについて議論します。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266645295.jpg?w=1024",
+      "body_ja": "最近、OpenAI は、買収に関するものであれ、Anthropic との競争であれ、あるいは AI が社会に与える影響に関するより大きな議論であれ、あらゆるニュースで取り上げられています。\nTechCrunch の Equity ポッドキャストの最新エピソードでは、Kirsten Korosec、Sean O’Kane、そして私が OpenAI の最新ニュースをすべてまとめるために最善を尽くしました。同社の最新の買収は古典的な買収のように見えるが、ショーン氏は「OpenAIが抱える2つの大きな存続問題にも対処する」と示唆した。"
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-19T19:30:00",
+      "title_ja": "12 か月ウィンドウ",
+      "summary_ja": "多くの AI スタートアップが存在するのは、基礎モデルがそのカテゴリにまだ拡張されていないことが一因です。多くの人が冗談めかして認めているように、それは永遠に続くわけではありません。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
+      "body_ja": "AI 投資家のサラ・グオ氏とエラド・ギル氏が共同司会を務める優れたポッドキャスト「No Priors」の最近のエピソードで、ギル氏はエグジットのタイミングについて指摘しましたが、これは彼と一緒に時間を過ごした創業者にとっては間違いなく馴染み深いものですが、取引が本格化するこの瞬間には特に役立つと思われます。\nギル氏によると、ほとんどの企業では、ビジネスが最高価値に達する期間はおよそ 12 か月あり、「その後、崩壊する」という。世代を捉える企業"
+    },
+    {
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-19T16:30:00",
+      "title_ja": "Palantir、包摂性と「退行的」文化を非難するミニマニフェストを投稿",
+      "summary_ja": "パランティアのイデオロギー的傾向は、ICEと協力し、自らを「西側」の擁護者として位置づけるにつれて、より厳しい監視の対象となっている。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2019/05/palantir.jpg?resize=1200,640",
+      "body_ja": "監視・分析会社パランティアは最近、アレックス・カープCEOの著書『The Technological Republic』の22項目からなる「短い」要約と称するものを投稿した。\nカープ氏とパランティア社の経営責任者ニコラス・ザミスカ氏が執筆した「テクノロジー・リパブリック」は昨年出版され、著者らはパランティア氏の研究の背後にある「理論の明確化の始まり」と説明した。 （ある批評家は、これは「まったく本ではなく、本の一部だ」と述べた）"
+    },
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-19T16:01:00",
+      "title_ja": "TechCrunch モビリティ: Uber が資産最大化時代に突入",
+      "summary_ja": "TechCrunch Mobility へようこそ。未来の交通機関、そして今まで以上に AI がどのように役割を果たしているかを知るためのハブです。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/2603112-01_LEAF_robotaxi_01.jpg?w=1200",
+      "body_ja": "TechCrunch Mobility へようこそ。未来の交通機関、そして今まで以上に AI がどのように役割を果たしているかを知るためのハブです。これを受信箱に受け取るには、ここから無料でサインアップしてください。TechCrunch Mobility をクリックするだけです。\n数週間前、私は、新興自動運転技術分野において、Uber があらゆる場所に同時に存在しているように見えることについて書きました。フィナンシャル・タイムズ紙は今回、その数字を載せた。 FTは、ウーバーが10億ドル以上の契約を結んだと計算した。"
+    },
+    {
+      "title": "【約7500円お得】MacBook Air 13インチを買うならAmazonが有力",
+      "url": "https://ascii.jp/elem/000/004/396/4396243/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/19/4454598/s/612efcc9c531731d.jpg\" width=\"60\" />Apple公式では184,800円の構成ですが、Amazonでは177,333円で購入できます。差額は約7,500円あり、同じ13インチMacBook Airの16GBメモリ・512GB SSD構成を選ぶなら、そのぶん実質的な負担を抑えやすいのが利点です。純正品を少しでも安く導入したい人にとって、Amazon価格は十分に魅力があります。</p><br clear=\"l",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T11:30:00",
+      "image_url": "https://ascii.jp/img/2026/04/19/4454598/s/612efcc9c531731d.jpg"
+    },
+    {
+      "title": "音は最高、使い勝手はクセあり。それでも選ばれるソニーのウォークマン「NW-A306」がAmazonで割引中",
+      "url": "https://ascii.jp/elem/000/004/395/4395958/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4453668/s/fec345022fb83da6.jpg\" width=\"60\" />ソニーのウォークマン「NW-A306」がAmazonで割引対象。参考価格46,200円のところ、9％オフの42,000円で販売中。ハイレゾ音源やストリーミングに対応し、LDACやDSEE Ultimateによる高音質再生が特徴。音楽を“ちゃんと聴きたい”なら、こういうの。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/17/4453668/s/fec345022fb83da6.jpg"
+    },
+    {
+      "title": "「年中水着のプロとしての試練だった」ちとせよしのが24th BD＆DVDで極寒の海ロケに挑む！",
+      "url": "https://ascii.jp/elem/000/004/395/4395872/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/16/4453507/s/346555591a7661f2.jpg\" width=\"60\" />女性ファンも多数。グラドルとして圧倒的な人気を誇る「ちとせよしの」さんが、24th BD＆DVD「Re:無題」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/16/4453507/s/346555591a7661f2.jpg"
+    },
+    {
+      "title": "Ryzen 5搭載の14型ノートPC「FMV M55-K3」が、富士通直販サイトで14万円台！",
+      "url": "https://ascii.jp/elem/000/004/395/4395358/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/01/16/4402627/s/ff1b33cb4a7d2db7.png\" width=\"60\" />富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/01/16/4402627/s/ff1b33cb4a7d2db7.png"
+    },
+    {
+      "title": "お買い得だぞ！ Core Ultra 7搭載モデルの「キャンセル品」が22万円台！",
+      "url": "https://ascii.jp/elem/000/004/395/4395347/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/01/16/4402645/s/bcab5788a322c5fa.png\" width=\"60\" />富士通の直販サイト「富士通 WEB MART」では最新モデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-19T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/01/16/4402645/s/bcab5788a322c5fa.png"
+    },
+    {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-      "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the f",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
       "published": "2026-04-18T21:37:15",
-      "title_ja": "テスラはロボタクシー サービスをダラスとヒューストンに導入 |9 月|同社のソーシャルメディアへの投稿によると、テスラはロボタクシーサービスをダラスとヒューストンに拡大している。この投稿には、「ロボタクシーが現在ダラスで展開されており、",
+      "title_ja": "テスラはロボタクシー サービスをダラスとヒューストンに導入 |9 月|同社は昨年オースティンでサービスを開始し、202年1月にセーフティドライバーなしでの配車サービスを開始した後、現在はテキサス州内の3都市でロボタクシーサービスを提供している。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
       "body_ja": "同社のソーシャルメディアへの投稿によると、テスラはロボタクシーサービスをダラスとヒューストンに拡大している。\n投稿には「ロボタクシーがダラスとヒューストンで展開中🤠」とだけ書かれており、人間のモニターや前部座席のドライバーなしでテスラ車が走行する様子を映した14秒のビデオが含まれている。\n同社は、昨年オースティンでサービスを開始して配車サービスを開始した後、現在はテキサス州内の 3 つの都市でロボタクシー サービスを提供しています。"
@@ -22,7 +185,7 @@
       "lang": "en",
       "published": "2026-04-18T19:19:11",
       "title_ja": "AIチップスタートアップCerebrasのIPOファイル",
-      "summary_ja": "ここ数カ月、同社はAmazonデータセンターでCerebrasチップを使用するためのAmazon Web Servicesとの契約を発表し、またOpenAIとの契約も発表した。",
+      "summary_ja": "ここ数カ月間、同社はAmazonのデータセンターでCerebrasチップを使用するためのAmazon Web Servicesとの契約を発表し、またOpenAIとの契約も発表した。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
       "body_ja": "CEOのアンドリュー・フェルドマン氏が「トレーニングと推論のための最速のAIハードウェア」と表現するものを構築する新興企業Cerebras Systemsが株式公開を申請した。\n同社は以前、2024年に新規株式公開を申請していたが、アブダビに本拠を置くG42からの投資に対する連邦政府の審査により延期され、最終的には撤退した。セレブラスは昨年シリーズGで11億ドルを調達し、続いて2月には10億ドルのシリーズHを230億ドルで調達した。"
     },
@@ -51,106 +214,6 @@
       "summary_ja": "Appfigures の新しいデータは、2026 年に新しいアプリが大量にリリースされることを示しており、AI ツールがモバイル ソフトウェア ブームを促進する可能性があることを示唆しています。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/app-store-with-badge-GettyImages-2193151739.jpg?w=1024",
       "body_ja": "AI がアプリを殺すだろうと誰もが言いました。その代わりに、新しいアプリのリリースが急増しています。\n市場インテリジェンスプロバイダーである Appfigures の新しい分析によると、2026 年第 1 四半期の世界のアプリリリースは、Apple の App Store と Google Play の両方で前年比 60% 増加しました。 iOS App Store だけを見ると、その割合はさらに高い 80% でした。 2026 年 4 月のこれまでの時点で、アプリのリリース総数は両ストアで 104% 増加しています。"
-    },
-    {
-      "title": "“ノートPCいらないかも”と思わせるM4搭載。作業機として成立するiPad Proが約9万円引き",
-      "url": "https://ascii.jp/elem/000/004/396/4396171/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4454143/s/6cef653575afa14a.jpg\" width=\"60\" />Apple 11インチiPad Pro（M4）がAmazonで割引対象。参考価格357,091円のところ、25％オフの268,920円で販売中。M4搭載で処理性能が高く、ディスプレイや容量も含めて作業用として使える仕様。ノートPCを持ち歩かずに、外でもそのまま作業したい人向け。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4454143/s/6cef653575afa14a.jpg"
-    },
-    {
-      "title": "枕、何が正解かわからない人へ。約5,000円で試せる“高さを自分で合わせられる”西川の枕が割引中",
-      "url": "https://ascii.jp/elem/000/004/396/4396077/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4453971/s/e2023ea542a1a970.jpg\" width=\"60\" />西川の「睡眠博士 首肩フィット 枕（低め）」がAmazonで割引対象。参考価格5,610円のところ、11％オフの4,981円で販売中。高さを中材の出し入れで調整でき、仰向け中心で横向きにも対応した形状。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4453971/s/e2023ea542a1a970.jpg"
-    },
-    {
-      "title": "アップル「折りたたみiPhone」の姿がリーク　iPhone 18 Proと並ぶダミー画像登場",
-      "url": "https://ascii.jp/elem/000/004/396/4396069/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4453905/s/654aa65cb633272e.png\" width=\"60\" />アップルが今年発売するとうわさのiPhone 18 Pro、iPhone 18 Pro Max、そして折りたたみ式iPhoneの3機種のダミーモデルの画像がリークされた。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4453905/s/654aa65cb633272e.png"
-    },
-    {
-      "title": "アップル「iPhone 18」デザインほぼ変わらず？　サイズ微調整の可能性も",
-      "url": "https://ascii.jp/elem/000/004/396/4396068/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4453899/s/47bb65c131abef33.jpg\" width=\"60\" />アップルが開発中とうわさの新型iPhone 18のデザインは、現行モデルとほぼ変わらないという。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4453899/s/47bb65c131abef33.jpg"
-    },
-    {
-      "title": "「グラビアの進化を感じました」時東ぁみがデビュー20周年記念の第2弾でメイドビキニ初披露！",
-      "url": "https://ascii.jp/elem/000/004/395/4395871/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/16/4453490/s/952ccd34dba38638.jpg\" width=\"60\" />元祖メガネっ娘アイドルの時東ぁみさんが、BD＆DVD「メガネはこうでなくっちゃ」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/16/4453490/s/952ccd34dba38638.jpg"
-    },
-    {
-      "title": "プリンター、何選べばいいか迷ってない？写真も文書もキレイに出せるCanonが割引中",
-      "url": "https://ascii.jp/elem/000/004/396/4396037/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4453836/s/5819cddee8ebed27.jpg\" width=\"60\" />キヤノンのプリンター「TS8830」がAmazonで割引対象。参考価格31,680円のところ、13％オフの27,500円で販売中。6色ハイブリッドインクで写真も文書もキレイに出せるほか、スマホからの印刷や自動両面印刷にも対応。買い替えで迷っている人でも選びやすい1台。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4453836/s/5819cddee8ebed27.jpg"
-    },
-    {
-      "title": "部屋にあったら2度見しちゃうゲーミングPC現る　でも中身もしっかりしております",
-      "url": "https://ascii.jp/elem/000/004/394/4394469/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/13/4450998/s/0b0d87642adf4b2e.png\" width=\"60\" />はちゃめちゃにかわいいPCケースを見つけてしまいました！  それが、Astromedaと「サンリオキャラクターズ」がコラボレーションした「『サンリオキャラクターズ』×「Astromeda」コラボレーションPCケース【ハローキティ】」です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/13/4450998/s/0b0d87642adf4b2e.png"
-    },
-    {
-      "title": "不安だよね、「太陽光義務化」だけど「コスト不透明」、対象企業の4割が戸惑っているようだ",
-      "url": "https://ascii.jp/elem/000/004/388/4388255/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/08/4448697/s/4b0558b1b73e2016.png\" width=\"60\" />「屋根置き太陽光発電設備の導入目標策定義務化」にまつわる、対象事業者は、どんなことを不安に感じている？</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/08/4448697/s/4b0558b1b73e2016.png"
-    },
-    {
-      "title": "あの侵略的日常が帰ってくる！『ケロロ軍曹』全巻66%オフであります！【Kindle漫画セール情報】",
-      "url": "https://ascii.jp/elem/000/004/396/4396181/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4454146/s/90590adae652eba2.png\" width=\"60\" />16年ぶりに新劇場版が公開される『ケロロ軍曹』が全巻66%オフ！福田雄一監督×懐かしの声優陣が集結し、あの侵略的日常が帰ってくるこの夏、あなたの家にもケロロたちを迎えちゃう好機であります！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4454146/s/90590adae652eba2.png"
-    },
-    {
-      "title": "苺好き注目！セブン新作「クワトロいちごエクレア」4月21日発売",
-      "url": "https://ascii.jp/elem/000/004/396/4396131/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/17/4454061/s/9a7cbf4fba415dac.jpg\" width=\"60\" />セブン‐イレブンは4月21日より、4種のいちご具材を組み合わせた「クワトロいちごエクレア」を順次発売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-18T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/17/4454061/s/9a7cbf4fba415dac.jpg"
     },
     {
       "title": "生成AI導入が社員に浸透しない原因！理解を深めて定着させるコツを解説",
@@ -185,7 +248,7 @@
       "title_ja": "サム・アルトマンのプロジェクト World は、人間検証帝国の拡大を目指しています。最初の目的地はTinderです。 |9月| Orbを中心とした匿名検証プロジェクトで眉をひそめている（しかし、多くの関心も集めている）ワールドは、一連の新たなパートナーシップを通じて影響力を拡大しようとしている",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-      "body_ja": "サンフランシスコ桟橋近くのトレンディな会場で、サム・アルトマンの検証プロジェクト「ワールド」が次の進化とその野心の急速な拡大を祝った。そしてそれはTinderから始まります。\nWorld プロジェクトを推進する Tools for Humanity (TFH) は金曜日、同社の検証技術を出会い系アプリ、イベントやコンサートのチケット販売システム、企業組織、電子メール、その他の公共生活の分野に統合する計画を発表した。\n「世界はCになりつつある」"
+      "body_ja": "サンフランシスコ桟橋近くのトレンディーな会場で、サム・アルトマンの検証プロジェクト「ワールド」が次の進化とその野心の急速な拡大を祝った。そしてそれはTinderから始まります。\nWorld プロジェクトを推進する Tools for Humanity (TFH) は金曜日、同社の検証技術を出会い系アプリ、イベントやコンサートのチケット販売システム、企業組織、電子メール、その他の公共生活の分野に統合する計画を発表した。\n「世界はCになりつつある」"
     },
     {
       "title": "Anthropic、AIデザインツール「Claude Design」プレビュー公開──「Opus 4.7」搭載でコーディングツールとの連携も",
@@ -206,62 +269,10 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-04-17T20:38:17",
-      "title_ja": "ケビン・ワイルとビル・ピーブルズ、OpenAI が「サイドクエスト」を出し続ける中、撤退 |9 月| OpenAIがSoraを閉鎖し科学チームを解散する中、Kevin Weil氏とBill Peebles氏はOpenAIを離れることになり、消費者のムーンショットからエンタープライズAIへの急激な方向転換を示唆している。",
+      "title_ja": "ケビン・ワイルとビル・ピーブルズ、OpenAI が「サイドクエスト」を出し続ける中、撤退 |9 月 | OpenAIがSoraを閉鎖し科学チームを解散する中、Kevin Weil氏とBill Peebles氏はOpenAIを離れることになり、消費者のムーンショットからエンタープライズAIへの急激な方向転換を示唆している。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-      "body_ja": "OpenAI は、最も野心的なムーンショットのアーキテクト 2 人を失いつつあります。同社の科学研究イニシアチブを主導したケビン・ワイル氏と、AIビデオツールSoraの研究者であるビル・ピーブルズ氏はともに金曜日に退職を発表した。この撤退は、OpenAI がエンタープライズ AI とその今後の「スーパーアプリ」を中心に統合する際に行われます。\n今回の撤退は、SoraやOpenAIのような顧客向けの賭けを含む「サイドクエスト」を削減するというOpenAIの決定に続くものである"
-    },
-    {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-17T19:17:26",
-      "title_ja": "出典: 企業の成長が急成長する中、カーソルは評価額500億ドルで20億ドル以上を調達する交渉中",
-      "summary_ja": "復帰後援者のa16zとThriveがラウンドをリードすると予想される。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-      "body_ja": "事情に詳しい4人の関係筋によると、AIコーディングの新興企業カーソルは新たな資金調達に近づいており、設立4年目の同社は少なくとも20億ドルの新規資金を調達する予定だという。関係者によると、投資家として復帰しているスライブ氏とアンドリーセン・ホロウィッツ氏が、新たな資本注入に先立って500億ドルの評価額で資金調達を主導する見通しだという。\n２人の関係筋によると、新規投資家であるバッテリー・ベンチャーズも資金調達に参加する可能性がある。"
-    },
-    {
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-17T18:42:45",
-      "title_ja": "「Tokenmaxxing」により開発者の生産性が思ったより低下している",
-      "summary_ja": "コードはさらにたくさんありますが、コストがはるかに高く、より多くの書き換えが必要になります。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
-      "body_ja": "経営には「何を測定するかが重要」という古い考え方があります。そして、通常、測定するものは何でもより多くの情報が得られます。\nソフトウェア エンジニアは何十年もの間、コード行から始めて生産性の指標について議論してきました。しかし、新世代の AI コーディング エージェントがこれまで以上に多くのコードを提供するにつれて、マネージャーが何を測定すべきかが明確になりません。\n膨大なトークン予算 — 本質的には、開発者が共同作業を許可されている AI 処理能力の量"
-    },
-    {
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-17T15:57:40",
-      "title_ja": "Tokenmaxxing、OpenAI の爆買い、AI の不安ギャップ",
-      "summary_ja": "AI 内部関係者と他の人々との間のギャップは拡大しており、支出、疑惑、さらには新しい用語によってもそれが現れ始めています。 OpenAI があらゆるものを買い占めている間に",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "body_ja": "AI 内部関係者とその他の人々との間のギャップは拡大しており、支出、疑惑、さらには新しい用語によってもそれが現れ始めています。 OpenAIが金融アプリからトークショーまであらゆるものを買収するのに忙しい一方で、ある靴会社はAIインフラ事業としてブランドを変更したばかりで、Anthropic社は、強力すぎて公にリリースできないというモデルを発表した…しかしどうやら連邦準備制度理事会のジェローム・パウエル議長にデモするには強力すぎないようだ。\nこのエピソードについて"
-    },
-    {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-17T15:00:00",
-      "title_ja": "Anthropic は、クイック ビジュアルを作成するための新製品、Claude Design を発売 |9 月|同社によれば、Claude Designは、創業者やプロダクトマネージャーなど、デザインの経験がない人々がアイデアをより簡単に共有できるようにすることを目的としているという。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Claude-Design-2-Press-Logo-Claude-1920x1080-1.png?resize=1200,675",
-      "body_ja": "Anthropic は金曜日、ユーザーが Claude を使用してプロトタイプ、スライド、概要資料などのビジュアルを作成できる新しい実験的製品である Claude Design を発売すると発表しました。同社によれば、Claude Designは、創業者やプロダクトマネージャーなど、デザインの経験がない人々がアイデアをより簡単に共有できるようにすることを目的としているという。\nClaude Design では、ユーザーが希望するものを記述し、Claude が初期バージョンを作成します。そこからユーザーは次のことを行うことができます"
+      "body_ja": "OpenAI は、最も野心的なムーンショットのアーキテクト 2 人を失いつつあります。同社の科学研究イニシアチブを主導したケビン・ワイル氏と、AIビデオツールSoraの研究者であるビル・ピーブルズ氏はともに金曜日に退職を発表した。この撤退は、OpenAI がエンタープライズ AI とその今後の「スーパーアプリ」を中心に統合する際に起こります。\n今回の撤退は、SoraやOpenAIのような顧客向けの賭けを含む「サイドクエスト」を削減するというOpenAIの決定に続くものである"
     },
     {
       "title": "Pie Day 2026",
@@ -286,7 +297,7 @@
       "title_ja": "ダウンロード: 内なるネアンデルタール人にとって悪い知らせと AI 戦争による人間の幻想",
       "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。あなただと思うことの問題",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Neanderthals_finals-top.jpg?resize=1200,600",
-      "body_ja": "ダウンロード: 内なるネアンデルタール人にとって悪いニュースと AI 戦争による人間の幻想\nさらに: Anthropic をブラックリストに登録しているにもかかわらず、ホワイトハウスは新しいモデルを望んでいます。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n自分がネアンデルタール人の一部であると考えることの問題点\n私たちの多くは「内なるネアンデルタール人」を持っているという理論があります。アイデアは、ホモ・サピエンスと従兄弟のスペー"
+      "body_ja": "ダウンロード: 内なるネアンデルタール人にとって悪いニュースと AI 戦争による人間の幻想\nさらに、Anthropic をブラックリストに登録しているにもかかわらず、ホワイトハウスは新しいモデルを望んでいます。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n自分がネアンデルタール人の一部であると考えることの問題点\n私たちの多くは「内なるネアンデルタール人」を持っているという理論があります。アイデアは、ホモ・サピエンスと従兄弟のスペー"
     },
     {
       "title": "生成AI導入は外注すべき？判断軸5つと費用・期間の目安を解説",
@@ -321,7 +332,7 @@
       "title_ja": "すべてを解決するためのケース",
       "summary_ja": "テクノロジー業界の伝説的人物であるスチュワート・ブランドによる素晴らしい新書『Maintenance: Of Everything, Part One』は、「システムの包括的な概要」を提供するシリーズの最初の本となることが約束されています。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/eyevine03910789.jpg?resize=1200,600",
-      "body_ja": "すべてを解決するケース\n現代のテクノロジー文化の構築者であるスチュワート ブランドによる新しい本は、「メンテナンスにどのように優先順位を付けるか?」と問いかけています。そしてなぜですか？しかし、完全に答えがあるわけではありません。\nテクノロジー業界の伝説的人物であるスチュワート・ブランドによる素晴らしい新書『Maintenance: Of Everything, Part One』は、「メンテナンスの文明的重要性の包括的な概要」を提供するシリーズの最初の本になることが約束されています。ブランドの数人の伝記作家のうちの 1 人が説明"
+      "body_ja": "すべてを解決するケース\n現代のテクノロジー文化の構築者であるスチュワート ブランドの新しい本は、「メンテナンスにどのように優先順位を付けるか?」と問いかけています。そしてなぜですか？しかし、完全に答えがあるわけではありません。\nテクノロジー業界の伝説的人物であるスチュワート・ブランドによる素晴らしい新書『Maintenance: Of Everything, Part One』は、「メンテナンスの文明的重要性の包括的な概要」を提供するシリーズの最初の本になることが約束されています。ブランドの数人の伝記作家のうちの 1 人が説明"
     },
     {
       "title": "How robots learn: A brief, contemporary history",
@@ -332,9 +343,9 @@
       "lang": "en",
       "published": "2026-04-17T10:00:00",
       "title_ja": "ロボットはどのように学習するか: 簡単な現代史",
-      "summary_ja": "ロボット工学者はかつて大きな夢を抱いていましたが、構築するものは小規模でした。彼らは、人体の並外れた複雑さに匹敵するか、それを超えることを望み、その後、ロボット アーキテクトの改良にキャリアを費やすことになるでしょう。",
+      "summary_ja": "ロボット工学者はかつて大きな夢を抱いていましたが、構築するのは小規模でした。彼らは、人体の異常な複雑さに匹敵するか、それを超えることを望み、その後、ロボット アーキテクトの改良にキャリアを費やすことになるでしょう。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
-      "body_ja": "ロボットはどのように学習するか: 簡単な現代史\n最近のロボット工学のブームは、機械が世界と対話する方法を学習した方法に革命をもたらしています。\nロボット工学者はかつて大きな夢を抱いていましたが、構築するものは小規模でした。彼らは人体の並外れた複雑さに匹敵するか、それを超えることを望み、その後は自動車工場向けのロボットアームの改良にキャリアを費やすことになるでしょう。 C-3P0を目指してください。結局ルンバになる。\nこれらの研究者の多くにとっての本当の野心は、"
+      "body_ja": "ロボットはどのように学習するか: 簡単な現代史\n最近のロボット工学のブームは、機械が世界と対話する方法を学習した方法に革命をもたらしています。\nロボット工学者はかつて大きな夢を抱いていましたが、構築するのは小規模でした。彼らは人体の並外れた複雑さに匹敵するか、それを超えることを望み、その後は自動車工場向けのロボットアームの改良にキャリアを費やすことになるでしょう。 C-3P0を目指してください。結局ルンバになる。\nこれらの研究者の多くにとっての本当の野心は、"
     },
     {
       "title": "「なぜSalesforceにログインする必要があるのか」　“エージェント向けSalesforce”「Headless 360」発表",
@@ -403,17 +414,6 @@
       "body_ja": "公正取引委員会は4月16日、生成AI市場の実態調査に関する報告書を公表した。スマートフォン端末の生成AIを使うアプリを開発しようとする企業に対し、基本ソフト（OS）を提供する企業がソフトウェアへのアクセスを制限すれば独禁法に抵触しかねないと示した。生成AIを利用した自動運転を巡っては、米中の大手企業などが国内企業との公正競争を阻害する懸念があると指摘した。\n生成AIの市場規模は急速に拡大し、現在の6000億円程度から2029年には2兆円ほどに達する見込みだ。独禁法に違反するケースを紹介することで健全な競争環境の維持と発展を促す狙いがある。\n報告書は、OS企業によるアクセス制限はアプリ開発の簡素化やセキュリティの確保を妨げ、競合企業の排除につながるとした。デジタルサービスで高いシェアを持つ企業が、自社のサービスと生成AIを統合して提供すると不当な「抱き合わせ販売」になる可能性があるとも説明した。\n生成AIの活用が期待されている自動運転の市場実態についても整理した。この分野では米電気自動車（"
     },
     {
-      "title": "ChatGPTに「私に似たキャラ教えて」聞く遊び流行　ブラジル発、X翻訳で世界に拡散",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news099.html",
-      "summary": "「私に似たキャラクターを1人教えてください。名前だけ」とAIに聞く、ブラジル発の遊びが流行中。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-17T03:36:00",
-      "image_url": "https://image.itmedia.co.jp/aiplus/articles/2604/17/cover_news099.png",
-      "body_ja": "「これまでの個人的な経験に基づいて、あなたと長く会話してきた中で、私に似たキャラクターを1人教えてください。名前だけ」\nChatGPTにこう尋ね、結果をXに投稿する遊びが、4月16日ごろから流行している。AIから返ってきたキャラクター名を共有し、結果にツッコんで楽しむユーザーが続出。発端はブラジルのユーザーによるポルトガル語の投稿で、Xの翻訳機能を通じて一気に世界に拡散したようだ。\n発端は、ブラジルの東北エリア・マラニョン州在住だというのXユーザー・menaさん（@zcahverse）がポルトガル語で書いたポスト。\n「これまでの個人的な経験に基づいて、あなたと長く会話してきた中で、私に似たキャラクターを1人教えてください。名前だけ。その後、ここに投稿してください」という内容（Grok翻訳より）だ。17日までに800万回以上表示された。このポストはX翻訳を通じて各国に拡散。日本でもトレンドになり、試す人が相次いだ。\nちなみに筆者はChatGPTに聞くと、ハリー・ポッターのハーマイオニー、G"
-    },
-    {
       "title": "生成AI導入はスモールスタートで始める！業務選定からKPIまでの実務ガイド",
       "url": "https://ainow.ai/2026/04/17/277957/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25af%25e3%2582%25b9%25e3%2583%25a2%25e3%2583%25bc%25e3%2583%25ab%25e3%2582%25b9%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%2588%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b%25ef%25bc%2581%25e6%25a5%25ad%25e5%258b%2599%25e9%2581%25b8%25e5%25ae%259a",
       "summary": "<p>&#29983;&#25104;AI&#23566;&#20837;&#12434;&#20219;&#12373;&#12428;&#12383;&#12418;&#12398;&#12398;&#12289;&#20309;&#12363;&#12425;&#25163;&#12434;&#12388;&#12369;&#12428;&#12400;&#12424;&#12356;&#12363;&#12431;&#12363;&#12425;&#12378;&#25163;&#12364;&#27490;&#12414;&#12387;&#12390;&#12356;&#12427",
@@ -457,9 +457,9 @@
       "lang": "en",
       "published": "2026-04-16T13:00:00",
       "title_ja": "エンタープライズ AI をオペレーティング層として扱う",
-      "summary_ja": "エンタープライズ AI には断層があり、最も注目を集めているのはそこではありません。公の場では依然として基盤モデルとベンチマーク (GPT とベンチマーク) が追跡されています。",
+      "summary_ja": "エンタープライズ AI には断層が存在しますが、最も注目を集めているのはそこではありません。公の場では依然として基盤モデルとベンチマーク (GPT とベンチマーク) が追跡されています。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/Ensemble-article-iStock-2213998103.jpg?resize=1200,600",
-      "body_ja": "スポンサー付き\nエンタープライズ AI をオペレーティング層として扱う\nエンタープライズ AI 時代を形作る可能性が最も高い組織は、インテリジェンスを運用プラットフォームに直接組み込むことができる組織です。\n提供：アンサンブル\nエンタープライズ AI には断層があり、最も注目を集めているのはそこではありません。公開の会話では、依然として基礎モデルとベンチマーク (GPT と Gemini、推論スコア、およびわずかな能力の向上) が追跡されています。"
+      "body_ja": "スポンサー付き\nエンタープライズ AI をオペレーティング層として扱う\nエンタープライズ AI 時代を形作る可能性が最も高い組織は、インテリジェンスを運用プラットフォームに直接組み込むことができる組織です。\n提供：アンサンブル\nエンタープライズ AI には断層が存在しますが、最も注目を集めているのはそこではありません。公開の会話では、依然として基礎モデルとベンチマーク (GPT と Gemini、推論スコア、およびわずかな能力の向上) が追跡されています。"
     },
     {
       "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
@@ -485,7 +485,7 @@
       "title_ja": "AI 戦争に「人間が参加する」というのはなぜ幻想なのか",
       "summary_ja": "人工知能を戦争に利用できるかどうかは、人類と国防総省の間の法廷闘争の中心となっている。 AIの活躍により、この議論は緊急性を増している",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/human-war-loop2.jpg?resize=1200,600",
-      "body_ja": "なぜAI戦争に「人間が巻き込まれる」というのは幻想なのか\n私たちは AI の内部の仕組みをよく理解していないため、事実上、盲目的に飛行していることになります。\n人工知能を戦争に利用できるかどうかは、人類と国防総省の間の法廷闘争の中心となっている。現在のイランとの紛争においてAIがこれまで以上に大きな役割を果たしていることから、この議論は緊急性を増している。 AI はもはや人間の知能分析を支援するだけではありません。それ"
+      "body_ja": "AI戦争に「人間が巻き込まれる」というのはなぜ幻想なのか\n私たちは AI の内部の仕組みをよく理解していないため、事実上、盲目的に飛行していることになります。\n人工知能を戦争に利用できるかどうかは、人類と国防総省の間の法廷闘争の中心となっている。現在のイランとの紛争においてAIがこれまで以上に大きな役割を果たしていることから、この議論は緊急性を増している。 AI はもはや人間の知能分析を支援するだけではありません。それ"
     },
     {
       "title": "OpenAI Agents SDK improves governance with sandbox execution",
@@ -547,7 +547,7 @@
       "icon": "📰",
       "lang": "en",
       "published": "2026-04-15T16:28:19",
-      "title_ja": "Commvault がクラウド AI ワークロード用に「Ctrl-Z」を開始 |9 月| Commvault AI Protect の展開後、エンタープライズ クラウド環境では AI エージェントの元に戻す機能にアクセスできるようになりました。自律型ソフトウェアがインフラストラクチャ全体を移動できるようになりました",
+      "title_ja": "Commvault がクラウド AI ワークロード向けに「Ctrl-Z」を開始 |9 月| Commvault AI Protect の展開後、エンタープライズ クラウド環境では AI エージェントの元に戻す機能にアクセスできるようになりました。自律型ソフトウェアがインフラストラクチャ全体を移動できるようになりました",
       "summary_ja": "",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/commvault-ai-protect-data-agentic-security-enterprise-protection-agents-cloud-infosec.jpg",
       "body_ja": "Commvault AI Protect の展開後、エンタープライズ クラウド環境では AI エージェントの元に戻す機能にアクセスできるようになりました。\n自律型ソフトウェアはインフラストラクチャ全体を移動し、ファイルの削除、データベースの読み取り、サーバー クラスターの起動、さらにはアクセス ポリシーの書き換えを行う可能性があります。 Commvault はこのガバナンスの問題を特定し、データ保護ベンダーは AI Protect を立ち上げました。AI Protect は、データ保護を検出、監視し、強制的に保護するように設計されたシステムです。"
@@ -613,7 +613,7 @@
       "title_ja": "SAP が人材管理にエージェント AI を導入",
       "summary_ja": "SAP によると、エージェント AI をコアの人的資本管理 (HCM) モジュールに統合することで、運用の肥大化を解消し、コストを削減することができます。 SAP の SuccessFactors 2026 年上半期リリースの目標",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/sap-agentic-ai-human-capital-management-resources-hr-finance-governance-talent-recruiting-enterprise-artificial-intelligence.jpg",
-      "body_ja": "SAP によると、エージェント AI をコアの人的資本管理 (HCM) モジュールに統合することで、運用の肥大化を解消し、コストを削減することができます。\nSAP の SuccessFactors 2026 年上半期リリースは、採用、給与計算、労働力管理、人材育成にわたる AI エージェントのネットワークを組み込むことで、日常業務が滞る前に管理上のボトルネックを予測することを目的としています。これらのエージェントは、ユーザー インターフェイスの背後でシステムの状態を監視し、システムの状態を識別する必要があります。"
+      "body_ja": "SAP によると、エージェント AI をコアの人的資本管理 (HCM) モジュールに統合することで、運用の肥大化を解消し、コストを削減することができます。\nSAP の SuccessFactors 2026 年上半期リリースは、採用、給与計算、従業員管理、人材育成にわたる AI エージェントのネットワークを組み込むことで、日常業務が滞る前に管理上のボトルネックを予測することを目的としています。これらのエージェントは、ユーザー インターフェイスの背後でシステムの状態を監視し、システムの状態を識別する必要があります。"
     },
     {
       "title": "Canada’s Scotiabank preps for its AI future",
@@ -624,9 +624,9 @@
       "lang": "en",
       "published": "2026-04-14T11:20:00",
       "title_ja": "カナダのスコシア銀行、AI の将来に向けて準備中",
-      "summary_ja": "Scotiabank は、さまざまなプラットフォーム、データ監視、ソフトウェア ツールを 1 つのインスタンスに統合する、データと AI 運用のための AI フレームワークである Scotia Intelligence を立ち上げました。 Ac",
+      "summary_ja": "Scotiabank は、さまざまなプラットフォーム、データ監視、ソフトウェア ツールを 1 つのインスタンスに統合する、データと AI 運用のための AI フレームワーク Scotia Intelligence を立ち上げました。 Ac",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/scotiabanks-ai-hero_x1440.webp",
-      "body_ja": "Scotiabank は、さまざまなプラットフォーム、データ監視、ソフトウェア ツールを 1 つのインスタンスに統合する、データと AI 運用のための AI フレームワークである Scotia Intelligence を立ち上げました。\n同銀行のプレスリリースによると、Scotia Intelligenceの目的は、銀行の既存のガバナンスとセキュリティルールに基づいて従業員、特に顧客対応チームにAIへのアクセスを提供することだという。スコシアバンクは、短いデータ倫理に関するコミットメント文書を発表しました。"
+      "body_ja": "Scotiabank は、さまざまなプラットフォーム、データ監視、ソフトウェア ツールを 1 つのインスタンスに統合する、データと AI 運用のための AI フレームワーク Scotia Intelligence を立ち上げました。\n同銀行のプレスリリースによると、Scotia Intelligenceの目的は、銀行の既存のガバナンスとセキュリティルールに基づいて従業員、特に顧客対応チームにAIへのアクセスを提供することだという。スコシアバンクは、短いデータ倫理に関するコミットメント文書を発表しました。"
     },
     {
       "title": "Hyundai expands into robotics and physical AI systems",
@@ -710,6 +710,6 @@
       "body_ja": "「AIを入れたら自分の仕事はどうなるのか」という不安にどう向き合えばよいか、悩んでいる方は多いのではないでしょうか。\nこの記事では、現場の反発を最小限に抑える説明の順番と、顧客対応でAIから人に切り替える基準の作り方を解説します。\nAI導入で現場から警戒の声が上がったとき、最もやってはいけないのは「とにかく慣れてください」と押し切ることです。\n不安の正体を分解し、正しい順番で説明すれば、反発を抑えながら合意形成を進められます。\n目次\nAI導入で現場の不安が生まれる背景\n現場の不安は、業務変化・評価・キャリアと、情報差・責任・学習格差の2層で構成されています。\n- 業務変化・評価・キャリアの3軸で不安が起こりやすい\n- 情報差・責任の曖昧さ・学習格差が不安を広げる\n- 外部調査データで「不安は自然に出る」と示せる\n構造を先に押さえておくと、説明設計の精度が上がります。\n業務変化・評価・キャリアの3軸で不安が起こりやすい\n現場の抵抗は「AIが嫌い」という感情ではなく、3つの具体的な心配から生"
     }
   ],
-  "last_updated": "2026-04-19T07:32:23.242979+09:00",
+  "last_updated": "2026-04-20T07:33:11.469266+09:00",
   "count": 60
 }
