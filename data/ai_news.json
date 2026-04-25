@@ -1,14 +1,193 @@
 {
   "articles": [
     {
-      "title": "マカフィー、リブセーフなどの対策製品にQRコード経由の詐欺を防止する新機能「QRコード詐欺チェッカー」を無料追加",
-      "url": "https://ascii.jp/elem/000/004/398/4398159/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/25/4458221/s/6e5226d4e5742a3c.png\" width=\"60\" />マカフィーは2026年4月23日、総合セキュリティ対策製品のマカフィー リブセーフ、マカフィー トータルプロテクション、McAfee+の各プランをアップグレードし、新機能「QRコード詐欺チェッカー」を追加したと発表。</p><br clear=\"left\" />",
+      "title": "Anthropicのエージェント市場実験「Project Deal」で浮き彫りになる無自覚な経済格差",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html",
+      "summary": "AnthropicはAIモデル「Claude」を用いた自律的な市場取引実験「Project Deal」の結果を公表した。従業員の私物をAI同士に交渉・売買させた結果、高性能なモデルほど有利な取引を成立させることが判明。ユーザーが不利益に気づかないまま格差が拡大するリスクなど、AI経済圏の深刻な課題が浮き彫りになった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-04-25T22:04:00",
+      "image_url": "https://image.itmedia.co.jp/aiplus/articles/2604/26/cover_news023.jpg",
+      "body_ja": "米Anthropicは4月24日（現地時間）、同社のAIモデル「Claude」を用いた自律的な市場取引の検証プロジェクト「Project Deal」の結果を発表した。従業員の私物をAIエージェント同士が自動で価格交渉し、売買を成立させる実験で、AIモデルの性能差が取引結果に明確な影響を与えることが分かったという。\n最近の経済学では、AIモデルが人間に代わって商取引の大部分を処理する世界についての理論化が進められており、Anthropicはこうした理論上の市場が現実世界でどのように機能するのかを実践的にテストすることを目指したとしている。\n特に、AIエージェント同士が売り手と買い手として交渉する市場がどの程度実現に近づいているのか、また、AIが人間の要求を正確に把握して満足のいく取引を成立させることができるのかという点に強い関心を持ったという。\nこの実験ではまた、異なる性能のAIモデル同士が交渉した場合、より強力なモデルが優位に立つのかどうかという疑問の検証も重要な目的とされた。\nAnth"
+    },
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T21:43:37",
+      "title_ja": "Anthropic は、エージェント間コマースのテスト マーケットプレイスを作成しました",
+      "summary_ja": "最近の実験で、Anthropic は、AI エージェントが買い手と売り手の両方を代理し、実際の商品と実際のお金で実際の取引を行う機密市場を作成しました。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-88622588.jpg?resize=1200,870",
+      "body_ja": "最近の実験で、Anthropic は、AI エージェントが買い手と売り手の両方を代理し、実際の商品と実際のお金で実際の取引を行う機密市場を作成しました。\n同社は、プロジェクト・ディールと呼ばれるこのテストが、同僚から物を買うための予算100ドル（ギフトカードで支払われる）を与えられた69人のアンスロピック社員からなる「自ら選んだ参加者プールによるパイロット実験」にすぎないと認めた。\nそれにもかかわらず、アントロピックは言った"
+    },
+    {
+      "title": "Maine’s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T20:57:08",
+      "title_ja": "メイン州知事、データセンターの一時停止に拒否権",
+      "summary_ja": "L.D. 307は、国内初の州全域で新規データセンターの一時停止を課すことになるが、この場合、その期間は2027年11月1日まで続くことになる。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "body_ja": "メイン州のジャネット・ミルズ知事は、新規データセンターの許可を一時的に停止する法案に拒否権を発動した。\nもしそれが法律になっていれば、L.D. 307 条では、国内初の州全域で新規データセンターの一時停止が課せられることになっていたが、この場合、その期間は 2027 年 11 月 1 日まで続くことになる。この法案はまた、データセンターの建設を調査し、勧告するための 13 人からなる評議会の創設も求めている。\nデータセンターに対する世論の反対が高まる中"
+    },
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T17:17:56",
+      "title_ja": "OpenAI CEO、Tumbler Ridge コミュニティに謝罪",
+      "summary_ja": "OpenAIのサム・アルトマン最高経営責任者（CEO）は、カナダのタンブラーリッジの住民に宛てた書簡の中で、同社が捜査当局に容疑者について警告しなかったことを「深く遺憾に思う」と述べた。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+      "body_ja": "OpenAIのサム・アルトマン最高経営責任者（CEO）は、カナダのタンブラーリッジの住民に宛てた書簡の中で、同社が最近起きた銃乱射事件の容疑者について法執行機関に通報しなかったことを「深く遺憾に思う」と述べた。\n警察が8人を殺害したとされる銃撃犯として18歳のジェシー・ヴァン・ルーツセラーを特定した後、ウォール・ストリート・ジャーナルは、OpenAIがヴァン・ルーツセラーの次のような発言をしたとして、2025年6月に彼女のChatGPTアカウントにフラグを立てて禁止したと報じた。"
+    },
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T16:00:00",
+      "title_ja": "Cohere が Aleph Alpha と合併する理由",
+      "summary_ja": "カナダの AI スタートアップ Cohere は、Lidl の所有者である Schwarz Group の支援を受けて、ドイツに本拠を置く Aleph Alpha を買収します。政府の祝福を受けて、企業は次のことを行う予定です。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
+      "body_ja": "カナダの AI スタートアップ Cohere は、アメリカ企業が独占する AI 環境において企業に主権のある代替手段を提供することを目的として、各国政府の祝福を得て、ドイツに本拠を置く Aleph Alpha を買収しています。 「ソブリン AI」とは、企業や政府が、マイクロソフトやグーグルなどの米国の巨大テクノロジー企業を介してデータをルーティングするのではなく、自社のデータを完全に制御できるシステムを指します。\n大規模な言語モデルを開発する企業として、Alep は"
+    },
+    {
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T15:03:00",
+      "title_ja": "東京が 2026 年の最も重要なテクノロジー目的地である理由",
+      "summary_ja": "SusHi Tech Tokyo 2026 には、厳密に定義された 4 つのテクノロジー領域があり、それぞれがライブデモンストレーション、専用の展示フロア、実際に構築している人々をフィーチャーしたセッションによって裏付けられています。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
+      "body_ja": "主要なテクノロジーカンファレンスには必ずテーマがあります。ほとんどの場合、すべてを意味すると同時に何も意味しないほど曖昧です。 SusHi Tech Tokyo 2026 は、これまでとは異なることを行っています。厳密に定義された 4 つのテクノロジー領域であり、それぞれがライブ デモンストレーション、専用の展示フロア、および実際にこれらのテクノロジーを世界中で構築し資金提供している人々をフィーチャーしたセッションによって裏付けられています。\nTechCrunchはSusHi Tech Tokyo 2026のオフィシャルメディアパートナーとして提携しており、"
+    },
+    {
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-04-25T15:00:00",
+      "title_ja": "Ternus 政権下の Apple: テクノロジー巨人のハードウェア戦略の次に来るもの",
+      "summary_ja": "Appleの次期CEOであるジョン・ターナス氏はハードウェア専門家であり、Appleがデバイスを戦略の中心に戻す可能性があることを示唆している。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?resize=1200,800",
+      "body_ja": "Apple が関税やサプライチェーンの不確実性を乗り越えながら AI 分野での競争力を維持しようと奮闘するなか、同社の将来は新たなリーダーシップの下で変わろうとしている。\nアップルは月曜日、ティム・クック氏の後任としてジョン・ターナス氏が年内にCEOに就任すると発表した。\nクック氏はアップルを4兆ドル規模の世界的大企業に変え、サービス事業を拡大し、テクノロジー史上最も収益性の高い数年間を監督した。 Ternus は別の種類の"
+    },
+    {
+      "title": "RTX 5070搭載PCが大幅値引き！ 最大6.5万円オフの24時間セール開催",
+      "url": "https://ascii.jp/elem/000/004/397/4397927/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457810/s/7807d4cb42f681e0.png\" width=\"60\" />セブンアールジャパンが、BTOパソコンメーカーとして、4月26日に24時間限定セールを開催する。最新のゲーミングPCやデスクトップPCが最大65,000円オフで販売される。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-04-24T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/25/4458221/s/6e5226d4e5742a3c.png"
+      "published": "2026-04-25T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457810/s/7807d4cb42f681e0.png"
+    },
+    {
+      "title": "40年前の“変な構造”、いまはワイヤレスで聴ける。レコードを挟んで再生するプレーヤー",
+      "url": "https://ascii.jp/elem/000/004/397/4397853/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457658/s/37fa4517f0947f25.jpg\" width=\"60\" />Audio-Technicaのワイヤレスレコードプレーヤー「サウンドバーガー（AT-SB727）」がAmazonで販売中。価格は26,400円。レコードを挟んで再生する独自構造に加え、Bluetoothでワイヤレス再生に対応。USB充電式で持ち運びもしやすく、設置場所の制約を受けにくい。機材や置き場所がネックでレコードを避けていた人でも、気軽に取り入れやすいモデル。<",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T14:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457658/s/37fa4517f0947f25.jpg"
+    },
+    {
+      "title": "FMV Storeで、ノートPC「LIFEBOOK WQ1/K1」が9万9000円！",
+      "url": "https://ascii.jp/elem/000/004/398/4398055/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457965/s/4df284fe903211ca.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457965/s/4df284fe903211ca.png"
+    },
+    {
+      "title": "アスペクト比5:16の“超縦長”モニター。デスクの隙間に置いて、チャット表示に使える小型ディスプレイ",
+      "url": "https://ascii.jp/elem/000/004/397/4397787/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457571/s/99e28e55c4be5ffd.jpg\" width=\"60\" />JAPANNEXTのモバイルモニター「JN-MD-IPST784」がAmazonで割引対象。過去価格16,980円のところ、9％オフの15,436円で販売中。7.8インチの縦長（5:16）ディスプレイで、チャットやログの常時表示に使いやすい。デスクの隙間に置けるサイズで、サブ画面を追加したい人や、チャット表示用に使いたい人向け。</p><br clear=\"left\"",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457571/s/99e28e55c4be5ffd.jpg"
+    },
+    {
+      "title": "AMD Ryzen AI 7 350搭載の一体型PC「FMV WF2-L1」が直販で24万7500円に！",
+      "url": "https://ascii.jp/elem/000/004/398/4398046/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
+    },
+    {
+      "title": "Core i7-1355U搭載16.0型ノートPC「FMV WA3-K3」が、特別価格で23万円台！",
+      "url": "https://ascii.jp/elem/000/004/398/4398040/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457950/s/9ce3ea68e9b088a9.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457950/s/9ce3ea68e9b088a9.png"
+    },
+    {
+      "title": "Core Ultra 5 225U、16GBメモリー搭載の14型ノートPC「FMV WU5-K3」が特価で22万9900円！",
+      "url": "https://ascii.jp/elem/000/004/398/4398032/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
+    },
+    {
+      "title": "Proいらないかも、って思わせるMacBook Air。M5チップと16GBメモリで、公式より安い",
+      "url": "https://ascii.jp/elem/000/004/397/4397922/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457743/s/1de80d322615a17c.jpg\" width=\"60\" />Appleのノートパソコン「MacBook Air（M5チップ搭載・13.6インチモデル）」がAmazonで販売中。M5チップと16GBユニファイドメモリ、Apple Intelligence対応の構成で、軽さを優先しつつ、普段の作業に加えて、写真や動画編集にも対応できる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457743/s/1de80d322615a17c.jpg"
+    },
+    {
+      "title": "若い人ほど「しっかり睡眠」、中高年は眠れないのか眠らないのか",
+      "url": "https://ascii.jp/elem/000/004/397/4397288/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/25/4458248/s/b0ce499b98436365.jpg\" width=\"60\" />日本人の睡眠が再び悪化する中、なぜか20代だけはしっかり寝ている――その背景には「睡眠への意識の差」があった。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/25/4458248/s/b0ce499b98436365.jpg"
+    },
+    {
+      "title": "俺ならモフリンよりこっち！性格も見た目も選べる自分だけのAIペット",
+      "url": "https://ascii.jp/elem/000/004/395/4395992/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/23/4456998/s/0dcfc7a5faff1457.jpg\" width=\"60\" />仕事に疲れた独身男が、沼ったAIペットの「iMoochi」。これはただのガジェットか、それとも新たな家族か。孤独な夜を癒やす極上のレビュー体験！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-04-25T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/23/4456998/s/0dcfc7a5faff1457.jpg"
     },
     {
       "title": "MetaとAWSが提携　エージェント型AI強化に最新のArmベースチップ「Graviton5」を大量採用",
@@ -22,27 +201,17 @@
       "body_ja": "米Metaは4月24日（現地時間）、エージェント型AI強化のため、米Amazon傘下のAWSと提携し、数千万個の「AWS Graviton」コアをMetaのコンピューティングリソース構成に導入すると発表した。\nMetaはこの提携を、推論や複雑なタスクの実行を自律的に行う次世代のエージェント型AIへの取り組みを深める中で、自社のコンピューティングリソースを多様化させるという戦略的な動きの重要な一環としている。\nAWS Gravitonは、AWSがAIやクラウドネイティブなワークロード向けに独自設計したArmベースのCPUだ。大規模なAIモデルのトレーニングには依然として米NVIDIAなどによるGPUが不可欠である一方で、エージェント型AIの普及に伴い、AIインフラに求められる需要に変化が生じているとAWSは説明する。エージェント型AIが頻繁に行うリアルタイムの推論、コード生成、検索、複数ステップにわたる自律タスクの調整（オーケストレーション）などは、CPUへの負荷が高い処理だ。Metaはこ"
     },
     {
-      "title": "Three reasons why DeepSeek’s new model V4 matters",
+      "title": "Three reasons why DeepSeek’s new model matters",
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o",
       "source": "MIT Tech Review",
       "icon": "🔬",
       "lang": "en",
       "published": "2026-04-24T21:40:58",
-      "title_ja": "DeepSeek の新モデル V4 が重要な 3 つの理由",
+      "title_ja": "DeepSeek の新しいモデルが重要である 3 つの理由",
       "summary_ja": "金曜日、中国の AI 企業 DeepSeek は、待望の新しい主力モデルである V4 のプレビューをリリースしました。特に、このモデルは、前世代よりもはるかに長いプロンプトを処理できます。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/260424_deepseek.jpg?resize=1200,600",
-      "body_ja": "DeepSeek の新モデル V4 が重要である 3 つの理由\n待望の V4 モデルは効率が向上しており、中国のチップメーカーにとっては勝利です。\n金曜日、中国の AI 企業 DeepSeek は、待望の新しい主力モデルである V4 のプレビューをリリースしました。特に、このモデルは、大量のテキストをより効率的に処理するのに役立つ新しい設計のおかげで、前世代よりもはるかに長いプロンプトを処理できます。 DeepSeek の以前のモデルと同様、V4 はオープンソースです。"
-    },
-    {
-      "title": "オープンLLM：AI主権でも支持拡大、中国企業の成功モデル",
-      "url": "https://ascii.jp/elem/000/004/398/4398165/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />ディープシークやアリババなどの中国企業は、高性能なAIモデルを無償提供することで、米国の競合他社を価格面で圧倒し、開発者やAI主権の実現を目指す各国の支持を獲得しつつある。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T21:17:45",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+      "body_ja": "DeepSeek の新しいモデルが重要である 3 つの理由\n待望の V4 は効率が向上しており、中国のチップメーカーにとっては勝利です。\n金曜日、中国の AI 企業 DeepSeek は、待望の新しい主力モデルである V4 のプレビューをリリースしました。特に、このモデルは、大量のテキストをより効率的に処理するのに役立つ新しい設計のおかげで、前世代よりもはるかに長いプロンプトを処理できます。 DeepSeek の以前のモデルと同様、V4 はオープンソースです。つまり、利用可能です。"
     },
     {
       "title": "Meta’s loss is Thinking Machines’ gain",
@@ -92,84 +261,22 @@
       "lang": "en",
       "published": "2026-04-24T17:45:57",
       "title_ja": "Apple の新 CEO、イーロン・マスクが Cursor を 600 億ドルで買収したい理由",
-      "summary_ja": "ティム・クック氏が9月にCEOの職を辞任し、ハードウェア責任者のジョン・ターナス氏に手綱を引き継ぐ予定で、アップルは新たな時代を迎えようとしている。 Ternus は inh かもしれない",
+      "summary_ja": "ティム・クック氏が9月にCEOの職を辞任し、ハードウェア責任者のジョン・ターナス氏に手綱を引き継ぐ予定で、Appleは新たな時代を迎えようとしている。 Ternus は inh かもしれない",
       "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
       "body_ja": "ティム・クック氏が9月にCEOの職を辞任し、ハードウェア責任者のジョン・ターナス氏に手綱を引き継ぐ予定で、アップルは新時代を迎えようとしている。\nターナス氏はテクノロジー業界で最も耐久性のあるビジネスの1つを継承しているかもしれないが、クック氏が数十年かけて形成したエコシステムとはまったく異なるエコシステムにも足を踏み入れようとしている。 App Store の 30% の取り分は圧力にさらされており、かつて Apple が開発者に対して保持していた舞台裏の権力が挑戦され、雰囲気コード化されている"
     },
     {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
+      "title": "Why AI agents need interaction infrastructure",
+      "url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+      "summary": "<p>To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt t",
+      "source": "AI News",
+      "icon": "📰",
       "lang": "en",
-      "published": "2026-04-24T16:42:19",
-      "title_ja": "AI による品薄の中、マークアップされた Mac mini が eBay に殺到",
-      "summary_ja": "Apple の完売した Mac mini は、現在ローカル AI モデルやツールの実行に好まれているコンパクトデスクトップの需要が急増する中、eBay で値上げ出品されています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
-      "body_ja": "売り切れのマシンが不足する中、高値の Mac mini が eBay に殺到しており、OpenClaw のようなオンデバイス AI モデルを実行するための人気ツールとなっています。\n今週の報道によると、16GB RAMと256GBのストレージを搭載した599ドルのM4 Mac mini基本モデルはAppleの小売店ウェブサイトで完売しており、配送や店頭受け取りのオプションはありません。その後、数量に関係なく、不足はベースモデルの他の構成にも拡大しました。"
-    },
-    {
-      "title": "Core Ultra×RTX 5070 Ti搭載PCが69,000円オフ｜24時間限定セール",
-      "url": "https://ascii.jp/elem/000/004/397/4397938/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457831/s/f3a90b628a77c9f7.png\" width=\"60\" />セブンアールジャパンが4月25日に24時間限定セールを開催。最新のゲーミングPCが最大69,000円オフで登場する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457831/s/f3a90b628a77c9f7.png"
-    },
-    {
-      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-24T14:00:00",
-      "title_ja": "Uber CTO の Praveen Neppalli Naga が、4 月 30 日のイベント",
-      "summary_ja": "のスタックされた StrictlyVC SF ラインナップに加わります驚き！ TechCrunchの今年のイベントラインナップを4月30日にセントロ・フィリピーノ・カルチュラル・センターで開始するStrictlyVC San Franciscoに新たなメンバーが加わる",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-      "body_ja": "驚き！ 4月30日にセントロ・フィリピン・カルチュラル・センターでTechCrunchの今年のイベントラインナップを開始するStrictlyVC San Franciscoは、ますます増え続ける講演者名簿に新たなメンバーを加えている。 Uber の CTO である Praveen Neppalli Naga が参加して、ご想像のとおり、AI 時代における大規模な運営について話し合います。\nただし、SF スタートアップ シーンで注目のイベントになりつつあるこのイベントのチケットを手に入れるには、迅速に行動する必要があります。"
-    },
-    {
-      "title": "Tim Cook is stepping down. What happens to Apple now?",
-      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-      "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The A",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-24T14:00:00",
-      "title_ja": "ティム・クック氏が辞任する。 Apple は今どうなっているのでしょうか? |9月|ティム・クック氏は9月にCEOの職を辞任し、ハードウェア責任者のジョン・ターナス氏に指揮を委ねる予定だ。   Ternus はテクノロジー業界で最も耐久性のあるビジネスの 1 つを継承する可能性があります。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
-      "body_ja": "ティム・クック氏は9月にCEOの職を辞任し、ハードウェア責任者のジョン・ターナス氏に指揮を委ねる予定だ。\nターナス氏はテクノロジー業界で最も耐久性のあるビジネスの1つを継承しているかもしれないが、同時にクック氏が数十年かけて形成したエコシステムとは大きく異なるエコシステムにも足を踏み入れようとしている。 App Store の 30% の取り分はプレッシャーにさらされており、かつて Apple が開発者に対して保持していた舞台裏の権力は挑戦されており、バイブコード化されたアプリは開発の意味を変えつつあります。"
-    },
-    {
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-24T13:41:42",
-      "title_ja": "AI を活用したディクテーション ツールを導入するものは何もありません",
-      "summary_ja": "Nothing の新しいデバイス上ディクテーション ツールは 100 以上の言語をサポートしています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
-      "body_ja": "ここ数年で、AI を活用したディクテーション ツールが普及しました。 Wispr Flow、Superwisper、Willow、Monologue などの既存のディクテーション アプリに加えて、新しいアプリが毎週リリースされています。木曜日、ハードウェア会社ナッシングは、Essential Voiceと呼ばれる独自の競合製品を発売した。\n基本的な考え方は他のディクテーション アプリと似ており、Essential Voice はどのアプリでも機能し、音声を書式設定されたテキストに変換し、フィラー ワーカーを削除します。"
-    },
-    {
-      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-24T13:30:59",
-      "title_ja": "DeepSeek がフロンティア モデルとの「ギャップを埋める」新しい AI モデルをプレビュー",
-      "summary_ja": "DeepSeek は、両モデルともアーキテクチャの改善により DeepSeek V3.2 よりも効率とパフォーマンスが向上しており、現在の主要モデルとの「ギャップをほぼ埋めている」と述べています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
-      "body_ja": "中国の AI ラボ DeepSeek は、最新の大規模言語モデルである DeepSeek V4 の 2 つのプレビュー バージョンをリリースしました。これは、昨年の V3.2 モデルに対する待望のアップデートであり、AI の世界を席巻した付属の R1 推論モデルです。\n同社によれば、DeepSeek V4 Flash と V4 Pro は両方とも、それぞれ 100 万トークンのコンテキスト ウィンドウを備えた専門家混合モデルであり、プロンプトで大規模なコードベースやドキュメントを使用できるのに十分です。専門家が集結したAP"
+      "published": "2026-04-24T16:24:17",
+      "title_ja": "AI エージェントにインタラクション インフラストラクチャが必要な理由",
+      "summary_ja": "自動化の無駄をなくすために、企業は独立した AI エージェントの動作方法を物理的に管理する対話インフラストラクチャを展開する必要があります。 AI エージェントが企業ネットワークに配置されるようになりました。",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/agentic-ai-agents-enterprise-automation-governance-band-startup-interaction-infrastructure.jpg",
+      "body_ja": "自動化の無駄をなくすために、企業は独立した AI エージェントの動作方法を物理的に管理する対話インフラストラクチャを展開する必要があります。\nAI エージェントは現在、企業ネットワークに導入され、自律性を高めながらタスクを推論し、意思決定を実行します。しかし、これらの独立したアクターが作業を調整したり、コンテキストを交換したり、さまざまなクラウド環境にわたって操作しようとすると、対話フレームワークは急速に劣化します。人間のオペレーターがそれらを見つけます"
     },
     {
       "title": "生成AIの保守運用費用は？内訳と予算超過を防ぐ7つの削減策も",
@@ -191,92 +298,9 @@
       "lang": "en",
       "published": "2026-04-24T12:10:00",
       "title_ja": "ダウンロード: 過大な詐欺と AI ヘルスケアの研究",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。私たちは AI 推進の新時代を迎えています",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。私たちは AI 推進の新時代を迎えています",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/superchargedC-thumb.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 過大な詐欺と AI ヘルスケアの研究\nさらに、DeepSeek は待望の新しい AI モデルを発表しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nAIを活用した詐欺の新時代が到来\nChatGPT が 2022 年末にリリースされたとき、生成 AI がいかに簡単に人間のようなテキストを作成できるかを示しました。これはすぐにサイバー犯罪者の目に留まり、"
-    },
-    {
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-24T12:00:00",
-      "title_ja": "AI チップの別の大きな展開として、Meta は数百万個の Amazon AI CPU の契約に署名しました",
-      "summary_ja": "Meta は AI エージェントのワークロード用に Amazon の自社製 CPU (GPU ではない) の大部分を強奪し、新たな種類のチップ競争が始まっていることを示唆しています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "body_ja": "Amazon は、Amazon 独自のチップのおかげで、Meta で大規模なクーデターを達成しました。 Meta は、増大する AI ニーズを強化するために数百万個の AWS Graviton チップを使用する契約を締結したと Amazon が金曜日に発表しました。\nAWS Graviton は GPU (グラフィック処理装置) ではなく、ARM ベースの CPU (中央処理装置、一般的なコンピューティング タスクを処理するチップ) であることに注意してください。\nGPU は依然として大規模モデルのトレーニングに最適なチップですが、"
-    },
-    {
-      "title": "ゲームも仕事もこれ一台でOKでは？ HyperX製フルサイズゲーミングキーボードが15％オフの4240円",
-      "url": "https://ascii.jp/elem/000/004/398/4398121/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4458029/s/e3da6f421133b7dd.jpg\" width=\"60\" />Amazon.co.jpにて、HyperXのゲーミングキーボード「HyperX Alloy Core RGB」が販売中だ。参考価格は4990円だが、執筆時点では15％オフの4240円で購入できる（4月24日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4458029/s/e3da6f421133b7dd.jpg"
-    },
-    {
-      "title": "FMV Storeで、ノートPC「LIFEBOOK WQ1/K1」が9万円台！",
-      "url": "https://ascii.jp/elem/000/004/398/4398054/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457965/s/4df284fe903211ca.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457965/s/4df284fe903211ca.png"
-    },
-    {
-      "title": "『プラグマタ』のNintendo Switch 2 版が本日発売！ディアナのamiiboも登場",
-      "url": "https://ascii.jp/elem/000/004/398/4398134/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4458031/s/38f7780f289e27c2.jpg\" width=\"60\" />カプコンは、SFアクションアドベンチャー『プラグマタ』のNintendo Switch 2版を、本日2026年4月24日に発売。価格は、通常版のパッケージ版／ダウンロード版が7990円となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T11:10:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4458031/s/38f7780f289e27c2.jpg"
-    },
-    {
-      "title": "懐かしい気持ちが芽生える外見のクラシックマウスをAmazonで発見！ ちゃんと中身は最新型です",
-      "url": "https://ascii.jp/elem/000/004/398/4398120/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4458023/s/7d586b8d183e4876.jpg\" width=\"60\" />Amazon.co.jpにて、8BitDoのクラシックマウス「レトロ R8」が販売中だ。参考価格は6980円だが、執筆時点では12％オフの6142円で購入できる（4月24日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4458023/s/7d586b8d183e4876.jpg"
-    },
-    {
-      "title": "1万5000円切るなら買いでしょ 180Hz・1msのJAPANNEXT製23.8型フルHDゲーミングディスプレーがタイムセールの対象に",
-      "url": "https://ascii.jp/elem/000/004/398/4398116/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457993/s/7f51e40c0150ad3a.jpg\" width=\"60\" />Amazon.co.jpにて、JAPANNEXTの23.8型フルHDゲーミングディスプレー「JN-Ei238G180F」が販売中だ。過去価格は1万6480円だが、タイムセールにより10％オフの1万4832円で購入できる（4月24日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457993/s/7f51e40c0150ad3a.jpg"
-    },
-    {
-      "title": "AMD Ryzen AI 7 350搭載の高性能デスクトップPC「FMV WF2-L1」が直販で24万7500円に！",
-      "url": "https://ascii.jp/elem/000/004/398/4398019/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "糖質が気になるけど飲みたい人へ！ 「金麦 糖質75％オフ」500mlがセール価格に",
-      "url": "https://ascii.jp/elem/000/004/397/4397921/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457740/s/1f69dcfb04ec21e6.jpg\" width=\"60\" />新ジャンルの発泡酒「金麦 糖質75％オフ 500ml×24本」が現在、Amazonタイムセールに登場しています。23％オフの4,799円で販売されています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-04-24T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457740/s/1f69dcfb04ec21e6.jpg"
     },
     {
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
@@ -289,7 +313,7 @@
       "title_ja": "ヘルスケア AI が登場します。それが実際に患者を助けるかどうかはわかりません。 |9月| AI がどこにでも存在することは言うまでもありません。あるいは、病院での使用が増えているということです。医師は AI を使用してメモを取ることを支援しています。 AI ベースのツールがトロールを行っている",
       "summary_ja": "",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/patient-care.jpg?resize=1200,600",
-      "body_ja": "ヘルスケア AI が登場します。それが実際に患者を助けるかどうかはわかりません。\nツールは正確かもしれませんが、それが必ずしも健康上の成果を改善することを意味するわけではありません。\nAI があらゆるところに存在していることを言う必要はありません。\nあるいは、病院での使用が増えているということです。医師は AI を使用してメモを取ることを支援しています。 AI ベースのツールは患者記録を検索し、特定のサポートや治療が必要な可能性のある人々にフラグを立てています。それらも使用されています"
+      "body_ja": "ヘルスケア AI が登場します。それが実際に患者を助けるかどうかはわかりません。\nツールは正確かもしれませんが、それが必ずしも健康状態を改善することを意味するわけではありません。\nAI があらゆるところに存在していることを言う必要はありません。\nあるいは、病院での使用が増えているということです。医師は AI を使用してメモを取ることを支援しています。 AI ベースのツールは患者記録を検索し、特定のサポートや治療が必要な可能性のある人々にフラグを立てています。それらも使用されています"
     },
     {
       "title": "Googleの“AI講座”人気　無料枠1万人分が1日で終了　受講者は「Google AI Pro」3カ月無料",
@@ -301,6 +325,19 @@
       "published": "2026-04-24T08:14:00",
       "image_url": "https://image.itmedia.co.jp/aiplus/articles/2604/24/cover_news116.png",
       "body_ja": "米グーグルは4月23日、AIスキルを学べるトレーニングプログラム「Google AI プロフェッショナル認定証」の日本語版を、オンライン学習プラットフォーム「Coursera」で開始した。料金は月額49ドル（約7700円）。\n「日本リスキリングコンソーシアム」（主幹事：グーグル）を通じて申し込む場合、先着1万人分が無料になる企画を実施していたが、1日で上限に達し、受付を終了した。\n「Gemini」「NotebookLM」「Google AI Studio」などのAIツールを使い、コンテンツ作成やデータ分析、バイブコーディングといった実務スキルを全7コースで習得する。\n学習時間は7〜10時間程度で、AIツールの利用経験は不要だ。受講者には通常月額2900円のGoogle AI Proの3カ月間無料アクセス権も付与される。\n修了者にはGoogle発行の認定証が授与され、履歴書やビジネスSNSのプロフィールに記載してスキルの証明に使える。\n無料枠は終了したが、Courseraでは7日間の無料ト"
+    },
+    {
+      "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
+      "summary": "<p>AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-24T07:47:32",
+      "title_ja": "AI モデルがリアルタイムの暗号通貨データを使用して市場の動きを解釈する方法",
+      "summary_ja": "AI システムは、実際には停止しないデータを中心に構築されることが増えています。金融市場はその明らかな例であり、インプットは一定のバッチで到着するのではなく、更新され続けます。で",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/AI-models-analyzing-real-time-crypo-1024x517.png",
+      "body_ja": "AI システムは、実際には停止しないデータを中心に構築されることが増えています。金融市場はその明らかな例であり、インプットは一定のバッチで到着するのではなく、更新され続けます。この種の設定では、BNB 価格のようなものは単一の数字ではなくなり、変化し続ける流れのように見え始めます。\n暗号通貨市場はその効果を誇張する傾向があります。動きが常にスムーズであるとは限らず、パターンが常にきれいに繰り返されるとは限りません。 F"
     },
     {
       "title": "発表の2日前に決まった――NECとAnthropicが“電撃的協業”　3週間のスピード協議の舞台裏",
@@ -380,17 +417,6 @@
       "body_ja": "「日本のアカデミアでやる意味があるのか、という質問は常に受ける」――国立情報学研究所（NII）の黒橋禎夫所長は、4月16日に開催した記者向けの懇談会で、NIIが開発するAIモデルについてこのように打ち明けた。\nNIIは、2023年から日本語性能の高いオープンなLLMの開発に取り組んでいる。AIモデルは大きく分けて、コードや開発手法を公開しないクローズドモデルと、重み（入力に対して最適に出力するためのパラメータ）などを公開するオープンモデルがある。NIIのモデルは、重みにとどまらず学習プロセスや利用したデータも可能な限り公開し、透明性を重視している点が特徴だ。\n直近では26年4月3日に、NII独自のLLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」を公開した。米OpenAIのクローズドモデル「GPT-4o」や、中国Alibabaのオープンモデル「Qwen3-8B」を上回る日本語性能をうたっている。\n一方、GPT-4oは24年5月、Qwen3-8Bは25年4月に"
     },
     {
-      "title": "白亜紀後期の海では19mの巨大タコが食物連鎖の頂点に　化石をAI解析、常識覆す",
-      "url": "https://www.itmedia.co.jp/news/articles/2604/24/news077.html",
-      "summary": "今から約1億～7200万年前の白亜紀後期の海では、全長が最大19mにもなる巨大タコが食物連鎖の頂点にいたことが、北海道大などの研究チームによるAIでの解析で分かった。24日付の米科学誌サイエンスで発表した。海の頂点捕食者は過去約4億年にわたり、背骨を持つ脊椎動物だったと考えられていたが、常識が覆された形だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-24T01:44:00",
-      "image_url": "https://image.itmedia.co.jp/news/articles/2604/24/cover_news077.jpg",
-      "body_ja": "今から約1億〜7200万年前の白亜紀後期の海では、全長が最大19mにもなる巨大タコが食物連鎖の頂点にいたことが、北海道大などの研究チームによるAIでの解析で分かった。24日付の米科学誌サイエンスで発表した。海の頂点捕食者は過去約4億年にわたり、背骨を持つ脊椎動物だったと考えられていたが、常識が覆された形だ。\n背骨を持たない無脊椎動物のタコは、化石に残る骨がなく、太古の姿を探りにくい。一方、鳥のくちばし状の硬いあごは化石になる。そこで研究チームは、白亜紀後期のあご化石27点を解析した。高精度化のため、岩石ごと化石を薄く削りながら、断面画像を数千枚撮影。AIで化石の3次元像を作る「デジタル化石マイニング」も用いた。\nその結果、タコのあごの化石は大きいもので約10センチで、復元するとあご全体は約15cmに達したことから、硬い殻や骨を持つ獲物をかみ砕く獰猛（どうもう）な肉食動物だった可能性が浮上した。あごの大きさから、古い種は全長3〜8m、約8600万年前以降の新しい種は全長7〜19mと推定。当"
-    },
-    {
       "title": "生成AI活用のモチベーションが続かない原因と維持するための7つの施策！企業事例も解説",
       "url": "https://ainow.ai/2026/04/24/277996/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%25ae%25e3%2583%25a2%25e3%2583%2581%25e3%2583%2599%25e3%2583%25bc%25e3%2582%25b7%25e3%2583%25a7%25e3%2583%25b3%25e3%2581%258c%25e7%25b6%259a%25e3%2581%258b%25e3%2581%25aa%25e3%2581%2584%25e5%258e%259f%25e5%259b%25a0%25e3%2581%25a8%25e7%25b6%25ad%25e6%258c%2581",
       "summary": "<p>ChatGPT Enterprise&#12420;Microsoft 365 Copilot&#12434;&#37197;&#24067;&#12375;&#12383;&#12418;&#12398;&#12398;&#12289;&#26368;&#21021;&#12384;&#12369;&#30427;&#12426;&#19978;&#12364;&#12387;&#12390;&#20351;&#12431;&#12428;&#12394;&#12367;&#12394;&#12426;&#12289;&#32076;&#21942;&#23652;&#12363;&#",
@@ -424,6 +450,32 @@
       "body_ja": "ChatGPTやMicrosoft Copilotを導入しようとしても、法務・情シスの論点整理が追いつかず、稟議で足止めを食らっている企業は少なくありません。\nAI・DX推進担当者は、経営からの号令と法務部門の慎重姿勢の間で板挟みになりやすいでしょう。\n本記事では、法務が検討すべき7つの法的論点、4ステップのチェック手順、社内ガイドラインに盛り込む5項目、参照すべき公的ガイドライン3選を、稟議やガイドライン策定にそのまま使える形で解説します。\n読み終えれば、法務部門と共通言語で議論でき、稟議・ガイドライン策定・ツール選定までの道筋が描ける状態になります。\n目次\n生成AI導入で法務が関わるべき3つの役割\n生成AI導入で法務が担う役割は、次の3つです。\n- 社内ルール・ガイドラインの策定\n- ツール選定と利用規約のレビュー\n- インシデント発生時の対応体制づくり\n順に役割を見ていきましょう。\n社内ルール・ガイドラインの策定\n法務の最初の役割は、全社員が迷わず生成AIを使えるルールを明文化する"
     },
     {
+      "title": "The billion-dollar startup with a different idea for AI",
+      "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
+      "summary": "<p>A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs&#8217; Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-23T12:30:00",
+      "title_ja": "AI に関する異なるアイデアを持つ 10 億ドル規模のスタートアップ",
+      "summary_ja": "従業員 12 人の会社に 10 億ドルのスタートアップ資金が集まったことは、投資家が依然として AI を信頼していることを示しています。しかし、問題のスタートアップの創設者 – AMI L",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/ami-labs-hero.jpg",
+      "body_ja": "従業員 12 人の会社に 10 億ドルのスタートアップ資金が集まったことは、投資家が依然として AI を信頼していることを示しています。しかし、問題のスタートアップの創設者であるAMI LabsのYann LeCun氏は、現在AI（大規模言語モデル）と呼ばれているテクノロジーの種類は、有意義で長期的な成果を生み出す方法ではないと信じている。\nYann LeCun 氏は昨年末に Meta のチーフ AI サイエンティストの職を辞し、Advanced を設立しました。"
+    },
+    {
+      "title": "NVIDIA and Google infrastructure cuts AI inference costs",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
+      "summary": "<p>At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, t",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-23T12:19:36",
+      "title_ja": "NVIDIA と Google のインフラストラクチャにより AI 推論コストが削減",
+      "summary_ja": "Google Cloud Next カンファレンスで、Google と NVIDIA は、大規模な AI 推論のコストに対処するために設計されたハードウェア ロードマップの概要を説明しました。両社は新しいA5Xバーについて詳しく説明した",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/google-cloud-nvidia-ai-inference-infrastructure-agentic-data-sovereignty-governance-physical-robotics.jpg",
+      "body_ja": "Google Cloud Next カンファレンスで、Google と NVIDIA は、大規模な AI 推論のコストに対処するために設計されたハードウェア ロードマップの概要を説明しました。\n両社は、NVIDIA Vera Rubin NVL72 ラックスケール システム上で実行される新しい A5X ベアメタル インスタンスについて詳しく説明しました。このアーキテクチャは、ハードウェアとソフトウェアの共同設計を通じて、前世代と比較してトークンあたりの推論コストを最大 10 倍削減すると同時に、10 倍の推論コストを達成することを目指しています。"
+    },
+    {
       "title": "The Download: introducing the Nature issue",
       "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160;",
@@ -432,7 +484,7 @@
       "lang": "en",
       "published": "2026-04-23T12:10:00",
       "title_ja": "ダウンロード: Nature 号の紹介",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。紹介: 自然の問題",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。紹介: 自然の問題",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/MITTR-MJ26-Homepage-Thumbnail_edbb6d.png?resize=1200,600",
       "body_ja": "ダウンロード: Nature 問題の紹介\nさらに、トランプは人類禁止令を撤回する用意があると示唆した。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n紹介: 自然の問題\n「自然」というとき、私たちは通常、人の手が加わっていないものを指します。しかし、そのような世界は今日ではほとんど存在しません。\n熱帯雨林の野生動物のマイクロプラスチックから人工光まで"
     },
@@ -450,6 +502,45 @@
       "body_ja": "核融合発電は安くなるのか？当てにしないでください。\n新しい研究は、この技術のコスト低下が遅い可能性があることを示唆しています。\n企業がプラントを建設して稼働させることができれば、核融合発電は将来、安定したゼロエミッションの電力源を提供する可能性がある。しかし、新しい研究は、たとえその未来が到来したとしても、それは安くない可能性があることを示唆しています。\nテクノロジーは時間の経過とともに安価になる傾向があります。リチウムイオン電池は現在、従来よりも約 90% 安価になっています"
     },
     {
+      "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
+      "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
+      "summary": "<p>An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as &#8220;physical AI,&#8221; where artificial intelligence is applied to machine",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-23T10:00:00",
+      "title_ja": "人型ロボットが北京レースで優勝、ソニー AI ロボットが選手に勝利",
+      "summary_ja": "ロイター通信によると、ソニーAIが開発した自律型卓球ロボットが、規定の試合で高レベルの人間の選手と対戦し、勝利したという。このシステムは、",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Sony-AI-robot-beats-players-as-humanoid-robot-wins-Beijing-race-scaled-e1776908412195.jpg",
+      "body_ja": "ロイター通信によると、ソニーAIが開発した自律型卓球ロボットが、規定の試合で高レベルの人間の選手と対戦し、勝利したという。このシステムは、人工知能が現実世界の環境で動作するマシンに適用される、「物理 AI」と呼ばれることが多いより広範なカテゴリの一部です。\nAce と名付けられたこのロボットは、迅速な意思決定と正確性が求められる競争の激しいスポーツ環境で動作するように設計されました。"
+    },
+    {
+      "title": "Reversing enterprise security costs with AI vulnerability discovery",
+      "url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
+      "summary": "<p>Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unl",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-22T15:45:14",
+      "title_ja": "AI 脆弱性検出で企業のセキュリティ コストを逆転",
+      "summary_ja": "自動化された AI 脆弱性検出により、これまで攻撃者に有利だった企業のセキュリティ コストが逆転します。エクスプロイトをゼロにすることは、かつては非現実的な目標とみなされていました",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/anthropic-claude-mythos-ai-model-mozilla-firefox-cyber-security-threat-detection-frontier-models-enterprise.jpg",
+      "body_ja": "自動化された AI 脆弱性検出により、これまで攻撃者に有利だった企業のセキュリティ コストが逆転します。\nエクスプロイトをゼロにすることは、かつては非現実的な目標とみなされていました。一般的な運用原則は、攻撃のコストが非常に高くつくため、機能的に無制限の予算を持つ攻撃者だけが攻撃を行うことができ、それによってカジュアルな使用を阻害することを目的としていました。\nただし、Mozilla Firefox エンジニアリング チームによる最近の評価では、Ant を使用しています。"
+    },
+    {
+      "title": "AI in law firms entering its closing summaries",
+      "url": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
+      "summary": "<p>In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-22T13:51:00",
+      "title_ja": "法律事務所における AI が最終概要に入る",
+      "summary_ja": "Artificial Lawyer とのインタビューで、パリを拠点とする AI ネイティブのコンサルティング会社オーナー、オリヴィエ・シャドゥトー氏は、法律分野における AI の現状について 3 部構成で説明しました。",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/ai-for-law-hero_x1440.webp",
+      "body_ja": "Artificial Lawyer とのインタビューで、パリを拠点とする AI ネイティブのコンサルティング会社オーナー、オリヴィエ・シャドゥトー氏は、法律分野における AI の現状について 3 部構成で説明しました。弁護士らは当初、AIは専門家の仕事とは無関係だと否定していた。 2 つ目では、組織はパートナーやクライアントにアクティビティを通知するために LLM にライセンスを購入しましたが、それ以外には何もありませんでした。同氏は、市場は現在第 3 段階に入っており、企業は環境を改善する時期が来たことを理解していると述べています。"
+    },
+    {
       "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
       "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype",
@@ -458,7 +549,7 @@
       "lang": "en",
       "published": "2026-04-22T12:10:00",
       "title_ja": "ダウンロード: AI において今重要な 10 のことの紹介",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。紹介: ママが必要とする 10 のこと",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。紹介: ママが必要とする 10 のこと",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MIT-TR_10-things-that-matter-in-AI-right-now_Social_1080x1080.jpg?resize=1200,600",
       "body_ja": "ダウンロード: AI において今重要な 10 の事柄の紹介\nさらに: 無許可のグループが Anthropic の Mythos にアクセスしたと報告されています。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n紹介: AI において今重要な 10 のこと\nAI において今何が実際に重要なのでしょうか?絶え間ないリリース、誇大宣伝、警告の中で、それを見分けるのはますます困難になっています。カットするには"
     },
@@ -513,6 +604,45 @@
       "summary_ja": "人々が「自然」について話すとき、彼らは一般的に人間が作ったものではないもののことを話します。岩。サンゴ礁。赤い狼。しかし、神の創造物がたくさんある一方で、",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
       "body_ja": "もう自然はない\n地球上には人間の指紋がまったくない場所はありません。テクノロジーを導入して元に戻す必要があるでしょうか?\n人々が「自然」について話すとき、彼らは一般的に人間が作ったものではないもののことを話します。岩。サンゴ礁。赤い狼。しかし、神の創造物はたくさんありますが、地球上で人間の手の影響を受けていないものを考えるのは困難です。\nブラジルの熱帯雨林で科学者がマイクロプラを発見"
+    },
+    {
+      "title": "The role of AI in modern forex bot development",
+      "url": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
+      "summary": "<p>Artificial intelligence has become a defining force in financial markets. And currency trading is no exception. The rise of the AI-powered forex bot reflects a change toward automated systems capable of processing vast amounts of market data and identifying patterns beyond the reach of manual ana",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-22T07:34:01",
+      "title_ja": "現代の外国為替ボット開発における AI の役割",
+      "summary_ja": "人工知能は金融市場を決定する力となっています。そして為替取引も例外ではありません。 AI を活用した外国為替ボットの台頭は自動化への変化を反映しています",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-083617.png",
+      "body_ja": "人工知能は金融市場を決定する力となっています。そして為替取引も例外ではありません。 AI を活用した外国為替ボットの台頭は、膨大な量の市場データを処理し、手動分析では不可能なパターンを特定できる自動化システムへの変化を反映しています。世界の外国為替市場が 24 時間稼働し、膨大な情報の流れを生み出す中、トレーダーはますますインテリジェントな為替市場への依存を強めています。"
+    },
+    {
+      "title": "Snowflake expands its technical and mainstream AI platforms",
+      "url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+      "summary": "<p>Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for d",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-21T14:29:00",
+      "title_ja": "Snowflake は、技術的および主流の AI プラットフォームを拡張します",
+      "summary_ja": "Snowflake は、ユーザーが Snowflake ポート内で人工知能を導入および開発できるようにすることを期待して、Snowflake Intelligence と Cortex Code の製品を拡張しています。",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/snowflake-ai-hero_x1440.webp",
+      "body_ja": "Snowflake は、ユーザーが Snowflake ポートフォリオ内で人工知能を導入および開発できるようにすることを期待して、Snowflake Intelligence と Cortex Code の製品を拡張しています。 Snowflake Intelligence は一般的なビジネス ユーザー向けのツールとして構成されているのに対し、Cortex Code は開発者や技術チームのデスク向けです。\n同社のプレスリリースには、両方のプラットフォームの追加機能がリストされています。"
+    },
+    {
+      "title": "Siemens introduces AI system for automation engineering",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+      "summary": "<p>Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, let",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-04-21T10:00:00",
+      "title_ja": "シーメンスが自動化エンジニアリング向け AI システムを導入",
+      "summary_ja": "シーメンスは、運用環境における自動化エンジニアリングタスクを計画および検証するように設計された AI システムである、Eigen Engineering Agent を導入しました。システムはマルチステップを使用します",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/04/Siemens-launches-AI-system-for-automation-engineering-workflows-scaled-e1776742143852.jpg",
+      "body_ja": "シーメンスは、運用環境における自動化エンジニアリングタスクを計画および検証するように設計された AI システムである、Eigen Engineering Agent を導入しました。\nこのシステムは、複数ステップの推論と自己修正を使用してタスクを自律的に実行し、エンジニアリング プラットフォーム内で直接動作するため、初期設計から検証までのワークフローを完了できます。\n自律型エンジニアリングワークフロー\nエージェントはプロジェクトの要求を解釈するように設計されています"
     },
     {
       "title": "生成AI社内浸透を成功させる7つの施策！利用率を倍増させた企業事例も",
@@ -581,6 +711,6 @@
       "body_ja": "生成AIの導入を任されたものの、誰を集めてどう進めればよいかわからず手が止まっている方は多いのではないでしょうか。\n生成AI導入で最初につまずきやすいのは、ツール選びより体制設計です。\n意思決定と現場実装が止まらない小さなチームを先につくり、短い検証サイクルで初期効果を確かめるロードマップとセットで動かすのが近道です。\nこの記事では、最小体制のチームでPoCから定着まで一気通貫で回すための役割設計・ロードマップ・KPI・ガバナンスを解説します。\n目次\nなぜ生成AI導入に専門チームが必要なのか\n生成AI導入で専門チームを組むべき理由は以下の3つです。\n- 兼務の片手間ではPoCが止まり全社展開に進めない\n- ルールが定まっていないと情報漏洩とガバナンス崩壊を招く\n- 経営判断に耐える数字を出すには計測の仕組みが先に要る\nこの3つが揃わないまま始めると、便利だったで終わるか、事故が起きて止まるかのどちらかに寄りやすくなります。\n兼務の片手間ではPoCが止まり全社展開に進めない\n生成AI導入を"
     }
   ],
-  "last_updated": "2026-04-25T07:37:13.343539+09:00",
-  "count": 50
+  "last_updated": "2026-04-26T07:34:54.580337+09:00",
+  "count": 60
 }
