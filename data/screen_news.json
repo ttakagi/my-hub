@@ -1,17 +1,86 @@
 {
   "articles": [
     {
+      "title": "Why Mounting Matters: Avoiding the Top 7 Installation Mistakes in dvLED Projects",
+      "url": "https://www.kioskmarketplace.com/resources/why-mounting-matters-avoiding-the-top-7-installation-mistakes-in-dvled-projects/",
+      "summary": "Poor mounting is one of the most common yet overlooked causes of project failure, leading to pixel misalignment, service headaches, and safety hazards. Not placing the proper emphasis on mounting can severely decrease the return on a dvLED investment.",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-05-01T14:02:42",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/9c/92/8ad2d798245cdad8d50c2912cb73/cover_image__rF83kNLR__LEDUNV_Models_Application_Image_1.jpg.360x190_q85_crop_upscale.jpg",
+      "title_ja": "なぜ取り付けが重要なのか: dvLED プロジェクトにおけるトップ 7 の取り付けミスを回避する",
+      "summary_ja": "不適切な取り付けは、プロジェクト失敗の最も一般的でありながら見落とされている原因の 1 つであり、ピクセルの位置ずれ、サービスの問題、安全上の危険につながります。適切な強調を配置しない"
+    },
+    {
+      "title": "Depth of Field Lock Up Brand Film Director’s Cut for Bloq.it",
+      "url": "https://www.stashmedia.tv/depth-of-field-lock-up-brand-film-directors-cut-for-bloq-it/",
+      "summary": "<p>Co-founders Afonso Amaro and Pedro Custódio at 3D motion studio Depth of Field in Portugal, just dropped us their first submission to Stash – a lovely mix of disciplined design and refined rendering for smart locker brand Bloq.it. <a href=\"https://www.stashmedia.tv/depth-of-field-lock-up-brand-fi",
+      "source": "Stash Media",
+      "icon": "📡",
+      "lang": "en",
+      "published": "2026-05-01T12:59:02",
+      "title_ja": "Bloq.it の被写界深度ロックアップ ブランド映画ディレクターズ カット",
+      "summary_ja": "ポルトガルの 3D モーション スタジオ Depth of Field の共同創設者である Afonso Amaro 氏と Pedro Custódio 氏が、Stash への最初の投稿をドロップしてくれました。規律あるデザインと、",
+      "image_url": "http://www.stashmedia.tv/wp-content/uploads/Bloq.it-Smart-Lockers-product-film-by-Depth-of-Field-_-STASH-MAGAZINE8.jpg",
+      "body_ja": "ポルトガルの 3D モーション スタジオ Depth of Field の共同創設者である Afonso Amaro 氏と Pedro Custódio 氏が、スマート ロッカー ブランド Bloq.it の規律あるデザインと洗練されたレンダリングを見事に組み合わせた Stash への最初の投稿をドロップしてくれました。\nアフォンソ・アマロ氏とペドロ・クストディオ氏：「私たちは、クライアントの製品を魅力的なブランドの文脈の中で紹介し、クライアントがネットワークを接続するモジュール式の物理インフラストラクチャをどのように構築しているかを示す映画の制作を依頼されました。"
+    },
+    {
+      "title": "Disney, Hulu team on interactive, immersive storefronts",
+      "url": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
+      "summary": "",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-05-01T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/f3/b1/6ad56e0d1bd42332365c9a61e36f/cover_image__tWqLLZLx__hulu_disney.png.360x190_q85_crop_upscale.png",
+      "title_ja": "Disney、Hulu チームがインタラクティブで没入型の店頭を開発",
+      "summary_ja": ""
+    },
+    {
+      "title": "Google, Zillow among speakers at OAAA media conference",
+      "url": "https://www.digitalsignagetoday.com/news/google-zillow-among-speakers-at-oaaa-media-conference/",
+      "summary": "",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-05-01T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/ba/db/db4ad713904a3b91543ee7bdbcee/cover_image__YETuZGXv__AdobeStock_158639700.jpeg.360x190_q85_crop_upscale.jpg",
+      "title_ja": "OAAA メディア カンファレンス |9 月| の講演者に Google、Zillow が名を連ねる",
+      "summary_ja": ""
+    },
+    {
+      "title": "Metaが2026年第１四半期決算を発表 AIグラスの買い替えが進んでいることを明らかに",
+      "url": "https://www.moguravr.com/meta%e3%81%8c2026%e5%b9%b4%e7%ac%ac%ef%bc%91%e5%9b%9b%e5%8d%8a%e6%9c%9f%e6%b1%ba%e7%ae%97%e3%82%92%e7%99%ba%e8%a1%a8-ai%e3%82%b0%e3%83%a9%e3%82%b9%e3%81%ae%e8%b2%b7%e3%81%84%e6%9b%bf%e3%81%88%e3%81%8c/",
+      "summary": "<p>Metaが2026年第１四半期決算を発表 AIグラスの買い替えが進んでいることを明らかに Metaは2026年4月29日、2026年第1四半期（1〜3月期）の決算を発表しました。XR・メタバース関連事業を担うRealit [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/meta%e3%81%8c2026%e5%b9%b4%e7%ac%ac%ef%bc%91%e5%9b%9b%e5%8d%8a%e6%9c%9f%e6%b1%ba%e7%ae%97%e3%82%92%e7%99%ba%e8%a1%a8-ai%e3%82%",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-01T09:46:57",
+      "image_url": "https://assets.moguravr.com/uploads/2026/03/5b1167c008fb5a07b8cafb4ddddcce01-kix.fcjld5qskqtz-300x169.webp"
+    },
+    {
+      "title": "【VRChat】ゴールデンウイークは汗を流そう！ 注目のスポーツ系ワールド4種類をピックアップ紹介",
+      "url": "https://www.moguravr.com/sports-vrchat-world/",
+      "summary": "<p>ソーシャルVR「VRChat」ではクリエイターの手によって日夜、幅広いジャンルのワールドが公開されています。そのなかでも根強い人気があるのがスポーツ系のワールドです。 VRスポーツは2020年ごろから徐々に広がり、軽いフ [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/sports-vrchat-world/\">【VRChat】ゴールデンウイークは汗を流そう！ 注目のスポーツ系ワールド4種類をピックアップ紹介</a> appeared first on <a href=\"https://www.moguravr.co",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-01T03:00:00",
+      "image_url": "https://assets.moguravr.com/uploads/2019/05/3438d869d4147652401b764bdf378646-kix.lpakzpxl57r0-300x169.webp"
+    },
+    {
       "title": "Le truc Unveils the Lady of the Lake for Roger Dubuis",
       "url": "https://www.stashmedia.tv/le-truc-unveils-the-lady-of-the-lake-for-roger-dubuis/",
-      "summary": "<p>In their their latest collab with Geneva's le truc studio, Swiss luxury watch maker Roger Dubuis strides confidently into the CG horological wars with this elegant mix of fashion-forward live action and motion design.  <a href=\"https://www.stashmedia.tv/le-truc-unveils-the-lady-of-the-lake-for-ro",
+      "summary": "<p>In their latest collab with Geneva's le truc studio, Swiss luxury watch maker Roger Dubuis strides confidently into the CG horological wars with this elegant mix of fashion-forward live action and motion design.  <a href=\"https://www.stashmedia.tv/le-truc-unveils-the-lady-of-the-lake-for-roger-du",
       "source": "Stash Media",
       "icon": "📡",
       "lang": "en",
       "published": "2026-04-30T15:01:58",
-      "title_ja": "Le truc がロジェ・デュブイの『湖の貴婦人』を発表 |9月|スイスの高級時計メーカー、ロジェ・デュブイは、ジュネーブのル・トゥルク・スタジオとの最新のコラボレーションで、ファッションとファッションのエレガントなミックスで自信を持ってCG時計戦争に乗り込みます。",
+      "title_ja": "Le truc がロジェ・デュブイの『湖の貴婦人』を発表 |9月|スイスの高級時計メーカー、ロジェ・デュブイは、ジュネーブのル・トゥルク スタジオとの最新のコラボレーションで、このファッション先進性のエレガントな組み合わせで、自信を持って CG 時計戦争に乗り込みます。",
       "summary_ja": "",
       "image_url": "http://www.stashmedia.tv/wp-content/uploads/Roger-Dubuis-Lady-of-the-Lake-watch-launch-by-le-truc-_-STASH-MAGAZINE8.jpg",
-      "body_ja": "スイスの高級時計メーカー、ロジェ デュブイは、ジュネーブのル トゥリュック スタジオとの最新のコラボレーションで、流行に敏感なライブ アクションとモーション デザインをエレガントに組み合わせて、自信を持って CG 時計戦争に乗り込みます。\nル・トゥルクより：「ロジェ・デュブイの最新作は、タイムピース エクスカリバー レディ オブ ザ レイクの発売を記念し、メゾンの女性向け時計製造への新たな取り組みを示しています。\n「アーサー王伝説に基づいてこの映画は構築されています。"
+      "body_ja": "スイスの高級時計メーカー、ロジェ・デュブイは、ジュネーブのル・トゥルク スタジオとの最新のコラボレーションで、流行に敏感なライブ アクションとモーション デザインをエレガントに組み合わせて、自信を持って CG 時計戦争に乗り込みます。\nル・トゥルクより：「ロジェ・デュブイの最新作は、タイムピース エクスカリバー レディ オブ ザ レイクの発売を記念し、メゾンの女性向け時計製造への新たな取り組みを示しています。\n「アーサー王伝説に基づいて、この映画は物語を構築しています。"
     },
     {
       "title": "Not so Itsy Bitsy: Filmic Animation Spin Up a Spider Fantasy",
@@ -21,7 +90,7 @@
       "icon": "📡",
       "lang": "en",
       "published": "2026-04-30T13:41:33",
-      "title_ja": "Not so Itsy Bitsy: スパイダー ファンタジーをスピンアップする映画アニメーション",
+      "title_ja": "Not so Itsy Bitsy: 映画的アニメーション スパイダー ファンタジーをスピンアップ",
       "summary_ja": "スウェーデンのフィルミック アニメーションのスタッフは、ストックホルムの遊園地グローナルンドのこのテレビ/映画館スポットで、複雑で注意深く照明が当てられ、Web で埋め尽くされた CG アドベンチャーを制作しています。",
       "image_url": "http://www.stashmedia.tv/wp-content/uploads/Filmic-Animation-TV-cinema-spot-for-Grona-Lund-Spindeln-_-STASH-MAGAZINE8.jpg",
       "body_ja": "スウェーデンのフィルミック アニメーションのスタッフは、ストックホルムの遊園地グローナルンドのテレビ / シネマ スポットとスピンデルン (スパイダー) と呼ばれる最新の乗り物で、複雑で慎重に照明を当て、Web を満載した CG アドベンチャーを制作しています。\nFilmic より: 「私たちは、グローナ ルンドのヒーロー ムービーの作成を支援しました。フレンドリーでふわふわしたクモが乗り物を組み立てている様子を示しています。完全に AI を使用せずに作成されました。3D ハンド アニメーションと振り付けには注意が必要で、すべての動きがパフォーマンスに一致する必要がありました。」"
@@ -37,7 +106,7 @@
       "title_ja": "プロト: ライオンズゲートが「マイケル」を宣伝するために 57 サイトのホログラム風のアクティベーションを開始",
       "summary_ja": "ショッピングモールや映画館でのプロトボックスの全国的な展開により、ファンはマイケル・ジャクソンの振り付けを学ぶことができ、映画マーケティングに対するよりインタラクティブで体験主導型のアプローチを示唆しています。",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Michael-Jackson-movie.jpg",
-      "body_ja": "ショッピングモールや映画館でのプロトボックスの全国的な展開により、ファンはマイケル・ジャクソンの振り付けを学ぶことができ、映画マーケティングに対するよりインタラクティブで体験主導型のアプローチを示唆しています。\nプロト: ライオンズゲートが「マイケル」を宣伝するために 57 サイトのホログラム風のアクティベーションを開始\nライオンズゲートは、プロト ホログラムおよびホログラム メディア ネットワークと提携して、映画マイケルの全米規模のプロモーション キャンペーンを開始し、ホログラム風のインスタレーションを使用して映画市場を活性化しました。"
+      "body_ja": "ショッピングモールや映画館でのプロトボックスの全国的な展開により、ファンはマイケル・ジャクソンの振り付けを学ぶことができ、映画マーケティングに対するよりインタラクティブで体験主導型のアプローチを示唆しています。\nプロト: ライオンズゲートが「マイケル」を宣伝するために 57 サイトのホログラム風のアクティベーションを開始\nライオンズゲートは、プロト ホログラムおよびホログラム メディア ネットワークと提携して、ホログラム風のインスタレーションを使用して映画市場を活性化する、映画マイケルの全米規模のプロモーション キャンペーンを開始しました。"
     },
     {
       "title": "CieloVision debuts spatial intelligence platform at industry event",
@@ -52,18 +121,6 @@
       "summary_ja": "で空間インテリジェンス プラットフォームをデビュー"
     },
     {
-      "title": "OAAA, Earth Day partnership celebrates 8th year, $500M in donated OOH inventory",
-      "url": "https://www.digitalsignagetoday.com/articles/oaaa-earth-day-partnership-celebrates-8th-year-500m-in-donated-ooh-inventory/",
-      "summary": "Participating OAAA member media companies donated public service advertising space as part of more than $500 million in annual donated OOH inventory to support Earth Day.",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-30T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/11/69/aa1fc06bf157d84460dfb717fcea/cover_image__qaqIAbuv__oaa_earth_day.png.360x190_q85_crop_upscale.png",
-      "title_ja": "OAAA、アースデイ パートナーシップ 8 周年を祝い、寄付された OOH 在庫に 5 億ドル |9 月|参加している OAAA メンバーのメディア企業は、アースデイを支援するために年間 5 億ドルを超える寄付 OOH 在庫の一部として公共サービスの広告スペースを寄付しました。",
-      "summary_ja": ""
-    },
-    {
       "title": "Planar debuts LED video wall calculator",
       "url": "https://www.digitalsignagetoday.com/news/planar-debuts-led-video-wall-calculator/",
       "summary": "",
@@ -73,6 +130,18 @@
       "published": "2026-04-30T10:00:00",
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/68/a9/9c50dca236b1465c89dedf57febe/cover_image__KDtVcq5p__Planar_calculator.png.360x190_q85_crop_upscale.png",
       "title_ja": "Planar が LED ビデオウォール計算機をデビュー |9 月|",
+      "summary_ja": ""
+    },
+    {
+      "title": "OAAA, Earth Day partnership celebrates 8th year, $500M in donated OOH inventory",
+      "url": "https://www.digitalsignagetoday.com/articles/oaaa-earth-day-partnership-celebrates-8th-year-500m-in-donated-ooh-inventory/",
+      "summary": "Participating OAAA member media companies donated public service advertising space as part of more than $500 million in annual donated OOH inventory to support Earth Day.",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-04-30T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/11/69/aa1fc06bf157d84460dfb717fcea/cover_image__qaqIAbuv__oaa_earth_day.png.360x190_q85_crop_upscale.png",
+      "title_ja": "OAAA、アースデイ パートナーシップ 8 周年を祝い、寄付された OOH 在庫に 5 億ドル |9 月|参加している OAAA メンバーのメディア企業は、アースデイを支援するために年間 5 億ドルを超える寄付 OOH 在庫の一部として公共サービスの広告スペースを寄付しました。",
       "summary_ja": ""
     },
     {
@@ -195,26 +264,6 @@
       "image_url": "https://assets.moguravr.com/uploads/2018/12/45c33d5a974397202e86f8d234c3e132-kix.oyrvjeo1tg6h-300x168.webp"
     },
     {
-      "title": "GWに見逃せないVTuberイベント情報まとめ【2026年版】",
-      "url": "https://www.moguravr.com/vtuber-events-golden-week-2026/",
-      "summary": "<p>今年のゴールデンウィークは、秋葉原でのリアル博覧会、全国巡回ポップアップ、個人VTuberの本展示、イラストレーター兼VTuberのバースデーライブ、そしてゲームのリアルイベントまで。リアル・オンラインを横断する多彩な選 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/vtuber-events-golden-week-2026/\">GWに見逃せないVTuberイベント情報まとめ【2026年版】</a> appeared first on <a href=\"https://www.moguravr.com\">Mogu",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T04:29:11",
-      "image_url": "https://assets.moguravr.com/uploads/2018/12/2121ce5957cba700f2a107a259789d5d-kix.37sx7ldxu59i-300x163.webp"
-    },
-    {
-      "title": "鯖江の眼鏡技術と最新光学技術が融合した「SABERA スマート眼鏡」 このスマートグラスがもたらす新たな“見る体験”とは？",
-      "url": "https://www.moguravr.com/sabae-ar-glasses-sabera-report-20260417/",
-      "summary": "<p>2026年4月17日、東京にて株式会社jig.jpが主催する新製品発表会が開催された 。本イベントでは、福井県鯖江市に本拠を置く同社が新たに立ち上げたARグラスブランド「SABERA（サベラ）」の全貌が明らかになった。  [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/sabae-ar-glasses-sabera-report-20260417/\">鯖江の眼鏡技術と最新光学技術が融合した「SABERA スマート眼鏡」 このスマートグラスがもたらす新たな“見る体験”とは？</a> appeared first on ",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T04:10:12",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/acbb13eec16be8b8d16610cece22c1b3-kix.dnxq2k4atizi-300x167.webp"
-    },
-    {
       "title": "LED: Toronto Atrium Screen Blurs Line Between DooH and Architecture",
       "url": "https://invidis.com/news/2026/04/led-toronto-atrium-screen-blurs-line-between-dooh-and-architecture/",
       "summary": "<p>A generative nine-story LED installation at Berczy Square was designed as part of the building itself rather than a conventional display. A 90-foot LED installation inside Toronto’s Berczy Square is raising bigger questions about where digital signage ends and architecture begins. The nine-story ",
@@ -223,9 +272,9 @@
       "lang": "en",
       "published": "2026-04-29T18:00:00",
       "title_ja": "LED: トロントのアトリウム スクリーンが DooH と建築の境界線を曖昧にする",
-      "summary_ja": "ベルツィ広場にある 9 階建ての LED インスタレーションは、従来のディスプレイではなく、建物自体の一部として設計されました。トロント内の 90 フィートの LED インスタレーション",
+      "summary_ja": "ベルツィ広場にある 9 階建ての生成 LED インスタレーションは、従来のディスプレイではなく、建物自体の一部として設計されました。トロント内の90フィートのLEDインスタレーション",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Berczy-Square-1.jpg",
-      "body_ja": "ベルツィ広場にある 9 階建ての LED インスタレーションは、従来のディスプレイではなく、建物自体の一部として設計されました。\nLED: トロントのアトリウム スクリーンが DooH と建築の境界線を曖昧にする\nトロントのベルツィ広場内の 90 フィートの LED 設置は、デジタル サイネージがどこで終わり、建築がどこから始まるのかについて、より大きな疑問を引き起こしています。\n9 階建ての垂直スクリーンは、ヤング ストリート 33 番地にある改装済みのオフィスタワーのアトリウムロビーに固定されています。"
+      "body_ja": "ベルツィ広場にある 9 階建ての生成 LED インスタレーションは、従来のディスプレイではなく、建物自体の一部として設計されました。\nLED: トロントのアトリウム スクリーンが DooH と建築の境界線を曖昧にする\nトロントのベルツィ広場内に設置された 90 フィートの LED 設置は、デジタル サイネージがどこで終わり、建築がどこから始まるのかについて、より大きな疑問を引き起こしています。\n9 階建ての垂直スクリーンは、ヤング ストリート 33 番地にある改装済みのオフィスタワーのアトリウムロビーに固定されています。"
     },
     {
       "title": "OFFF Montréal Returns in Full Force Sept 2-3, 2026",
@@ -261,8 +310,8 @@
       "icon": "🖥",
       "lang": "en",
       "published": "2026-04-29T16:00:00",
-      "title_ja": "OoH: DooH が成長を続ける中、Apple が広告ランキングでトップに |9 月| OAAA によると、米国の家庭外収益は 2025 年に過去最高の 94 億 6,000 万米ドルに達し、デジタル形式が現在総支出の 3 分の 1 以上を占めています。アップル、モーガン&#38;モーガンとV",
-      "summary_ja": "",
+      "title_ja": "OoH: DooH が成長を続ける中、Apple が広告ランキングでトップに",
+      "summary_ja": "OAAA によると、米国の家庭外収益は 2025 年に過去最高の 94 億 6,000 万米ドルに達し、デジタル形式が現在総支出の 3 分の 1 以上を占めています。アップル、モーガン&#38;モーガンとV",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Broadsign-Dooh.jpg",
       "body_ja": "OAAA によると、米国の家庭外収益は 2025 年に過去最高の 94 億 6,000 万米ドルに達し、デジタル形式が現在総支出の 3 分の 1 以上を占めています。\nOoH: DooH が成長を続ける中、Apple が広告ランキングでトップに\n米国屋外広告協会の新しい年次報告書によると、Apple、Morgan & Morgan、Vivint が 2025 年の米国の屋外広告主の 3 社となった。\nOAAA の 2025 年の事実と数字の広告支出パフォーマンス レポートとメガ"
     },
@@ -293,19 +342,6 @@
       "body_ja": "パリを拠点とする監督/デザイナー/アニメーターのクリス ブレイディは、『ブラックパンサー』や『ラブ、デス + ロボット』などのクレジットを持ち、この強烈な個人的な映画でアメリカの漫画家ジェームズ ハレンと彼のウルトラメガ IP に敬意を表しています。\nクリス・ブレイディ：「時々、インスピレーションを超えた作品を作るアーティストが現れます。私にとって、ジェームス・ハレンはそのようなアーティストの一人です。彼の信じられないほどのスタイル、エネルギー、芸術的ビジョンが彼のすべてに輝いています。\n「工芸を超えて"
     },
     {
-      "title": "Heckler Appoints New Global ECD Adrian Lawrence",
-      "url": "https://www.stashmedia.tv/heckler-appoints-new-global-ecd-adrian-lawrence/",
-      "summary": "<p>From the release: Independent creative studio Heckler has announced the appointment of Adrian Lawrence as Global Executive Creative Director, marking a significant step in the studio’s continued evolution of its creative offering on a global stage. <a href=\"https://www.stashmedia.tv/heckler-appoi",
-      "source": "Stash Media",
-      "icon": "📡",
-      "lang": "en",
-      "published": "2026-04-29T12:50:01",
-      "title_ja": "ヘッケラー氏、新グローバル ECD エイドリアン・ローレンス氏を任命 |9月|リリースより: 独立系クリエイティブ スタジオの Heckler は、Adrian Lawrence をグローバル エグゼクティブ クリエイティブ ディレクターに任命すると発表し、スタッドにおける重要な一歩を示しました。",
-      "summary_ja": "",
-      "image_url": "http://www.stashmedia.tv/wp-content/uploads/Heckler-Appoints-New-Global-ECD-Adrian-Lawrence-STASH-MAGAZINE.jpg",
-      "body_ja": "リリースより:\n独立系クリエイティブ スタジオの Heckler は、エイドリアン ローレンスをグローバル エグゼクティブ クリエイティブ ディレクターに任命したことを発表し、同スタジオが世界的な舞台でクリエイティブを継続的に進化させる上で重要な一歩を踏み出しました。\nこの任命は、Heckler にとって大胆な新たな章の始まりを示し、従来のポストプロダクションを超えて、より統合されたデザイン主導のクリエイティブ スタジオ モデルへと拡大するという同社の野心を強化します。インターナショナルと"
-    },
-    {
       "title": "Research: Korbyt Study Finds Employees Tuning Out Workplace Messaging",
       "url": "https://invidis.com/news/2026/04/research-korbyt-study-finds-employees-tuning-out-workplace-messaging/",
       "summary": "<p>Survey data by workspace management platform Korbyt suggests relevance and delivery – not volume – are the core issues, with digital signage and AI seen as tools to improve engagement if used carefully. Korbyt has released findings from a new workplace communications study indicating that employe",
@@ -316,7 +352,7 @@
       "title_ja": "調査: Korbyt の調査で、従業員が職場でのメッセージングを無視していることが判明",
       "summary_ja": "ワークスペース管理プラットフォーム Korbyt による調査データは、デジタル サイネージと AI がエンゲージメントを向上させるツールとみなされており、量ではなく関連性と提供が中心的な問題であることを示唆しています",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/Korbyt-Reworked-Survey-Image.jpg",
-      "body_ja": "ワークスペース管理プラットフォーム Korbyt による調査データは、量ではなく関連性と提供が中心的な問題であり、デジタル サイネージと AI は慎重に使用すればエンゲージメントを向上させるツールとみなされていることを示唆しています。\n調査: コーバイト調査で従業員が職場でのメッセージングを無視していることが判明\nコーバイト社は、社内メッセージングが明確さ、関連性、真実性を欠いている場合、従業員が社内メッセージングから遠ざかっていることを示す、新しい職場コミュニケーション調査の結果を発表した。"
+      "body_ja": "ワークスペース管理プラットフォーム Korbyt による調査データは、量ではなく関連性と配信が中心的な問題であり、デジタル サイネージと AI は慎重に使用すればエンゲージメントを向上させるツールとみなされていることを示唆しています。\n調査: コーバイト調査で従業員が職場でのメッセージングを無視していることが判明\nコーバイト社は、社内メッセージングが明確さ、関連性、真実性を欠いている場合、従業員が社内メッセージングから遠ざかっていることを示す、新しい職場コミュニケーション調査の結果を発表した。"
     },
     {
       "title": "BackLite UK expands large-format outdoor ad portfolio",
@@ -366,7 +402,7 @@
       "title_ja": "オーストラリア: Fusion Signage が 20,000 ライセンスと ISO 27001 認証を達成 |9 月 |オーストラリアは、北米やヨーロッパの主要なデジタル サイネージ市場から地理的に遠く離れています。その結果、多くの地元のソフトウェアプロバイダーは、インターネット上ではほとんど目に見えないままになっています。",
       "summary_ja": "",
       "image_url": "https://invidis.com/wp-content/uploads/2026/04/2026-04-SYD-Fusion-Signage.jpg",
-      "body_ja": "オーストラリアは、北米やヨーロッパの主要なデジタル サイネージ市場から地理的に遠く離れています。その結果、多くの地元ソフトウェアプロバイダーは、たとえ有名な世界的プレーヤーと同等の規模と成熟度に達したとしても、国際舞台ではほとんど知られていないままです。 Fusion Signage はその好例です。ブリスベンを拠点とする CMS プロバイダーは、アクティブ ライセンス数が 20,000 に達し、ISO 27001 と SoC を取得したことで注目を集めています。"
+      "body_ja": "オーストラリアは、北米やヨーロッパの主要なデジタル サイネージ市場から地理的に遠く離れています。その結果、多くの地元ソフトウェアプロバイダーは、たとえ有名な世界的企業と同等の規模と成熟度に達したとしても、国際舞台ではほとんど知られていないままです。 Fusion Signage はその好例です。ブリスベンを拠点とする CMS プロバイダーは、アクティブ ライセンス数が 20,000 に達し、ISO 27001 と SoC を取得したことで注目を集めています。"
     },
     {
       "title": "Lemma launches AI-powered platform for OOH media",
@@ -403,42 +439,6 @@
       "image_url": "https://s35726.pcdn.co/wp-content/uploads/2026/04/Panic-article-700x394.gif",
       "title_ja": "スタジオ ストーリー: パニックの台頭",
       "summary_ja": "ラトビアのアニメーション スタジオであるパニックが、どのようにして地理を超えて業界のリーダーになったのか。"
-    },
-    {
-      "title": "Atlanta school deploys LED video wall",
-      "url": "https://www.digitalsignagetoday.com/news/atlanta-school-deploys-led-video-wall/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-27T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/b7/6b/33dd9e73768e19ca1b5e601de6f7/cover_image__BMjClc4J__sna_westminister.jpg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "アトランタの学校が LED ビデオ ウォールを導入 |9 月|",
-      "summary_ja": ""
-    },
-    {
-      "title": "Korbyt leader outlines ADA rules, requirements in digital signage deployments",
-      "url": "https://www.digitalsignagetoday.com/podcasts/korbyt-leader-outlines-ada-rules-requirements-in-digital-signage-deployments/",
-      "summary": "Laurel Barrette, marketing manager at Korbyt, shares insight on adhering to the Americans with Disabilities Act in digital signage strategies.",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-27T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/16/20/145fab2e8e61bb95cb2bb3c63577/cover_image__cRDZyUQZ__DST_-_Laurel_Barrette_-_Thumbnail.jpg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "Korbyt リーダーが ADA ルールとデジタル サイネージ導入の要件について概説",
-      "summary_ja": "Korbyt のマーケティング マネージャーである Laurel Barrette が、デジタル サイネージ戦略における米国障害者法への準拠についての洞察を共有します。"
-    },
-    {
-      "title": "OOH offers big return on investment for luxury brands",
-      "url": "https://www.digitalsignagetoday.com/news/ooh-offers-big-return-on-investment-for-luxury-brands/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-27T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/06/fe/f4b0ee438a11170afb8e86754f53/cover_image__KTyzxVYU__AdobeStock_298284226_Editorial_U.jpeg.360x190_q85_crop_upscale.jpg",
-      "title_ja": "OOH は高級ブランドに大きな投資収益率をもたらします",
-      "summary_ja": ""
     },
     {
       "title": "Tempo Collection | BMP Produccions",
@@ -549,6 +549,6 @@
       "summary_ja": ""
     }
   ],
-  "last_updated": "2026-05-01T07:54:35.491682+09:00",
+  "last_updated": "2026-05-02T07:50:11.251815+09:00",
   "count": 46
 }
