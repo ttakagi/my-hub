@@ -1,17 +1,83 @@
 {
   "articles": [
     {
+      "title": "FRA Terminal 3: A Blast from the Past",
+      "url": "https://invidis.com/news/2026/05/fra-terminal-3-a-blast-from-the-past/",
+      "summary": "<p>Frankfurt &#124; Frankfurt Airport’s new Terminal 3 is an architectural statement &#8211; bold, airy, and unmistakably designed for the next generation of global air travel. Yet just days after its soft opening, an invidis visit revealed a striking contrast inside the terminal: while the building",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-05-03T12:34:01",
+      "title_ja": "FRA ターミナル 3: 過去からの衝撃",
+      "summary_ja": "フランクフルト&#124;フランクフルト空港の新しいターミナル 3 は、建築上のステートメントです。大胆かつ軽快で、紛れもなく次世代の世界的な航空旅行向けにデザインされています。まだジュ",
+      "image_url": "https://invidis.com/wp-content/uploads/2026/05/2026-04-FRA-Terminal-3-6.jpg",
+      "body_ja": "フランクフルト |フランクフルト空港の新しいターミナル 3 は、建築上のステートメントであり、大胆で風通しがよく、紛れもなく次世代の世界的な航空旅行向けに設計されています。しかし、ソフトオープンからわずか数日後、invidis を訪問したところ、ターミナル内の驚くべきコントラストが明らかになりました。建物は未来を見据えている一方で、デジタル サイネージは別のストーリーを伝えています。\nFRA ターミナル 3: 過去からの爆発\nチェックインホールは紛れもなくNECのテリトリーです。より多い"
+    },
+    {
+      "title": "GDP growth hits 13.69%: Taiwan – The World’s Digital Signage Hub",
+      "url": "https://invidis.com/news/2026/05/gdp-growth-hits-13-69-taiwan-the-worlds-digital-signage-hub/",
+      "summary": "<p>Taipei &#124; Taiwan’s economy is surging at a pace not seen since 1987 &#8211; powered by global demand for AI hardware and the infrastructure behind it. But beyond macroeconomic growth, the island’s true relevance lies deeper: Taiwan is the indispensable backbone of the global IT and digital si",
+      "source": "Sixteen:Nine",
+      "icon": "🖥",
+      "lang": "en",
+      "published": "2026-05-03T11:31:16",
+      "title_ja": "GDP 成長率が 13.69% に達: 台湾 – 世界のデジタル サイネージ ハブ",
+      "summary_ja": "台北&#124;台湾経済は 1987 年以来見られないペースで急成長しています。 AI ハードウェアとその背後にあるインフラストラクチャに対する世界的な需要によって支えられています。しかしマクロ経済を超えて",
+      "image_url": "https://invidis.com/wp-content/uploads/2026/05/2026-04-TPE-Taipei-101-Marathon.jpg",
+      "body_ja": "台北 |台湾経済は、AI ハードウェアとその背後にあるインフラストラクチャに対する世界的な需要を原動力として、1987 年以来見られないペースで急成長しています。しかし、マクロ経済の成長を超えて、この島の真の関連性はより深いところにあります。台湾は、チップやパネルからメディアプレーヤーや屋外ディスプレイに至るまで、世界のITおよびデジタルサイネージエコシステムの不可欠なバックボーンです。 TSMC、Foxconn/Sharp、Dynascan、および主要なサイネージ ハードウェア ブランドなどのチャンピオンと提携"
+    },
+    {
+      "title": "Roblox、DAUは減少続くも欧米以外の市場と18～24歳のユーザー層が成長",
+      "url": "https://www.moguravr.com/roblox-q1-2026-results/",
+      "summary": "<p>Robloxは2026年4月30日、2026年第１四半期（Q1）の業績を発表しました。デイリーアクティブユーザー数（DAU）は前年同期比35%増の1億3200万人も、直近の四半期との比較では減少傾向が続いています。売上高 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/roblox-q1-2026-results/\">Roblox、DAUは減少続くも欧米以外の市場と18～24歳のユーザー層が成長</a> appeared first on <a href=\"https://www.moguravr.com\">Mogu",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-03T04:05:50",
+      "image_url": "https://assets.moguravr.com/uploads/2026/03/fe262a5beab6e685dee28eaabae271b0-kix.s9ntecjrmffj-300x169.webp"
+    },
+    {
+      "title": "SpAItial AI、画像1枚から3D空間を生成する世界生成AI「Echo-2」を発表",
+      "url": "https://www.moguravr.com/spaitial-ai-echo-2/",
+      "summary": "<p>SpAItial AIは、画像またはテキストから3D空間を生成する世界生成AI「Echo-2」を発表しました。 Echo-2は、1枚の画像やテキストプロンプトを入力とし、リアルタイムで探索できる3D空間を生成します。従来 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/spaitial-ai-echo-2/\">SpAItial AI、画像1枚から3D空間を生成する世界生成AI「Echo-2」を発表</a> appeared first on <a href=\"https://www.moguravr.com\">Mog",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-03T03:39:42",
+      "image_url": "https://assets.moguravr.com/uploads/2018/12/d58c97796b358e8ea713f31480663f5b-kix.nodif8aixaug-300x169.webp"
+    },
+    {
+      "title": "Google Earthに新機能が追加、3Dモデルをインポートして独自の3Dマップ作成が可能に",
+      "url": "https://www.moguravr.com/google-earth-shapefile-3d-model-import/",
+      "summary": "<p>Googleは2026年4月29日、地図サービス「Google Earth」にShapefileおよびGLB形式の3Dモデルのインポート機能を追加したと発表しました。測定ツールへの標高プロファイル機能の追加も同時に行われ [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/google-earth-shapefile-3d-model-import/\">Google Earthに新機能が追加、3Dモデルをインポートして独自の3Dマップ作成が可能に</a> appeared first on <a href=\"https:",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-03T03:37:19",
+      "image_url": "https://assets.moguravr.com/uploads/2026/03/e8d1d5d8aa39fb1d3d2fe33e1ed24c56-kix.y7pfi2vop0m8-300x171.webp"
+    },
+    {
+      "title": "Robloxがフォトリアルな見た目に自動アップスケールする新AI技術「Roblox Reality」を発表",
+      "url": "https://www.moguravr.com/roblox-reality-hybrid-architecture/",
+      "summary": "<p>Robloxは2026年4月29日、ゲームエンジンとAI映像モデルを組み合わせたハイブリッドアーキテクチャ「Roblox Reality」を発表しました。早期バージョンを2026年後半から2027年初頭にかけて公開すると [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/roblox-reality-hybrid-architecture/\">Robloxがフォトリアルな見た目に自動アップスケールする新AI技術「Roblox Reality」を発表</a> appeared first on <a href=\"http",
+      "source": "Mogura VR",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-03T03:33:00",
+      "image_url": "https://assets.moguravr.com/uploads/2026/03/aec22a94f8aa671d0bf97c0ad814564f-kix.9w1jldof3l1j-300x169.webp"
+    },
+    {
       "title": "The Perlin & DOM&NIC Break Out “The Bird” for Erste Bank",
       "url": "https://www.stashmedia.tv/the-perlin-domnic-break-out-the-bird-for-erste-bank/",
-      "summary": "<p>Launched in 2025 by creatives from MPC and The Mill, London VFX shop The Perlin makes their Stash debut with this daring tale of feathery escape directed by DOM&#038;NIC thru Jung Von Matt Donau for Austrian banking giant Erste. <a href=\"https://www.stashmedia.tv/the-perlin-domnic-break-out-the-b",
+      "summary": "<p>Launched in 2025 by creatives from MPC and The Mill (and fresh off <a href=\"https://www.stashmedia.tv/spike-jonze-zendaya-define-the-shape-of-dreams-for-on/\" target=\"_blank\">this Spike Jonze spot</a>), London VFX shop The Perlin team with directors DOM&#038;NIC on a clever feathery escape for Aus",
       "source": "Stash Media",
       "icon": "📡",
       "lang": "en",
       "published": "2026-05-02T12:40:47",
       "title_ja": "Perlin と DOM&NIC が Erste Bank のために「The Bird」を発表",
-      "summary_ja": "MPC と The Mill のクリエイターによって 2025 年に立ち上げられた、ロンドンの VFX ショップ The Perlin が、DOM&#038;NIC thru Jung 監督による羽のような脱出の大胆な物語で Stash デビューを果たします。",
+      "summary_ja": "2025 年に MPC と The Mill のクリエイター (そしてスパイク ジョーンズの現場から出たばかり) によって立ち上げられた、ロンドンの VFX ショップ The Perlin チームとディレクターの DOM&#038;NIC が、羽のような賢い脱出劇を繰り広げています。",
       "image_url": "http://www.stashmedia.tv/wp-content/uploads/Erste-Bank-The-Bird-commercial-by-The-Perlin-and-DOMNIC-_-STASH-MAGAZINE7.jpg",
-      "body_ja": "MPC と The Mill のクリエイターによって 2025 年に立ち上げられたロンドンの VFX ショップ The Perlin は、オーストリアの大手銀行エルステ社のために、DOM&NIC とJung Von Matt Donau が監督した羽のような逃亡のこの大胆な物語で Stash デビューを果たします。\nDOM&NIC: 「この物語の核心は、決意、立ち直る力、そして諦めないことについてのものであり、最も面白く、映画的で、感情を揺さぶる方法で観客をその旅に連れて行きたかったのです」"
+      "body_ja": "2025 年に MPC とザ ミル (そしてスパイク ジョーンズのスポットから出たばかり) のクリエイターによって立ち上げられたロンドンの VFX ショップ、ザ パーリンのチームは、ディレクターの DOM&NIC とともに、オーストリアの大手銀行エルステからユング フォン マット ドナウまでの巧妙な羽ばたきの逃亡劇を描いています。\nDOM&NIC: 「この物語の核心は、決意、立ち直り、そして諦めないことについてのものであり、最も面白く、映画的で感情を揺さぶる物語で観客をその旅に連れて行きたかったのです」"
     },
     {
       "title": "【連載 映えるVRChatワールド】光と立体音響が織りなすアート 「RIPPLE 2 （Exhibition）」で堪能",
@@ -59,18 +125,6 @@
       "body_ja": "ポルトガルの 3D モーション スタジオ Depth of Field の共同創設者である Afonso Amaro 氏と Pedro Custódio 氏が、スマート ロッカー ブランド Bloq.it の規律あるデザインと洗練されたレンダリングを見事に組み合わせた Stash への最初の投稿をドロップしてくれました。\nアフォンソ・アマロ氏とペドロ・クストディオ氏：「私たちは、クライアントの製品を魅力的なブランドの文脈の中で紹介し、クライアントがネットワークを接続するモジュール式の物理インフラストラクチャをどのように構築しているかを示す映画の制作を依頼されました。"
     },
     {
-      "title": "Disney, Hulu team on interactive, immersive storefronts",
-      "url": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-05-01T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/f3/b1/6ad56e0d1bd42332365c9a61e36f/cover_image__tWqLLZLx__hulu_disney.png.360x190_q85_crop_upscale.png",
-      "title_ja": "Disney、Hulu チームがインタラクティブで没入型の店頭を開発",
-      "summary_ja": ""
-    },
-    {
       "title": "Google, Zillow among speakers at OAAA media conference",
       "url": "https://www.digitalsignagetoday.com/news/google-zillow-among-speakers-at-oaaa-media-conference/",
       "summary": "",
@@ -80,6 +134,18 @@
       "published": "2026-05-01T10:00:00",
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/ba/db/db4ad713904a3b91543ee7bdbcee/cover_image__YETuZGXv__AdobeStock_158639700.jpeg.360x190_q85_crop_upscale.jpg",
       "title_ja": "OAAA メディア カンファレンス |9 月| の講演者に Google、Zillow が名を連ねる",
+      "summary_ja": ""
+    },
+    {
+      "title": "Disney, Hulu team on interactive, immersive storefronts",
+      "url": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
+      "summary": "",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-05-01T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/f3/b1/6ad56e0d1bd42332365c9a61e36f/cover_image__tWqLLZLx__hulu_disney.png.360x190_q85_crop_upscale.png",
+      "title_ja": "Disney、Hulu チームがインタラクティブで没入型の店頭を開発",
       "summary_ja": ""
     },
     {
@@ -154,18 +220,6 @@
       "summary_ja": "で空間インテリジェンス プラットフォームをデビュー"
     },
     {
-      "title": "Planar debuts LED video wall calculator",
-      "url": "https://www.digitalsignagetoday.com/news/planar-debuts-led-video-wall-calculator/",
-      "summary": "",
-      "source": "Digital Signage Today",
-      "icon": "📺",
-      "lang": "en",
-      "published": "2026-04-30T10:00:00",
-      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/68/a9/9c50dca236b1465c89dedf57febe/cover_image__KDtVcq5p__Planar_calculator.png.360x190_q85_crop_upscale.png",
-      "title_ja": "Planar が LED ビデオウォール計算機をデビュー |9 月|",
-      "summary_ja": ""
-    },
-    {
       "title": "OAAA, Earth Day partnership celebrates 8th year, $500M in donated OOH inventory",
       "url": "https://www.digitalsignagetoday.com/articles/oaaa-earth-day-partnership-celebrates-8th-year-500m-in-donated-ooh-inventory/",
       "summary": "Participating OAAA member media companies donated public service advertising space as part of more than $500 million in annual donated OOH inventory to support Earth Day.",
@@ -175,6 +229,18 @@
       "published": "2026-04-30T10:00:00",
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/11/69/aa1fc06bf157d84460dfb717fcea/cover_image__qaqIAbuv__oaa_earth_day.png.360x190_q85_crop_upscale.png",
       "title_ja": "OAAA、アースデイ パートナーシップ 8 周年を祝い、寄付された OOH 在庫に 5 億ドル |9 月|参加している OAAA メンバーのメディア企業は、アースデイを支援するために年間 5 億ドルを超える寄付 OOH 在庫の一部として公共サービスの広告スペースを寄付しました。",
+      "summary_ja": ""
+    },
+    {
+      "title": "Planar debuts LED video wall calculator",
+      "url": "https://www.digitalsignagetoday.com/news/planar-debuts-led-video-wall-calculator/",
+      "summary": "",
+      "source": "Digital Signage Today",
+      "icon": "📺",
+      "lang": "en",
+      "published": "2026-04-30T10:00:00",
+      "image_url": "https://nmgprod.s3.amazonaws.com/media/file/68/a9/9c50dca236b1465c89dedf57febe/cover_image__KDtVcq5p__Planar_calculator.png.360x190_q85_crop_upscale.png",
+      "title_ja": "Planar が LED ビデオウォール計算機をデビュー |9 月|",
       "summary_ja": ""
     },
     {
@@ -211,16 +277,6 @@
       "image_url": "https://assets.moguravr.com/uploads/2018/12/2d1d1a79f1aa1ece4919191ccf3533bb-kix.rsb57rqsk8ia-300x169.webp"
     },
     {
-      "title": "ARアプリ「アルプラ」を活用！ 日本橋を舞台にした推理ミステリー体験イベントが開催、東野圭吾『加賀恭一郎シリーズ』ともコラボ",
-      "url": "https://www.moguravr.com/nihonbashi-ar-mystery-chikai/",
-      "summary": "<p>三井不動産と株式会社ディー・エヌ・エー（DeNA）は、ARアプリ「アルプラ」を使用した体験型ミステリーイベント「日本橋を巡る体験ミステリー 誓いの灯火」を共同開催しています。開催期間は2026年4月27日から2027年3 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/nihonbashi-ar-mystery-chikai/\">ARアプリ「アルプラ」を活用！ 日本橋を舞台にした推理ミステリー体験イベントが開催、東野圭吾『加賀恭一郎シリーズ』ともコラボ</a> appeared first on <a href=\"h",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T09:00:52",
-      "image_url": "https://assets.moguravr.com/uploads/2018/12/b7f16fbc95fee980a508509201c56696-kix.49y7lepculqp-300x158.webp"
-    },
-    {
       "title": "Infocomm Mixer: Top Digital Signage Minds Meet in Vegas",
       "url": "https://invidis.com/news/2026/04/infocomm-mixer-top-digital-signage-minds-meet-in-vegas/",
       "summary": "<p>The Infocomm Mixer by SignageOS and Sixteen:Nine powered by invidis is where real conversations happen. This invite-only event in Las Vegas will be THE place to meet for ambitious signage leaders. Sixteen:Nine and SignageOS are once again teaming up to host an exclusive, intimate industry mixer. ",
@@ -245,36 +301,6 @@
       "summary_ja": "",
       "image_url": "https://invidis.com/wp-content/uploads/2026/02/2026-02-invidis-Yearbooks-NextGen-Signage.jpg",
       "body_ja": "invidis Yearbook 2026 が DSS Europe で発表され、NextGen Signage、新しい市場リーダー、そして業界を形作る重要な問題、つまりデジタル通信スタックを誰が制御するかに焦点を当てています。\nイヤーブックのリリース: NextGen Signage とは何ですか?\n世界のデジタル サイネージ、DooH、および小売メディア業界の主要な年次参考資料である invidis Yearbook 2026 は、DSS 2026 の開幕を記念して 5 月 20 日に正式に発行されます。\nインディディの割引"
-    },
-    {
-      "title": "お台場から火星に行こう！ 歩き回れるVRアトラクション『THE SUNSET OF MARS』潜入レポ",
-      "url": "https://www.moguravr.com/the_sunset_of_mars_vr_attraction/",
-      "summary": "<p>「お台場の建物」と聞いてまず思い浮かべる人も多いだろう、フジテレビの球体展望室「はちたま」。かつてのSF映画に登場するUFOを彷彿とさせるあの銀色の球体が、なんとこの度、火星へと向かう宇宙港へと姿を変える。 2026年4 [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/the_sunset_of_mars_vr_attraction/\">お台場から火星に行こう！ 歩き回れるVRアトラクション『THE SUNSET OF MARS』潜入レポ</a> appeared first on <a href=\"https://",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T07:00:00",
-      "image_url": "https://assets.moguravr.com/uploads/2019/09/e16a7ffc962030ced74e7a7977e7fd8a-kix.236vp5revebo-300x169.webp"
-    },
-    {
-      "title": "gogh Steam版、大型アップデートでフェイストラッキング追加、ルーム投稿・Watch Partyも実装",
-      "url": "https://www.moguravr.com/gogh-steam-1st-anniversary-update/",
-      "summary": "<p>株式会社ambrは、作業集中支援アプリ「gogh（ゴッホ）」のSteam版『gogh: Focus with Your Avatar』の発売1周年を記念した大型アップデートをリリースしました。 今回のアップデートの目玉は [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/gogh-steam-1st-anniversary-update/\">gogh Steam版、大型アップデートでフェイストラッキング追加、ルーム投稿・Watch Partyも実装</a> appeared first on <a href=\"http",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T06:47:01",
-      "image_url": "https://assets.moguravr.com/uploads/2018/12/23cca82790be32a10e73a2357d59154f-kix.6f3zst48cyfd-300x169.webp"
-    },
-    {
-      "title": "志望者必読！ VTuberオーディション情報まとめ【2026年5月】",
-      "url": "https://www.moguravr.com/vtuber-audition-matome-2026-5/",
-      "summary": "<p>本記事では、2026年5月現在、募集を行っている主なVTuber・バーチャルタレントオーディションの情報をまとめてお届けします。 オーディションを受ける前に 今からVTuberをはじめるのは遅いのか？ 2016年にキズナ [&#8230;]</p>\n<p>The post <a href=\"https://www.moguravr.com/vtuber-audition-matome-2026-5/\">志望者必読！ VTuberオーディション情報まとめ【2026年5月】</a> appeared first on <a href=\"https://www.moguravr.com\">Mo",
-      "source": "Mogura VR",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T06:36:36",
-      "image_url": "https://assets.moguravr.com/uploads/2026/04/image3-2-300x160.png"
     },
     {
       "title": "LED: Toronto Atrium Screen Blurs Line Between DooH and Architecture",
@@ -377,32 +403,6 @@
       "image_url": "https://nmgprod.s3.amazonaws.com/media/file/70/7e/feeef6c424c52ee9976cb2c52ba4/cover_image__tpL1KghB__Ocean_outdoor_uk_2.jpg.360x190_q85_crop_upscale.jpg",
       "title_ja": "Ocean Outdoor UK が、没入型のウォークイン体験を提供する Ocean Portal をデビュー |9 月|",
       "summary_ja": ""
-    },
-    {
-      "title": "Airports: Frankfurt Opens First DooH-Native Terminal",
-      "url": "https://invidis.com/news/2026/04/airports-frankfurt-opens-first-dooh-native-terminal/",
-      "summary": "<p>Frankfurt &#124; With the opening of Fraport&#8217;s Terminal 3, Media Frankfurt delivers one of Germany’s most densely integrated airport media networks: 2,500 square meters of ad space designed digital-first from the ground up. Frankfurt Airport saw the first aircraft depart from its new Termin",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-29T09:00:46",
-      "title_ja": "空港: フランクフルト、初の DooH ネイティブ ターミナルをオープン |9 月|フランクフルト&#124;フラポートのターミナル 3 のオープンにより、メディア フランクフルトはドイツで最も高密度に統合された空港メディア ネットワークの 1 つを提供します: 2,500 平方メートルの広告",
-      "summary_ja": "",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2026-04-Fraport-Terminal-3-DooH-3.jpg",
-      "body_ja": "フランクフルト |フラポートのターミナル 3 のオープンにより、メディア フランクフルトはドイツで最も高密度に統合された空港メディア ネットワークの 1 つを提供します。つまり、ゼロからデジタルファーストで設計された 2,500 平方メートルの広告スペースです。\n空港：フランクフルト、初のDooHネイティブターミナルを開設\nフランクフルト空港は木曜日、最初の航空機が新しいターミナル3から出発し、10年以上の建設期間を経て正式に運用を開始したことを示した。コムで"
-    },
-    {
-      "title": "Australia: Fusion Signage Hits 20,000 Licenses and ISO 27001 Certification",
-      "url": "https://invidis.com/news/2026/04/from-australia-fusion-digital-hits-20000-licenses-and-iso-27001-certification/",
-      "summary": "<p>Australia is geographically far removed from the major digital signage markets in North America and Europe. As a result, many local software providers remain largely invisible on the international stage &#8211; even when they reach a scale and maturity comparable to well-known global players. Fus",
-      "source": "Sixteen:Nine",
-      "icon": "🖥",
-      "lang": "en",
-      "published": "2026-04-29T07:26:50",
-      "title_ja": "オーストラリア: Fusion Signage が 20,000 ライセンスと ISO 27001 認証を達成 |9 月 |オーストラリアは、北米やヨーロッパの主要なデジタル サイネージ市場から地理的に遠く離れています。その結果、多くの地元のソフトウェアプロバイダーは、インターネット上ではほとんど目に見えないままになっています。",
-      "summary_ja": "",
-      "image_url": "https://invidis.com/wp-content/uploads/2026/04/2026-04-SYD-Fusion-Signage.jpg",
-      "body_ja": "オーストラリアは、北米やヨーロッパの主要なデジタル サイネージ市場から地理的に遠く離れています。その結果、多くの地元ソフトウェアプロバイダーは、たとえ有名な世界的企業と同等の規模と成熟度に達したとしても、国際舞台ではほとんど知られていないままです。 Fusion Signage はその好例です。ブリスベンを拠点とする CMS プロバイダーは、アクティブ ライセンス数が 20,000 に達し、ISO 27001 と SoC を取得したことで注目を集めています。"
     },
     {
       "title": "Lemma launches AI-powered platform for OOH media",
@@ -549,6 +549,6 @@
       "summary_ja": ""
     }
   ],
-  "last_updated": "2026-05-03T07:39:03.199617+09:00",
+  "last_updated": "2026-05-04T07:39:00.542386+09:00",
   "count": 46
 }

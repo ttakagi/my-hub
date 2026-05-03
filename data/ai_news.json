@@ -1,6 +1,154 @@
 {
   "articles": [
     {
+      "title": "非エンジニアが数百万円級のツールを開発　画像＆動画生成AIツールがゼロから作れた話",
+      "url": "https://ascii.jp/elem/000/004/400/4400003/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/03/4462408/s/5fa94e42eabe62ec.png\" width=\"60\" />筆者はプログラミングほぼ初心者にもかかわらず、本格的なアプリを開発できるようになってきました。数年前であれば数百万円の費用がかかってもおかしくないものが、動いていることに驚きを隠せません。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/03/4462408/s/5fa94e42eabe62ec.png"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 34～",
+      "url": "https://ascii.jp/elem/000/004/399/4399332/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />Ask Me Anything!普段訊けない自作PCのあんなことやこんなこと Season 34。木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "次回のスマホ総研定例会は2026年5月11日（月）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/398/4398912/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/10/10/4335051/s/b2f30d4556399a58.jpg\" width=\"60\" />5月4日（月）のスマホ総研定例会はお休みとなります。次回の生放送は2026年5月11日（月）です。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/10/10/4335051/s/b2f30d4556399a58.jpg"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年5月8日号）",
+      "url": "https://ascii.jp/elem/000/004/398/4398049/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg\" width=\"60\" />巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T22:00:00",
+      "image_url": "https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg"
+    },
+    {
+      "title": "「春のヘッドフォン祭 2026」で見つけた注目の新製品、発売が待ち遠しいヘッドホンたち",
+      "url": "https://ascii.jp/elem/000/004/399/4399993/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/03/4462299/s/ce9d77e677d5edab.jpg\" width=\"60\" />春のヘッドフォン祭 2026で見つけた新製品を紹介。まずはハイエンドのヘッドホンを中心に気になる製品、発売が待ち遠しい製品をピックアップした。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T21:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/03/4462299/s/ce9d77e677d5edab.jpg"
+    },
+    {
+      "title": "エミライ自社開発のイヤホン「em NEXIEM Limited（Sound Master Edition）」がスゴい、FIIOは今回も多すぎの新製品",
+      "url": "https://ascii.jp/elem/000/004/399/4399942/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/02/4462062/s/cb7df5f3a2a19563.jpg\" width=\"60\" />FIIOブランドの日本初公開製品だけでも毎回かなりの数になる、販売代理店エミライのブース。今回は自社開発したこだわりイヤホンも登場でさらにスゴいことに。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T21:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/02/4462062/s/cb7df5f3a2a19563.jpg"
+    },
+    {
+      "title": "‘This is fine’ creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-05-03T20:16:51",
+      "title_ja": "「これでいい」クリエイター、AI スタートアップが彼の芸術を盗んだと語る",
+      "summary_ja": "この広告は、企業に「人間の雇用をやめる」よう促す看板を掲げる AI スタートアップ、Artisan によるものだ。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2241691471.jpg?w=1024",
+      "body_ja": "この漫画を見たことがありますよね。擬人化された犬が炎に囲まれて微笑みながら座って、「これでいいよ」と言います。\nこの漫画は過去 10 年間で最も永続的なミームの 1 つとなっており、AI スタートアップの Artisan はこれを広告キャンペーンに組み込んだようです。この漫画の作者である KC グリーンは、その広告で自分のアートが盗まれたと主張しました。\nブルースカイの投稿では、グリーンのアートを特集した地下鉄の駅の広告が表示されているようですが、犬が「[私の]ピップ」と言っていることを除いて、"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-05-03T18:00:09",
+      "title_ja": "ハーバード大学の研究では、AI は人間の医師 2 名よりも正確な緊急治療室診断を提供しました",
+      "summary_ja": "新しい研究では、実際の緊急治療室のケースを含むさまざまな医療状況で大規模な言語モデルがどのように機能するかを調査しています。この場合、少なくとも 1 つのモデルがより正確であると考えられます。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-104509077.jpg?resize=1200,800",
+      "body_ja": "新しい研究では、実際の緊急治療室のケースを含むさまざまな医療状況で大規模な言語モデルがどのように機能するかを調査しています。そこでは、少なくとも 1 つのモデルが人間の医師よりも正確であるようです。\nこの研究は今週サイエンス誌に掲載され、ハーバード大学医学部とベス・イスラエル・ディーコネス・メディカルセンターの医師とコンピューター科学者が率いる研究チームによるものだ。研究者らは、さまざまな実験を行ったと述べた。"
+    },
+    {
+      "title": "ゲーミングPCセール開催中｜RTX 5080/5070 Ti搭載モデルが大幅値引き【5/4限定】",
+      "url": "https://ascii.jp/elem/000/004/399/4399477/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/30/4461044/s/2bc4ce7486c38ddb.png\" width=\"60\" />5月4日限定、セブンアールジャパンが最新ゲーミングPCを最大87,000円オフで提供するセールを開催。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/30/4461044/s/2bc4ce7486c38ddb.png"
+    },
+    {
+      "title": "「私からの誕生日プレゼントだよ」絶賛ブレイク中の入間ゆい、最新DVDで初のバニー衣装を披露！",
+      "url": "https://ascii.jp/elem/000/004/399/4399072/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/28/4460065/s/76888af8466afe94.jpg\" width=\"60\" />令和最強の妹系としてグラビア界で注目を集めている入間ゆいさんが、8th DVD「ユイトピア」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/28/4460065/s/76888af8466afe94.jpg"
+    },
+    {
+      "title": "積み上げた強さは、静かに世界を変えていく。第2期が7月から放送開始の『片田舎のおっさん、剣聖になる』",
+      "url": "https://ascii.jp/elem/000/004/399/4399824/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/02/4462045/s/5609933db5d2edb1.jpg\" width=\"60\" />これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第2回は2025年に放送された『片田舎のおっさん、剣聖になる』。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/02/4462045/s/5609933db5d2edb1.jpg"
+    },
+    {
+      "title": "【俺も買った】動画は4K、FPSは超高速フルHD！ 万能すぎるゲーミングモニター",
+      "url": "https://ascii.jp/elem/000/004/397/4397195/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/22/4456599/s/fef4df6333d0d37b.jpg\" width=\"60\" />「ゲーミングモニターが欲しい」「でも普段使いでも活用したい」という方に本気でオススメするのが、アイ・オー・データ機器の「GigaCrysta S LCD-GDU271JLAQD」。自腹で買った筆者が太鼓判を押します！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-03T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/22/4456599/s/fef4df6333d0d37b.jpg"
+    },
+    {
+      "title": "生成AI導入の予算申請を通す7ステップ！ROI計算・稟議書テンプレも",
+      "url": "https://ainow.ai/2026/05/03/278038/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25ae%25e4%25ba%2588%25e7%25ae%2597%25e7%2594%25b3%25e8%25ab%258b%25e3%2582%2592%25e9%2580%259a%25e3%2581%25997%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581roi%25e8%25a8%2588%25e7%25ae%2597%25e3%2583%25bb%25e7%25a8%259f",
+      "summary": "<p>&#12300;&#29983;&#25104;AI&#12398;&#20104;&#31639;&#12434;&#21462;&#12387;&#12390;&#12371;&#12356;&#12301;&#12392;&#32076;&#21942;&#23652;&#12363;&#12425;&#25351;&#31034;&#12373;&#12428;&#12383;&#12418;&#12398;&#12398;&#12289;&#38917;&#30446;&#12398;&#31309;&#31639;&#26041;&#27861;&#12539;ROI&#35",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-05-03T06:00:00",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/05/ChatGPT-Image-2026年5月2日-23_26_56.jpg",
+      "body_ja": "「生成AIの予算を取ってこい」と経営層から指示されたものの、項目の積算方法・ROI試算・稟議書の書き方の型が分からず、提案資料の作成が止まっている推進担当者は少なくありません。\n稟議書の書き方を誤ると、財務部門・経営層から差し戻され、自社のAI活用が他社に大きく遅れます。\n本記事では、予算項目と費用相場・7ステップの進め方・経営層を動かす5つの数字・稟議書の必須構成・デジタル化・AI導入補助金2026の活用・却下パターンを順に解説します。\n読み終える頃には、自社向けの予算試算と稟議書ドラフトに着手でき、補助金の活用余地まで判断できる状態になります。\n目次\n生成AI導入の予算申請が稟議で止まる理由\n生成AI導入の予算申請が稟議で止まる最大の理由は、「投資対効果」と「リスク管理」を経営層が判断できる粒度で整理できていない点にあります。\n経営層は生成AIという技術そのものではなく、ROIと管理可能性を判断材料にしています。「どれだけ効果がありそうか」よりも「管理できる形になっているか」が承認の"
+    },
+    {
+      "title": "アクセンチュアが日本精工と戦略提携　AIで間接業務改革、製造現場の自動化も",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
+      "summary": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-02T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2605/03/cover_news018.jpg",
+      "body_ja": "アクセンチュアがベアリングに強みを持つ日本精工と戦略的パートナーシップ契約を結んだ。間接業務をAIで効率化しつつ、新商品開発や製造現場の自動化に取り組む。\nアクセンチュアと日本精工は2026年4月27日、AIを含むデジタル技術を中核に据えた変革を推進する戦略的パートナーシップ契約を締結したと発表した。日本精工は、デジタル技術の活用を起点に事業運営の高度化を進めており、収益を伴う成長につながる施策の創出を目指している。\n同社は1916年に軸受（ベアリング）の生産開始以降、軸受や自動車部品、精機製品などの製品を展開してきた。1960年代初頭からは海外に進出し、約30カ国に拠点を構える。\nアクセンチュアの濱岡大社長は「日本の製造業は、現場の力という大きな強みを持ちながら、経営や意思決定・実行のスピードに課題が指摘されてきた」と述べる。\nこうした課題の解決に向け、今回の取り組みは次の3つの柱から構成されている。\nCopyright © ITmedia, Inc. All Rights Reser"
+    },
+    {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
       "summary": "Bad news for Tilly Norwood.",
@@ -25,16 +173,6 @@
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
       "body_ja": "AI ディクテーション アプリは短期間で大きな進歩を遂げました。何年もの間、特定のアクセントで話してはっきりと発音しない限り、彼らは遅くて不正確でした。\n大規模言語モデル (LLM) と音声テキスト変換モデルの進歩により状況が変わり、テキストを正しくフォーマットするのに十分なコンテキストを保持しながら、音声をより正確に解読できるシステムが生み出されました。開発者は、フィラーワードを自動的に削除したり修正したりする機能も組み込みました。"
-    },
-    {
-      "title": "AMD Ryzen 9×RTX 5080が7万円オフ｜パソコンショップSEVENの24時間セールが本日限定で開催",
-      "url": "https://ascii.jp/elem/000/004/399/4399476/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/30/4461043/s/df83227e78e0bb44.png\" width=\"60\" />セブンアールジャパンが5月3日に24時間限定セールを開催、最新のゲーミングPCやデスクトップPCが最大70,000円オフに！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/30/4461043/s/df83227e78e0bb44.png"
     },
     {
       "title": "生成AI導入の失敗パターン10選！回避チェックリストも紹介",
@@ -70,96 +208,6 @@
       "body_ja": "経営層から「生成AIで全社の生産性を上げろ」と指示されたものの、現場任せにした結果PoCで止まり、稟議も通らない状況に悩む推進担当者は少なくありません。\nプロジェクト化を怠ると、活動が属人化して投資判断が下せず、翌年度の予算がカットされるリスクが高まります。\n本記事では、生成AI導入をプロジェクト化する意義・5ステップの進め方・4役割の推進体制・KGI/KPI設計・失敗パターン・成功のコツを順に解説します。\n読み終える頃には、自社のロードマップに着手し、稟議資料に転用できる設計テンプレートを手に入れた状態になります。\n目次\n生成AI導入の「プロジェクト化」とは\n生成AI導入のプロジェクト化とは、目的・体制・KPI・スケジュールを定義し、組織横断で成果を出すための設計手法です。\nChatGPTやMicrosoft Copilotといったツールを契約するだけでは、全社で成果は出ません。誰がオーナーで、何をいつまでに達成し、どう効果を測定するかをあらかじめ決め、関係部門を巻き込んで動かす必要が"
     },
     {
-      "title": "『空の軌跡 the 2nd』最新映像や「ドラゴンスレイヤー・プロジェクト」コンセプトアートを初公開！",
-      "url": "https://ascii.jp/elem/000/004/399/4399953/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/02/4462080/s/149af586244948ad.jpg\" width=\"60\" />2026年5月2日、KADOKAWA Game Linkage主催のイベント「『空の軌跡 the 1st』ファンミーティング 遊撃士の集い」にて、日本ファルコムが手がける最新タイトルの新情報が解禁された。ここでは、その情報をお届けしよう。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T12:50:00",
-      "image_url": "https://ascii.jp/img/2026/05/02/4462080/s/149af586244948ad.jpg"
-    },
-    {
-      "title": "自分で掴んだグラビアの道。松村りんが「彼氏と南国デート」で魅せる1st DVDリリース！",
-      "url": "https://ascii.jp/elem/000/004/399/4399071/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/28/4460048/s/7c567160739d8850.jpg\" width=\"60\" />フレッシュ感とむちむちボディーが魅力の松村りんさんが、1st DVD「Ring！ Ring！」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/28/4460048/s/7c567160739d8850.jpg"
-    },
-    {
-      "title": "7月に第2期放送決定！可愛い顔で戦場を支配する、異世界転生の皮をかぶった戦争アニメ『幼女戦記』に備えよう",
-      "url": "https://ascii.jp/elem/000/004/398/4398671/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/02/4462044/s/595479800b1e9a0d.jpg\" width=\"60\" />これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第1回は2017年に放送された、悠木碧主演の『幼女戦記』。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/02/4462044/s/595479800b1e9a0d.jpg"
-    },
-    {
-      "title": "これが俺の未来パソコン！フロント全面液晶にマイク＆スピーカー内蔵でAIと会話しながらゲームできるぞ",
-      "url": "https://ascii.jp/elem/000/004/397/4397370/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/22/4456845/s/f0d520a06b5cee1f.png\" width=\"60\" />ゲームの攻略に行き詰まったとき、スマホや別画面に視線を移す必要はもうありません。MSIの「MEG Vision X AI」は、フロントディスプレイでAIと対話しながらの操作を実現するゲーミングPC。SF映画のような未来が、あなたのデスクにやってきます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/22/4456845/s/f0d520a06b5cee1f.png"
-    },
-    {
-      "title": "AI強化型詐欺：犯罪は「手軽」になり、「巧妙」にもなった",
-      "url": "https://ascii.jp/elem/000/004/399/4399948/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />フィッシングメールの生成、ディープフェイク、マルウェア改変——。AIはサイバー犯罪を速く、安く、巧妙にした。手口の高度化と大衆化が同時に進んでいる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T08:15:04",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
-    },
-    {
-      "title": "恐ろしい子！ 演劇大河ドラマ『ガラスの仮面』1巻～28巻まで実質99円、～35巻まで実質220円！【Kindle漫画セール情報】",
-      "url": "https://ascii.jp/elem/000/004/399/4399916/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/01/4461753/s/0b28415ee806f257.png\" width=\"60\" />実質99円から。伝説の演劇漫画『ガラスの仮面』が今、驚異のポイント還元セール中です。マヤの凄まじい憑依演技やライバル亜弓との火花散る演技の応酬、忘れられない名シーンの数々を、この機会に一気読み！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/01/4461753/s/0b28415ee806f257.png"
-    },
-    {
-      "title": "急々如律令！　甘酸っぱい恋愛と王道バトルを祝詞でラッピングした『双星の陰陽師』全35巻が全巻100円！【Kindle漫画セール情報】",
-      "url": "https://ascii.jp/elem/000/004/399/4399568/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/01/4461354/s/4542c91e81ccc14a.png\" width=\"60\" />「夫婦になれ」と命じられた二人の少年少女。最悪の出会いから始まる、ケガレを祓うための過酷な戦いと成長の物語。祝詞が響く独特のバトルと甘酸っぱい関係性に引き込まれる『双星の陰陽師』が、今だけ全巻100円！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/01/4461354/s/4542c91e81ccc14a.png"
-    },
-    {
-      "title": "俺ならApple Watchよりこっち！ 愛用の腕時計を最新スマートウォッチに変える神バンドを発見",
-      "url": "https://ascii.jp/elem/000/004/398/4398896/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/30/4461171/s/62da85e367010c10.jpg\" width=\"60\" />お気に入りの機械式時計をスマートウォッチ化できる。時計ファン待望の正統進化モデル「wena X」をレビュー！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/30/4461171/s/62da85e367010c10.jpg"
-    },
-    {
-      "title": "広告運用会社が顔出しでクライアント実績を公開。株式会社StraxisがYouTubeチャンネルを始動",
-      "url": "https://ascii.jp/elem/000/004/399/4399952/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />広告運用会社が顔出しでクライアント実績を公開。株式会社StraxisがYouTubeチャンネルを始動</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-02T07:47:01",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
       "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
       "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
       "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit",
@@ -181,7 +229,7 @@
       "lang": "en",
       "published": "2026-05-01T22:13:27",
       "title_ja": "Meta、ヒューマノイド AI の野望を強化するためにロボット工学のスタートアップを買収",
-      "summary_ja": "メタ社は、ロボット向けのAIモデルを強化するために人型ロボットの新興企業アシュアード・ロボット・インテリジェンスを買収したと同社は述べた。",
+      "summary_ja": "メタ社は、ロボット向けのAIモデルを強化するために、ヒューマノイドの新興企業アシュアード・ロボット・インテリジェンスを買収したと同社は述べた。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
       "body_ja": "ソーシャルメディア大手のメタ社は、人型ロボット工学の新興企業アシュアード・ロボット・インテリジェンス（ARI）を金額非公開で買収したと発表した。\n「私たちは、ロボットが複雑で動的な環境における人間の行動を理解し、予測し、適応できるように設計されたロボット知能の最前線にある企業、Assured Robot Intelligenceを買収しました」とMetaの広報担当者は電子メールでの声明でTechCrunchに語った。\n共同創設者を含む ARI のチームが Me に参加します"
     },
@@ -298,9 +346,9 @@
       "lang": "en",
       "published": "2026-05-01T11:00:00",
       "title_ja": "トークンごとの AI 料金が GitHub Copilot に導入される",
-      "summary_ja": "2026 年 6 月 1 日の時点で、GitHub Copilot は定額サブスクリプション モデルではなく、ユーザーが使用するトークンに基づいてユーザーに料金を請求します。シャッターを見ているモデル",
+      "summary_ja": "2026 年 6 月 1 日の時点で、GitHub Copilot は定額サブスクリプション モデルではなく、使用するトークンに基づいてユーザーに料金を請求します。シャッターを見ているモデル",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/per-token-pricing-hero_x1440.webp",
-      "body_ja": "2026 年 6 月 1 日の時点で、GitHub Copilot は定額サブスクリプション モデルではなく、ユーザーが使用するトークンに基づいてユーザーに料金を請求します。\nシャッターが閉じられているモデルは、理解して使用するのが簡単です、またはむしろ簡単でした。ユーザーには、サブスクリプション層に応じて一定数の「プレミアム リクエスト」が与えられました。完了するまでに何時間もかかる可能性のある複雑なコーディング タスクでは、1 つのプレミアム リクエストが使用されました。比較的簡単なクエリを提示する"
+      "body_ja": "2026 年 6 月 1 日の時点で、GitHub Copilot は定額サブスクリプション モデルではなく、使用するトークンに基づいてユーザーに料金を請求します。\nシャッターが閉じられているモデルは、理解して使用するのが簡単です、またはむしろ簡単でした。ユーザーには、サブスクリプション層に応じて一定数の「プレミアム リクエスト」が与えられました。完了するまでに何時間もかかる可能性のある複雑なコーディング タスクでは、1 つのプレミアム リクエストが使用されました。比較的簡単なクエリを提示する"
     },
     {
       "title": "Googleフォトに“バーチャル試着機能”登場　写真内の衣服を登録、アプリで組み合わせ可能に",
@@ -452,43 +500,6 @@
       "published": "2026-04-30T23:51:00",
       "image_url": "https://image.itmedia.co.jp/news/articles/2605/01/cover_news063.jpg",
       "body_ja": "米Googleは4月30日（現地時間）、Google搭載車で「Gemini」を利用可能にすると発表した。まずは米国で英語で開始し、数カ月かけて拡大していく計画だ。\n対象となる車両は、Android OSをインフォテインメントシステムとして車両に直接組み込んだ「Google搭載車両）Cars with Google built-in）」であり、スマートフォンをUSBやBluetoothで接続して画面を投影する「Android Auto」とは異なる。Google搭載車は2020年に登場し、日本でも販売されている。今回のGemini対応は新型車だけでなく、既存車両へのソフトウェアアップデートでも提供される予定だ。\n従来のGoogleアシスタントに代わりGeminiが利用できるようになることで、より自然な会話形式での操作が可能になる。例えば「途中で昼食を取りたい。評判の良いレストランを探して。屋外の席を希望」のように具体的な条件を話しかけると、Googleマップの情報をもとに候補を提示し、「駐車"
-    },
-    {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-30T23:07:56",
-      "title_ja": "出典: 人類の潜在的な9,000億ドル以上の評価ラウンドは2週間以内に起こる可能性がある |9月|関係筋によると、アンスロピックは投資家に対し、AI企業の最新の資金調達の割り当てを今後48時間以内に提出するよう求めている。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
-      "body_ja": "関係筋によると、アンスロピックは投資家に対し、AI企業の最新の資金調達の割り当てを今後48時間以内に提出するよう求めている。 TechCrunchが報じたこのラウンドの規模は約500億ドルと見込まれており、関係筋によると2週間以内に完了すると推定されているという。\n以前に報告したように、アンスロピックは約9,000億ドルの評価額を目標としています。しかし、株式を求める投資家からの需要が急増していることを考慮すると、"
-    },
-    {
-      "title": "「時短ツール」としてAIを使い続ける企業の“落とし穴”　ガートナーが警鐘",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2605/01/news050.html",
-      "summary": "ガートナーによると、AI活用の成果を生産性だけで測る企業と、そうでない企業との間に今後、大きな格差が生まれる可能性がある。では、生産性以外の何を指標とすべきか。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-30T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2605/01/cover_news050.jpg",
-      "body_ja": "ガートナーによると、AI活用の成果を生産性だけで測る企業と、そうでない企業との間に今後、大きな格差が生まれる可能性がある。では、生産性以外の何を指標とすべきか。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nガートナージャパン（以下、ガートナー）は2026年4月27日、企業における生成AIの活用に関する見解を発表した。\n生成AIの導入が進む中、特に日本企業ではAI活用の成果を、コスト削減や時間短縮といった生産性を指標に評価することが多い。ガートナーによると、こうした指標だけで測ることは十分ではない。AIが監視や生産性向上のための道具だと従業員に認識されると、自己成長や仕事の充実感を阻害する恐れがあり、若手人材の採用競争で深刻なリスクに直面する可能性もあるからだ。\nでは、人とAIが互いの役割を分担しつつ協働する「AI共生時代」の成熟度を測るために、生産性以外の何を指標として組み込むべきか。ガートナーの提言を紹介する。\nガートナーは、コスト削減や時間短縮では測れない、人を中心"
-    },
-    {
-      "title": "Apple was surprised by AI-driven demand for Macs",
-      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-      "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-04-30T22:12:52",
-      "title_ja": "Apple は AI 主導の Mac 需要に驚いた",
-      "summary_ja": "Appleは、次の四半期にもMac mini、Studio、Neoの供給が制限されるだろうと述べた。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
-      "body_ja": "Apple の iPhone 販売とサービス収益は、このテクノロジー巨人の最新四半期の主役でしたが、AI ワークロードの需要の高まりに助けられ、Mac が静かに上回りました。\nウォール街の投資家はMacの売上高が80億ドル前半になると予想していたが、Appleは3月28日終了の第2四半期に84億ドルを報告した。これは、テクノロジー巨人の事業の非中核部門としては注目に値する数字である。さらに、投資家は利益を先取りして"
     },
     {
       "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
@@ -698,19 +709,8 @@
       "published": "2026-04-23T15:36:43",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/04/ChatGPT-Image-2026年4月24日-00_26_13.jpg",
       "body_ja": "ChatGPT EnterpriseやMicrosoft 365 Copilotを配布したものの、最初だけ盛り上がって使われなくなり、経営層から「高額ライセンスの投資対効果はどうなった」と詰められるDX推進担当者・情シス・人事は少なくありません。\n本記事では、生成AI活用のモチベーションが続かない5つの原因、維持する7つの施策、4社の企業事例、KPI設計3ステップ、運用上の注意点を、公式情報と実例にもとづいて解説します。\n読み終えれば、利用率を次の四半期で70%以上に引き上げるロードマップを設計でき、経営層に定量プランで説明できる状態になります。\n目次\n生成AI活用のモチベーションが続かない5つの原因\n生成AI活用のモチベーションが続かない原因は、成功体験不足・習慣化失敗・リテラシー不足・評価非反映・内発的動機の低下の5つに集約されます。\n原因が複数絡み合って利用率を押し下げているケースが大半です。まずは自社がどの原因に当てはまるかを診断しましょう。\n順に内容を見ていきます。\n小さな成功"
-    },
-    {
-      "title": "生成AIを予算内で導入する5つの鉄則！相場・配分・補助金で投資額を最大化",
-      "url": "https://ainow.ai/2026/04/23/277991/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e4%25ba%2588%25e7%25ae%2597%25e5%2586%2585%25e3%2581%25a7%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%2599%25e3%2582%258b5%25e3%2581%25a4%25e3%2581%25ae%25e9%2589%2584%25e5%2589%2587%25ef%25bc%2581%25e7%259b%25b8%25e5%25a0%25b4%25e3%2583%25bb%25e9%2585%258d%25e5%2588%2586",
-      "summary": "<p>&#32076;&#21942;&#23652;&#12363;&#12425;&#12300;&#12371;&#12398;&#20104;&#31639;&#12391;&#29983;&#25104;AI&#12434;&#23566;&#20837;&#12375;&#12390;&#12411;&#12375;&#12356;&#12301;&#12392;&#26528;&#12384;&#12369;&#28193;&#12373;&#12428;&#12289;&#30456;&#22580;&#24863;&#12418;&#12394;&#12356;&#12414",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-04-23T14:49:38",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/04/ChatGPT-Image-2026年4月23日-23_46_32.jpg",
-      "body_ja": "経営層から「この予算で生成AIを導入してほしい」と枠だけ渡され、相場感もないまま稟議書を書かされていませんか。\n本記事では、予算規模別にできること、5費目の配分比率、予算内に収める7つの具体策、2026年のデジタル化・AI導入補助金、主要ツールの料金比較を、数字ベースで解説します。\n読み終えれば、自社の予算額に対して「何にいくら使い、どこで圧縮するか」を稟議書に落とし込める状態になります。\n目次\n生成AIを予算内で導入する5つの鉄則\n生成AIを予算内で導入するために押さえるべき鉄則は、次の5つです。\n- 予算額から逆算して導入範囲を決める\n- 5費目に配分して使い切りを防ぐ\n- スモールスタートでPoC費用を総予算の2割以内に抑える\n- デジタル化・AI導入補助金で実質負担を圧縮する\n- 隠れコストを見積もりに組み込む\n鉄則を1つでも外すと、予算オーバーや稟議差し戻しの原因になります。各項目の詳細は以降の見出しで順に解説します。\n生成AI導入の費用相場は100万円から3,000万円｜予算"
     }
   ],
-  "last_updated": "2026-05-03T07:38:10.729946+09:00",
+  "last_updated": "2026-05-04T07:38:02.940299+09:00",
   "count": 60
 }
