@@ -1,16 +1,368 @@
 {
   "articles": [
     {
-      "title": "Diablo 4 interactive map",
-      "url": "https://www.polygon.com/c/diablo-4-guides/23778174/diablo-iv-map-altars-of-lilith-dungeons-waypoints/",
-      "summary": "Here's our Diablo 4 interactive map, detailing the various waypoints, Altars of Lilith, and more.",
+      "title": "Former GTA Developer Obbe Vermeij Releases His Nature Sandbox Game",
+      "url": "https://80.lv/articles/former-gta-developer-obbe-vermeij-releases-his-nature-sandbox-game/",
+      "summary": "<p>Make your tribe survive in Plentiful.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-11T11:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40034/images/69fb6ae1ca719/cover_800x800.jpg",
+      "title_ja": "元 GTA 開発者の Obbe Vermeij がネイチャー サンドボックス ゲームをリリース |9 月|プレンティフルで部族を生き残らせましょう。",
+      "summary_ja": ""
+    },
+    {
+      "title": "Unity Dev Open-Sources Production-Ready UI Toolkit Design System",
+      "url": "https://80.lv/articles/unity-dev-open-sources-production-ready-ui-toolkit-design-system/",
+      "summary": "<p><span>Tokens, components, icons, mobile support, and a runtime helper, all in a dark theme, all keyboard and touch-friendly, and all controlled from one stylesheet.</span></p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-11T07:30:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40030/images/69fb1b7ef0381/cover_800x800.jpg",
+      "title_ja": "Unity Dev オープンソースの本番対応 UI ツールキット設計システム",
+      "summary_ja": "トークン、コンポーネント、アイコン、モバイル サポート、およびランタイム ヘルパーはすべてダーク テーマ内にあり、すべてキーボードおよびタッチ フレンドリーで、すべて 1 つのスタイルシートから制御されます。"
+    },
+    {
+      "title": "Star Fox Returns in New Remake for Switch 2",
+      "url": "https://80.lv/articles/star-fox-returns-in-new-remake-for-switch-2/",
+      "summary": "<p>After years of rumors and nearly a decade since the last major entry, Nintendo has officially revealed a new Star Fox project for Switch 2 coming this summer.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T22:19:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40042/images/69fbbe752f663/cover_800x800.jpeg",
+      "title_ja": "スターフォックスがSwitch 2用の新たなリメイク版で帰ってくる",
+      "summary_ja": "何年もの噂があり、最後の大型参入から10年近くが経ち、任天堂は今夏に登場するSwitch 2向けの新しいスターフォックスプロジェクトを正式に発表しました。"
+    },
+    {
+      "title": "スターフォックスシリーズ最新作「Star Fox」，Switch2向けに6月25日発売",
+      "url": "https://www.4gamer.net/games/999/G999903/20260507003/",
+      "summary": "任天堂は本日（2026年5月7日），情報番組「StarFoxDirect2026.5.7」を配信し，スターフォックスシリーズ最新作「StarFox」を発表した。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-06T22:15:11",
+      "image_url": "https://www.4gamer.net/games/999/G999903/20260507003/SS/002.jpg",
+      "body_ja": "タイトル/ワード名\nメディアパートナー\nニュース\n編集部：或鷹\nキーワード\n（C）Nintendo\n銃と魔法の西部開拓地を舞台にしたCoopシューター「Far Far West」（ほぼ日 インディーPick Up！）\nじゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）\n電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）\n過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）\n「Core Ultra X9」搭載ノートPCは本当にゲームプレイに使えるのか。ASUSの2画面ノートPC「Zenbook DUO」で調べてみた\nValveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白いゲー"
+    },
+    {
+      "title": "Nintendo announces new Star Fox for Nintendo Switch 2",
+      "url": "https://www.polygon.com/star-fox-2026-game-nintendo-switch-2/",
+      "summary": "Star Fox 64 is getting a major remake for Nintendo Switch 2, Shigeru Miyamoto announced during surprise Nintendo Direct showcase.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-05-05T22:31:19",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/diablo-4-thumbnail-pg.png",
-      "title_ja": "Diablo 4 インタラクティブ マップ",
-      "summary_ja": "これは、さまざまなウェイポイントやリリスの祭壇などを詳しく説明した Diablo 4 のインタラクティブ マップです。"
+      "published": "2026-05-06T22:09:04",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/nintendoswitch2_1x1_starfox_keyart.jpg",
+      "title_ja": "任天堂、Nintendo Switch 2 用の新しいスターフォックスを発表|9月| 『スターフォックス 64』がNintendo Switch 2向けにメジャーリメイクされると宮本茂氏がサプライズニンテンドーダイレクトショーケース中に発表した。",
+      "summary_ja": ""
+    },
+    {
+      "title": "銃と魔法の西部開拓地を舞台にしたCoopシューター「Far Far West」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/985/G098546/20260501040/",
+      "summary": "本日の「ほぼ日インディーPickUp！」では，ロボットカウボーイの賞金稼ぎになって異形の西部を駆け回る最大4人協力シューター「FarFarWest」を紹介。銃と魔法を使い分け，愛馬で荒野を疾走しながら巨大なボスを討ち取る。仲間とワイワイ遊べるスピード感ある混沌のCoop体験を求める人にオススメの一作だ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-06T22:00:00",
+      "image_url": "https://www.4gamer.net/games/985/G098546/20260501040/SS/005.jpg",
+      "body_ja": "骸骨の無法者や異形のモンスターが跋扈する荒野で，賞金稼ぎを生業とするロボットカウボーイたちが今日も愛馬にまたがり町を発つ。\n保安官から手渡された契約書を懐に，砂塵の彼方で待つ獲物を仕留めるべく，銃と魔法を携えて混沌の荒野へと駆け出していく。\n本日は，Evil Raptorが手掛ける「Far Far West」を紹介しよう。\n本作は魔法とロボットが入り混じった奇妙な西部開拓地を舞台にした最大4人協力型シューターだ。\nプレイヤーはロボットカウボーイの賞金稼ぎとなり，依頼を受けて荒野へと旅立ち，骸骨の無法者や異形の怪物どもと対峙していく。\n本作の特徴は，銃と魔法を自在に切り替える爽快なガンプレイにある。\nリボルバーやライフル，ショットガンといった西部劇らしい銃器に加え，火の玉や酸の沼，雷を呼び出す元素魔法を撃ち分けながら戦う仕組みで，敵の種類や状況に応じて武器と呪文を組み合わせて立ち回る感覚が心地よい\nミッションは町を拠点に契約を受けてホバートレインで現地へ向かい，マップを散策しながらボスの召"
+    },
+    {
+      "title": "Shovel Knight Dev's Excellent Pixel Art Zelda-Like Finally Has a Release Date",
+      "url": "https://80.lv/articles/shovel-knight-dev-s-excellent-pixel-art-zelda-like-finally-has-a-release-date/",
+      "summary": "<p>After years of anticipation and multiple delays, Mina the Hollower launches this month with its mix of retro Zelda-inspired exploration, gothic horror, and modern action design.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T21:53:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40041/images/69fbb7e69cd22/cover_800x800.jpg",
+      "title_ja": "Shovel Knight 開発者の優れたゼルダ風のピクセル アートがついにリリース日 |9 月 |何年もの期待と度重なる延期を経て、『ミナ・ザ・ホロワー』はレトロなゼルダ風の探索、ゴシックホラー、そして現代的なアクションデザインを組み合わせた形で今月発売される。",
+      "summary_ja": ""
+    },
+    {
+      "title": "The Witcher 3 console commands list",
+      "url": "https://www.polygon.com/the-witcher-3-cheats-console-commands-how-to-use/",
+      "summary": "The Witcher 3 console commands let you use cheats to get items and experience,  or just play Gwent whenever you want",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T21:43:12",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/witcher-3-console-commands.jpg",
+      "title_ja": "ウィッチャー3 コンソールコマンド一覧",
+      "summary_ja": "ウィッチャー 3 コンソール コマンドを使用すると、チートを使用してアイテムや経験値を入手したり、いつでも好きなときにグウェントをプレイしたりできます"
+    },
+    {
+      "title": "Purple Man? Daredevil: Born Again season 2 finale sets up the return of Netflix villain Killgrave",
+      "url": "https://www.polygon.com/purple-man-daredevil-explainer/",
+      "summary": "The Daredevil: Born Again season 2 finale has reignited interest in the Purple Man, one of Daredevil's oldest and most notorious villains.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T20:50:24",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/03/OTK-103-00868_R.jpg",
+      "title_ja": "パープルマン？デアデビル: ボーン アゲイン シーズン 2 最終回では、Netflix の悪役キルグレイブの復活が設定されます",
+      "summary_ja": "『デアデビル: ボーン・アゲイン』シーズン 2 最終話では、デアデビルの最古にして最も悪名高い悪役の 1 人であるパー​​プルマンへの関心が再燃しています。"
+    },
+    {
+      "title": "New Minecraft documentary gets first teaser trailer",
+      "url": "https://www.polygon.com/battle-of-the-borough-trailer/",
+      "summary": "Battle of the Boroughs chronicles NYC public school kids competing in esports to understand civic policy. It's wild.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T20:37:43",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/musictrack-00_32_37_23-still005.jpg",
+      "title_ja": "新しい Minecraft ドキュメンタリーが最初のティーザー トレーラーを公開 |9 月| 「Battle of the Boroughs」は、ニューヨーク市の公立学校の子供たちが、市民政策を理解するために e スポーツで競い合う記録です。ワイルドだ。",
+      "summary_ja": ""
+    },
+    {
+      "title": "Ubisoft RTS RUSE is back on Steam, thanks to the original dev",
+      "url": "https://www.polygon.com/ubisoft-ruse-rts-pc-game-steam-release/",
+      "summary": "RUSE, the 2010 World War II strategy game with bluffing mechanics, is back online and on Steam, thanks to a major re-release.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T18:18:23",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/ss_08790d8eba39d739f824fcb65f22cdf9638d494a-1920x1080.jpg",
+      "title_ja": "オリジナルの開発者",
+      "summary_ja": "のおかげで、Ubisoft RTS RUSE が Steam に戻ってきました。 2010 年に発表されたブラフの仕組みを備えた第二次世界大戦戦略ゲームである RUSE が、大規模な再リリースのおかげでオンラインと Steam に戻ってきました。"
+    },
+    {
+      "title": "The Secret Lair Goblin Storm deck is real, and it's packing a ton of value",
+      "url": "https://www.polygon.com/mtg-secret-lair-goblin-storm-leaks-confirmed/",
+      "summary": "Here's what to expect from Goblin Storm, the new Secret Lair Commander precon",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T18:00:19",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/skullclamp-header.jpg",
+      "title_ja": "Secret Lair ゴブリンストームデッキは本物で、大量の価値が詰め込まれています",
+      "summary_ja": "新しい Secret Lair Commander プリコン、ゴブリン ストームに期待できることは次のとおりです"
+    },
+    {
+      "title": "A Valve glitch made Steam Controllers cheaper for early adopters",
+      "url": "https://www.polygon.com/valve-steam-controller-price-glitch-sales-tax-buy/",
+      "summary": "Steam fans are all making fun of a user who alerted Valve to a beneficial tax glitch that made its new controller a little less expensive.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T17:55:20",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/steam-controller.jpeg",
+      "title_ja": "Valve の不具合により、早期採用者向けに Steam コントローラーが安価になりました",
+      "summary_ja": "Steam ファンは皆、新しいコントローラーの価格を少し安くする有利な税制上の欠陥について Valve に警告したユーザーをからかっています。"
+    },
+    {
+      "title": "Angel Down's Pulitzer win confirms something horror fans already knew",
+      "url": "https://www.polygon.com/angel-down-fiction-pulitzer-importance/",
+      "summary": "Daniel Kraus' novel Angel Down won the Pulitzer Prize for Fiction, the first win for a horror novel since Cormac McCarthy’s The Road in 2007.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T17:34:11",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/bookarticlemainart-2-2.png",
+      "title_ja": "エンジェル・ダウンのピューリッツァー賞受賞は、ホラー ファンがすでに知っていたことを裏付ける",
+      "summary_ja": "ダニエル・クラウスの小説『エンジェル・ダウン』がピューリッツァー賞フィクション賞を受賞し、ホラー小説としては2007年のコーマック・マッカーシーの『ザ・ロード』以来の受賞となった。"
+    },
+    {
+      "title": "Magic's Final Fantasy crossover almost had a busted version of one mechanic",
+      "url": "https://www.polygon.com/mtg-final-fantasy-job-select-fft-magic-the-gathering-interview/",
+      "summary": "Two Magic: The Gathering designers revealed some secrets behind the game's biggest set ever.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T17:30:19",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/black-mages-rod.jpeg",
+      "title_ja": "マジックのファイナルファンタジークロスオーバーには、1 つのメカニックが壊れたバージョンが存在するところだった",
+      "summary_ja": "マジック：ザ・ギャザリングの2人のデザイナーが、このゲーム史上最大のセットの背後にある秘密を明らかにしました。"
+    },
+    {
+      "title": "A book with a new Brandon Sanderson story raises $1 million on Kickstarter",
+      "url": "https://www.polygon.com/brandon-sanderson-unbroken-kickstarter/",
+      "summary": "Unbroken: New Tales by Masters of Fantasy also includes work from Matt Dinniman, R.A. Salvatore, and Lev Grossman.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-05-06T17:15:27",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/strata-wars.jpg",
+      "title_ja": "ブランドン・サンダーソンの新しい物語を含む本がキックスターターで 100 万ドルを集める |9 月| 『Unbroken: New Tales by Masters of Fantasy』には、Matt Dinniman、R.A. の作品も含まれています。サルバトーレとレフ・グロスマン。",
+      "summary_ja": ""
+    },
+    {
+      "title": "One of The Most Influential VR Games Ever is Finally Getting a Sequel",
+      "url": "https://80.lv/articles/one-of-the-most-influential-vr-games-ever-is-finally-getting-a-sequel/",
+      "summary": "<p>Hot Dogs, Horseshoes & Hand Grenades 2 brings the legendary VR sandbox shooter to Quest hardware for the first time while evolving the series into a full extraction experience.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T16:45:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40039/images/69fbae179f791/cover_800x800.jpg",
+      "title_ja": "史上最も影響力のある VR ゲームの 1 つがついに続編を制作",
+      "summary_ja": "Hot Dogs, Horseshoes & Hand Grenades 2 は、伝説的な VR サンドボックス シューターを Quest ハードウェアに初めて導入し、シリーズを完全な抽出エクスペリエンスに進化させています。"
+    },
+    {
+      "title": "Veteran BioWare Developers Are Behind Star Wars: Fate Of The Old Republic",
+      "url": "https://80.lv/articles/veteran-bioware-developers-are-behind-star-wars-fate-of-the-old-republic/",
+      "summary": "<p>A lot of Arcanaut <span>Studios</span>' core team previously worked on KOTOR and Mass Effect.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T16:33:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40036/images/69fb6d5b320ee/cover_800x800.jpg",
+      "title_ja": "ベテラン BioWare 開発者がスター・ウォーズ: 旧共和国の運命を支えています",
+      "summary_ja": "Arcanaut Studios のコア チームの多くは、以前は KOTOR と Mass Effect に取り組んでいました。"
+    },
+    {
+      "title": "InstaMAT & InstaLOD Get Native Linux Support",
+      "url": "https://80.lv/articles/instamat-instalod-get-native-linux-support/",
+      "summary": "<p>These builds offer \"broad feature parity\" with Windows and macOS versions and are also available to users on the free Pioneer license.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T14:46:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40035/images/69fb54335269d/cover_800x800.jpg",
+      "title_ja": "InstaMAT と InstaLOD がネイティブ Linux サポートを取得 |9 月|これらのビルドは、Windows および macOS バージョンとの「広範な機能同等性」を提供し、無料の Pioneer ライセンスのユーザーも利用できます。",
+      "summary_ja": ""
+    },
+    {
+      "title": "EA boasts record year thanks to Battlefield 6 and EA Sports FC",
+      "url": "https://www.gamedeveloper.com/business/ea-boasts-record-year-thanks-to-battlefield-6-and-ea-sports-fc",
+      "summary": "EA is touting net bookings of $8 billion in FY26, a nine percent rise year-over-year.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-05-06T14:10:45",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt17a6585e2e8d5580/69fb53088135d00ec721636b/ss_ae7bac8486128e2dabdadc98ae924657c6eb2638.1920x1080.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+      "title_ja": "「Battlefield 6」と「EA Sports FC」のおかげで、EA は記録的な年を達成",
+      "summary_ja": "EA は、26 年度の純予約額が前年比 9% 増の 80 億ドルになると宣伝しています。"
+    },
+    {
+      "title": "Former LucasArts, Ubisoft veteran Clint Hocking founds new studio",
+      "url": "https://www.gamedeveloper.com/business/former-lucasarts-ubisoft-veteran-clint-hocking-founds-new-studio",
+      "summary": "Build Machine Games wants to make 'socially relevant games that challenge players' perspectives.'",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-05-06T13:50:41",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta2b9faa8d3a59334/69fb5180fd88b8d1de450147/New_Project_(14).png?width=1280&auto=webp&quality=80&disable=upscale",
+      "title_ja": "元 LucasArts、Ubisoft のベテラン、Clint Hocking が新しいスタジオを設立",
+      "summary_ja": "Build Machine Games は、「プレイヤーの視点に挑戦する社会的関連性のあるゲーム」を作りたいと考えています。"
+    },
+    {
+      "title": "EVE Online studio CCP Games turns independent and rebrands as Fenris Creations",
+      "url": "https://www.gamedeveloper.com/business/eve-online-studio-ccp-games-turns-independent-and-rebrands-as-fenris-creations",
+      "summary": "Google DeepMind has also taken a minority stake in the Icelandic studio and will produce an offline version of EVE Online.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-05-06T13:49:19",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt17b98eb1cb9d8f22/69fb48a5574eeb48fc37ef15/EVE_Online.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "title_ja": "EVE Online スタジオ CCP Games が独立し、Fenris Creations としてブランド変更",
+      "summary_ja": "Google DeepMind もアイスランドのスタジオの少数株式を取得し、EVE Online のオフライン バージョンを制作する予定です。"
+    },
+    {
+      "title": "Building a Procedural Destruction Pipeline with Houdini and Unreal Engine 5",
+      "url": "https://80.lv/articles/building-a-procedural-destruction-pipeline-with-houdini-and-unreal-engine-5/",
+      "summary": "<p>Lea Seiler and Vishwaas Khare spoke with us about the workflow behind the Procedural Chaos Destruction Framework, explaining how they used Houdini to create a scalable and performant fracture logic, and discussing how they integrated various Unreal Engine systems.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T13:17:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40019/images/69fa72deda7da/cover_800x800.jpg",
+      "title_ja": "Houdini と Unreal Engine 5 を使用した手続き型破壊パイプラインの構築",
+      "summary_ja": "Lea Seiler と Vishwaas Khare が、プロシージャル カオス デストラクション フレームワークの背後にあるワークフローについて語り、どのように Houdini を使用してスケーラブルでパフォーマンスの高いフレームワークを作成したかについて説明しました。"
+    },
+    {
+      "title": "Decorate Your Scenes with This Refreshing Stylized Grass Shader for Unity",
+      "url": "https://80.lv/articles/decorate-your-scenes-with-this-refreshing-stylized-grass-shader-for-unity/",
+      "summary": "<p>Staggart Creations' tool is perfect for URP, now in Unity 6, too.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T12:05:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40033/images/69fb2f2372696/cover_800x800.jpg",
+      "title_ja": "Unity 用のこの爽やかな様式化された草シェーダーでシーンを飾りましょう",
+      "summary_ja": "Staggart Creations のツールは URP に最適で、現在は Unity 6 にも含まれています。"
+    },
+    {
+      "title": "Sony Animator Shows Endearing References for an Opening Scene in GOAT",
+      "url": "https://80.lv/articles/sony-animator-shows-endearing-references-for-an-opening-scene-in-goat/",
+      "summary": "<p>Saul Latorre Sebastian, Lead Animator at Sony Pictures Imageworks, filmed the reference footage with his mom.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-05-06T12:03:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/40032/images/69fb2df7a9db6/cover_800x800.jpg",
+      "title_ja": "ソニーのアニメーターが『GOAT』のオープニングシーンの愛らしい参考資料を披露",
+      "summary_ja": "ソニー・ピクチャーズ・イメージワークスのリードアニメーター、ソール・ラトーレ・セバスチャンは母親と一緒に参考映像を撮影した。"
+    },
+    {
+      "title": "CWA Canada president says Saudi buyout of EA should trigger 'virtually every alarm bell'",
+      "url": "https://www.gamedeveloper.com/business/union-president-says-saudi-buyout-of-ea-should-trigger-virtually-every-alarm-bell-",
+      "summary": "Carmel Smyth has called on the Canadian government to scrutinize the take-private in the interest of national security.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-05-06T11:59:58",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfa38ee96ae9b42cf/69fb362f714e01b38489fe54/EA_Sports_Header.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "title_ja": "CWAカナダ会長、サウジによるEA買収は「事実上あらゆる警鐘」を引き起こすはずだと語る",
+      "summary_ja": "カーメル・スミス氏はカナダ政府に対し、国家安全保障の観点からプライベート化を精査するよう求めた。"
+    },
+    {
+      "title": "Xbox appoints new internal leaders and ditches Copilot AI",
+      "url": "https://www.gamedeveloper.com/business/xbox-appoints-new-leaders-and-ditches-copilot-ai",
+      "summary": "Xbox CEO Asha Sharma said Copilot does not 'align' with where the division is heading.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-05-06T10:01:06",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3ea8e709a674110c/69fb12b1d7761550af8a45d1/Xbox_Copilot.png?width=1280&auto=webp&quality=80&disable=upscale",
+      "title_ja": "Xbox が新しい社内リーダーを任命し、Copilot AI を廃止",
+      "summary_ja": "Xbox CEOのAsha Sharma氏は、Copilotは同部門の目指す方向と「一致」していないと述べた。"
+    },
+    {
+      "title": "「サカつくRTW」，“PREMIUM PICK UP SCOUT”を開催",
+      "url": "https://www.4gamer.net/games/402/G040221/20260428047/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-06T09:00:00",
+      "image_url": "https://www.4gamer.net/games/402/G040221/20260428047/SS/001.png",
+      "body_ja": "| プロサッカークラブをつくろう！ ロード・トゥ・ワールド プロサッカークラブをつくろう！ ロード・トゥ・ワールド | |||\n| 配信元 | セガ | 配信日 | 2026/05/06 |\n＜以下，メーカー発表文の内容をそのまま掲載しています＞\nイタリアの新★5選手がレベルMAX登場する“PREMIUM PICK UP SCOUT”開催！\n好評配信中のスポーツ育成シミュレーションゲーム『プロサッカークラブをつくろう! ロード・トゥ・ワールド』（以下、『サカつくRTW』）では、イタリアの新★5選手がレベルMAXで登場する“PREMIUM PICK UP SCOUT”を、2026年5月6日（水）より開催します。\n◆【STEP2以降は新★5選手レベルMAX1人確定！】PREMIUM PICK UP SCOUT\n今回の“PREMIUM PICK UP SCOUT”では、得意戦術カウンターのイタリアの新★5選手4人が、「レベルMAX(Lv.50)／覚醒2段階達成／各スキル・各能力UP Lv.3達"
+    },
+    {
+      "title": "『プラダを着た悪魔2』レビュー ミランダは“変わりすぎた”のか？懐かしさと変化、その狭間で揺れる続編",
+      "url": "https://jp.ign.com/the-devil-wears-prada-sequel/83268/2",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/2_7ak4.640.jpg\" vspace=\"5\" width=\"120\" />懐かしい悪魔か、新しい悪魔か\n<p>冷酷で支配的、かつ先見の明を持った、ファッション誌「ランウェイ」の伝説的編集長、ミランダ・プリーストリー。『プラダを着た悪魔2』には、遠慮がなく、タフで、前作の主要な敵役でもあったこの人物が、エコノミークラスに搭乗する場面がある。この屈辱的な状況は笑いを誘うものとして描かれているが、同時に作品全体を象徴す",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-05-06T07:19:52",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/2_7ak4.jpg"
+    },
+    {
+      "title": "『コーヒートーク トーキョー』で東京はどのように描かれる？開発者インタビュー",
+      "url": "https://jp.ign.com/coffee-talk-tokyo/83194/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/photo/default/coffee-talk-tokyo-copy-1771510083645_qudv.640.jpg\" vspace=\"5\" width=\"120\" />大都会に、さまざまな人生がゆるやかに交差\n<p>お客さんのコーヒーを淹れて、彼らとトークする「コーヒートーク」シリーズ。バーテンダーとなる『VA-11 Hall-A: Cyberpunk Bartender Action』と共通点も多いこのフォーマットは、特定のロケーションやそこで",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-05-06T01:33:34",
+      "image_url": "https://sm.ign.com/ign_jp/photo/default/coffee-talk-tokyo-copy-1771510083645_qudv.jpg"
+    },
+    {
+      "title": "「プロセカ」，HAPPY BIRTHDAY 天馬咲希 2026を開催中。誕生日当日の5月9日にはバーチャルライブも実施",
+      "url": "https://www.4gamer.net/games/476/G047609/20260501055/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-06T01:00:00",
+      "image_url": "https://www.4gamer.net/games/476/G047609/20260501055/SS/001.jpg",
+      "body_ja": "| プロジェクトセカイ カラフルステージ！ feat. 初音ミク プロジェクトセカイ カラフルステージ！ feat. 初音ミク | |||\n| 配信元 | セガ | 配信日 | 2026/05/06 |\n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「HAPPY BIRTHDAY 天馬 咲希 2026」開催！\n株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都渋谷区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』について、バースデーイベント「HAPPY BIRTHDAY 天馬 咲希 2026」を開催中です。\nまた、誕生日当日となる5月9日（土）には、誕生日を記念してバースデーライブやパーティー会場をテーマとしたマイセカイ百景の開催も予定しております。\n「HAPPY BIRTHDAY 天馬 咲希 202"
     },
     {
       "title": "じゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）",
@@ -22,126 +374,6 @@
       "published": "2026-05-05T22:00:00",
       "image_url": "https://www.4gamer.net/games/950/G095079/20260501028/SS/003.jpg",
       "body_ja": "だが「腐敗」と呼ばれる第四の力がじわじわと盤面を侵し，禁じられた力で指を動かすよう囁いてくる。\n永遠は，指先にある。果たしてその手は，重みに耐えうるのか。\n本日は，58BLADESが手掛ける「Handmancers」を紹介しよう。本作は手の魔法が司るファンタジー世界を舞台にしたローグライトデッキビルダーだ。\nプレイヤーはParchment（紙）・Stone（岩）・Blades（鋏）の三派閥から一人を選び，腐敗に侵されゆく領域の奥へと潜っていく。\n本作の特徴は，誰もが知るじゃんけんの三すくみをそのまま戦闘の土台に据えている点である。\nプレイヤーが手に握るカードはすべてグー・チョキ・パーいずれかの「サイン」を持ち，敵の出すサインに対して有利なものを叩き込めば一方的に攻撃が通り，不利を引けば反撃を食らう。ルールはこれだけだ。\n各カードにはGemと呼ばれる特性を最大3つまで装着でき，同じチョキでも振る舞いがまったく異なるカードへ姿を変えていく。\nじゃんけんが戦術になる瞬間\n本作の戦闘はターンとな"
-    },
-    {
-      "title": "James Cameron wants to redo Aliens as a 3D movie",
-      "url": "https://www.polygon.com/aliens-3d-version-james-cameron/",
-      "summary": "Aliens 3D may be James Cameron's next 3D movie project after Avatar and his Billie Eilish concert movie, the director reveals in a new interview.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T21:20:15",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24421855/Xenomorph1.jpeg",
-      "title_ja": "ジェームズ・キャメロン監督、『エイリアン』を 3D 映画としてやり直すことを望んでいる",
-      "summary_ja": "『エイリアン 3D』は、『アバター』と彼のビリー・アイリッシュのコンサート映画に続くジェームズ・キャメロン監督の次の3D映画プロジェクトになるかもしれないと監督が新しいインタビューで明らかにした。"
-    },
-    {
-      "title": "Assassin's Creed spinoff takes to the stage (and to Canada) with Heredis",
-      "url": "https://www.polygon.com/assassins-creed-heredis-play-live-show/",
-      "summary": "Black Flag Resynced isn't the only Assassin's Creed coming out this year: a new Assassin's Creed stage play called Heredis opens in 2026.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T21:15:50",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/assassins-creed-franchise.jpg",
-      "title_ja": "Assassin's Creed のスピンオフが Heredis とともに舞台 (そしてカナダ) に登場",
-      "summary_ja": "今年公開される『アサシン クリード』は『ブラック フラッグ リシンクド』だけではありません。2026 年には『アサシン クリード』の新しい舞台劇『ヘレディス』が開幕します。"
-    },
-    {
-      "title": "D&D sci-fi book trilogy Neon Odyssey raises $3.7 million in hours on Kickstarter",
-      "url": "https://www.polygon.com/neon-odyssey-dnd-sci-fi-kickstarter-launch/",
-      "summary": "Avantris Entertainment's latest Dungeons & Dragons Kickstarter smashed through its goal, crashed the platform, and seems poised to break records.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T20:37:27",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/neon-odyssey-cinematic-trailer-_-space-opera-in-d-d-_-coming-to-kickstarter-2-55-screenshot.png",
-      "title_ja": "D&D SF 書籍三部作『Neon Odyssey』が Kickstarter で数時間で 370 万ドルを調達",
-      "summary_ja": "Avantris Entertainment の最新のダンジョンズ & ドラゴンズ キックスターターは目標を突破し、プラットフォームをクラッシュさせ、記録を破る準備ができているようです。"
-    },
-    {
-      "title": "Xbox CEO cancels console AI chatbot Copilot on consoles",
-      "url": "https://www.polygon.com/xbox-ai-gaming-copilot-canceled-asha-sharma-microsoft/",
-      "summary": "Asha Sharma confirms that Xbox is ending development for Copilot on Xbox as the brand continues to restructure ahead of Project Helix.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T20:35:24",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/xbox-series-x.jpg",
-      "title_ja": "Xbox CEO、コンソール用 AI チャットボット Copilot をコンソールでキャンセル",
-      "summary_ja": "Asha Sharma 氏は、Xbox が Project Helix に先立ってブランド再構築を継続しているため、Xbox での Copilot の開発を終了することを認めました。"
-    },
-    {
-      "title": "How Voxel School Prepares Artists for Real Production Pipelines",
-      "url": "https://80.lv/articles/how-voxel-school-prepares-artists-for-real-production-pipelines/",
-      "summary": "<p>Voxel School shares how its industry-driven curriculum focuses on pipeline awareness, collaboration, and production-ready skills across games, animation, and VFX.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T20:31:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40017/images/69fa53950ebf2/cover_800x800.jpg",
-      "title_ja": "Voxel School がアーティストを実際の制作パイプラインに向けて準備する方法",
-      "summary_ja": "Voxel School は、業界主導のカリキュラムが、ゲーム、アニメーション、VFX にわたるパイプラインの認識、コラボレーション、制作準備が整ったスキルにどのように焦点を当てているかを共有します。"
-    },
-    {
-      "title": "Target workers are fighting Pokémon scalpers over the displays now",
-      "url": "https://www.polygon.com/target-pokemon-display-restock-resale-ebay-facebook-drama/",
-      "summary": "\"Pokémon fans are no better than animals,\" one Target team member wrote in light of the news that customers are stealing anything not bolted down",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T20:04:10",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22530480/Screen_Shot_2021_05_21_at_9.54.00_AM.jpeg",
-      "title_ja": "ターゲットの従業員は現在、ディスプレイをめぐってポケモンのダフ屋たちと戦っている |9月| 「ポケモンファンは動物と同じだ」とターゲットチームのメンバーの一人は、顧客がボルトで固定されていないものを盗んでいるというニュースを踏まえて書いた",
-      "summary_ja": ""
-    },
-    {
-      "title": "Heroes of Might and Magic: Olden Era factions list",
-      "url": "https://www.polygon.com/heroes-of-might-and-magic-olden-era-faction-list-units-region/",
-      "summary": "Learn all about native regions and faction playstyles in Heroes of Might and Magic: Olden Era.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T19:56:48",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/heroes-of-might-and-magic-olden-era-factions-grove.jpg",
-      "title_ja": "Heroes of Might and Magic: Olden Era 派閥リスト",
-      "summary_ja": "Heroes of Might and Magic: Olden Era でネイティブ地域と派閥のプレイスタイルについてすべて学びましょう。"
-    },
-    {
-      "title": "Ravnica changed Magic: The Gathering forever 20 years ago",
-      "url": "https://www.polygon.com/mtg-dissension-anniversary-ravnica-block-color-combo-guild-names/",
-      "summary": "Two decades ago, the Ravnica block concluded with Dissension. The way Magic players talk about the game has never been the same since.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T19:00:20",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/ocular-halo-mtg.jpg",
-      "title_ja": "ラヴニカは 20 年前",
-      "summary_ja": "マジック:ザ・ギャザリングを永遠に変えました。 20年前、ラヴニカブロックは分裂で終了しました。マジックプレイヤーがゲームについて話す方法は、それ以来変わっていません。"
-    },
-    {
-      "title": "Hokum director Damian McCarthy reveals how he's remake his first movie today",
-      "url": "https://www.polygon.com/damian-mccarthy-caveat-remake/",
-      "summary": "Damian McCarthy still wants another shot at Caveat",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T19:00:20",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-04-at-2-30-37-pm.png",
-      "title_ja": "ホーカム監督のダミアン・マッカーシーが今日、自身の最初の映画をどのようにリメイクしたかを明かす |9月|ダミアン・マッカーシーは依然としてCaveatへのさらなる挑戦を望んでいる",
-      "summary_ja": ""
-    },
-    {
-      "title": "Outfits and how to unlock them in Pokémon Pokopia",
-      "url": "https://www.polygon.com/pokemon-pokopia-outfits-cosmetics-hair-unlock-locations/",
-      "summary": "If you want to fancy up your Ditto in Pokopia, here's where you can find the outfits and hairstyles around the island.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-05-05T18:51:23",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/obs64_2026-03-20_16-10-48.jpg",
-      "title_ja": "ポケモン ポコピア",
-      "summary_ja": "の衣装とそのロックを解除する方法ポコピアでも同じようにおしゃれをしたい場合は、ここで島のあちこちで衣装やヘアスタイルを見つけることができます。"
     },
     {
       "title": "「スレスパ2」の影響で延期した“じゃんけんローグライク”こと「Handmancers」アーリーアクセス開始。延期を活用して要素を拡張",
@@ -164,42 +396,6 @@
       "published": "2026-05-05T16:36:03",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltbbdfcffe4597cb5f/69fa1e6cd2aa0527dd618f5e/New_Project_(13).png?width=1280&auto=webp&quality=80&disable=upscale",
       "title_ja": "Valve、Steam コントローラーを 1 日で完売後再入荷 |9 月|同社はコントローラーが「予想より早く切れた」としている。",
-      "summary_ja": ""
-    },
-    {
-      "title": "How to Transform a 2D Concept of a Fantasy Character Into an Expressive 3D Model",
-      "url": "https://80.lv/articles/how-to-transform-a-2d-concept-of-a-fantasy-character-into-an-expressive-3d-model/",
-      "summary": "<p>Gleb Ivanov spoke with us about the Tiefling Lady project, explaining how he used PolyPaint to create a main form to then divide it into parts, and detailing how he used vibrant colors, highlights, and shadows to enhance the character.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T16:29:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39996/images/69f918db5f021/cover_800x800.jpg",
-      "title_ja": "ファンタジー キャラクターの 2D コンセプトを表現力豊かな 3D モデルに変換する方法",
-      "summary_ja": "Gleb Ivanov は、Tiefling Lady プロジェクトについて私たちに語り、PolyPaint を使用してメイン フォームを作成し、それをパーツに分割する方法と、鮮やかなコラージュをどのように使用したかについて詳しく説明しました。"
-    },
-    {
-      "title": "Creating a Teen Titans Illustration Mixing the 2000s TV Show-Style with a Realistic Look",
-      "url": "https://80.lv/articles/creating-a-teen-titans-illustration-mixing-the-2000s-tv-show-style-with-a-realistic-look/",
-      "summary": "<p>Aziz Mbye shared the workflow behind the Teen Titans fan art, talking about how the idea started, detailing how he makes various thumbnail sketches to get a better sense of the essence of the scene, and explaining how he colored the characters.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T16:02:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/39997/images/69f9352e3f2f8/cover_800x800.jpg",
-      "title_ja": "2000 年代のテレビ番組スタイルとリアルな外観を組み合わせたティーン タイタンズのイラストを作成",
-      "summary_ja": "Aziz Mbye は、ティーン タイタンズのファン アートの背後にあるワークフローを共有し、アイデアがどのように始まったか、本質をよりよく理解するためにさまざまなサムネイル スケッチをどのように作成するかを詳しく説明しました。"
-    },
-    {
-      "title": "LightWave Digital Teases LightWave 3D 2026 Update",
-      "url": "https://80.lv/articles/lightwave-digital-teases-lightwave-3d-2026-update/",
-      "summary": "<p><span>Introducing Advanced Placement system for physics-based scattering, MotoRig for vehicle rigging and animation, and new tools for creating realistic lighting, snow, and rain effects.</span></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T15:36:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40015/images/69fa0e96de04c/cover_800x800.jpg",
-      "title_ja": "LightWave Digital が LightWave 3D 2026 アップデートを予告 |9 月|物理ベースの散乱のための Advanced Placement システム、車両のリギングとアニメーションのための MotoRig、およびリアルな照明、雪、雨のエフェクトを作成するための新しいツールの導入",
       "summary_ja": ""
     },
     {
@@ -227,18 +423,6 @@
       "summary_ja": "Brawl Starsスタジオと主要株主であるSupercellが同社を買収する。"
     },
     {
-      "title": "Using Data Transfer In Blender To Smooth Seams Between Separate Meshes",
-      "url": "https://80.lv/articles/using-data-transfer-in-blender-to-smooth-seams-between-separate-meshes/",
-      "summary": "<p>A quick tip.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T14:22:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40014/images/69f9fd2707f14/cover_800x800.jpg",
-      "title_ja": "Blender でのデータ転送を使用して別々のメッシュ間の継ぎ目を滑らかにする",
-      "summary_ja": "簡単なヒント。"
-    },
-    {
       "title": "Kinforge dev Seeker Entertainment is furloughing staff",
       "url": "https://www.gamedeveloper.com/business/kinforge-dev-seeker-entertainment-is-furloughing-staff",
       "summary": "The studio is exploring fundraising opportunities while encouraging staff to be 'aggressive' with their job hunts.",
@@ -249,30 +433,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt47eafd2294a9c983/69f9f8c6da275268c5c21700/New_Project_(12).png?width=1280&auto=webp&quality=80&disable=upscale",
       "title_ja": "Kinforge 開発者 Seeker Entertainment はスタッフを一時帰休させています |9 月|同スタジオはスタッフに就職活動に「積極的」になるよう奨励しながら、募金活動の機会を模索している。",
       "summary_ja": ""
-    },
-    {
-      "title": "Unity Launches In-Editor AI Tools Suite In Beta",
-      "url": "https://80.lv/articles/unity-launches-in-editor-ai-tools-suite-in-beta/",
-      "summary": "<p>Unity AI can answer questions, generate code and assets, and execute actions directly within your project.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T12:57:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40013/images/69f9e94de4b33/cover_800x800.jpg",
-      "title_ja": "Unity がエディター内 AI ツール スイートのベータ版をリリース |9 月| Unity AI は、質問に答え、コードとアセットを生成し、プロジェクト内で直接アクションを実行できます。",
-      "summary_ja": ""
-    },
-    {
-      "title": "Steam Controller Sold Out Several Minutes After Launch",
-      "url": "https://80.lv/articles/steam-controller-sold-out-several-minutes-after-launch/",
-      "summary": "<p>Twice.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T12:36:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40012/images/69f9e434ab171/cover_800x800.jpg",
-      "title_ja": "Steam コントローラーは発売から数分で完売",
-      "summary_ja": "2回。"
     },
     {
       "title": "GameStop tables $55.5 billion takeover bid for eBay",
@@ -287,54 +447,6 @@
       "summary_ja": ""
     },
     {
-      "title": "Optimizing GPU Performance for Unreal Engine-Powered Game Far Far West",
-      "url": "https://80.lv/articles/optimizing-gpu-performance-for-unreal-engine-powered-game-far-far-west/",
-      "summary": "<p>Tom Looman's breakdown profiles the build on an RTX 3060.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T12:00:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40011/images/69f9dc3b3c7c0/cover_800x800.jpg",
-      "title_ja": "Unreal Engine を使用したゲームの GPU パフォーマンスの最適化 Far Far West",
-      "summary_ja": "Tom Looman 氏の内訳は、RTX 3060 でのビルドをプロファイルしています。"
-    },
-    {
-      "title": "Free Node-Based Image Editor Alternative To Photoshop",
-      "url": "https://80.lv/articles/free-node-based-image-editor-alternative-to-photoshop/",
-      "summary": "<p><span>ArcBrush is designed for tasks like generating design variants and processing textures.</span></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T11:37:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40010/images/69f9d7bc1ace6/cover_800x800.jpg",
-      "title_ja": "Photoshop に代わる無料のノードベースの画像エディタ",
-      "summary_ja": "ArcBrush は、デザイン バリアントの生成やテクスチャの処理などのタスク用に設計されています。"
-    },
-    {
-      "title": "Check Out This Horror Cooking Sim Set in a Scottish Diner",
-      "url": "https://80.lv/articles/check-out-this-horror-cooking-sim-set-in-a-scottish-diner/",
-      "summary": "<p>DONUT PANIC mixes a cooking sim with serving donuts and a horror atmosphere.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-05-05T11:33:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/40009/images/69f9d5a06d53e/cover_800x800.jpg",
-      "title_ja": "スコットランドのダイナーを舞台にしたホラー クッキング シムをチェックしてください",
-      "summary_ja": "DONUT PANIC は、ドーナツの提供とホラー雰囲気を組み合わせたクッキング シムです。"
-    },
-    {
-      "title": "Wizards of the Coast declines to voluntarily recognize game worker union",
-      "url": "https://www.gamedeveloper.com/business/wizards-of-the-coast-declines-to-voluntarily-recognize-game-worker-union",
-      "summary": "'When we spoke up about our desire to unionize, they responded only to the press.'",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-05-05T10:45:15",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltc2a9e6de9f138c4e/69f9cb30ce7a030b5e433e09/Wizards_CWA.png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "ウィザーズ・オブ・ザ・コーストはゲーム労働者組合の自発的承認を拒否",
-      "summary_ja": "「私たちが労働組合を結成したいという願望を話したとき、彼らは報道機関にのみ反応した。」"
-    },
-    {
       "title": "「週刊プロゲーマーファイル」休載のお知らせ",
       "url": "https://www.4gamer.net/games/000/G000000/20260501026/",
       "summary": "",
@@ -343,7 +455,7 @@
       "lang": "ja",
       "published": "2026-05-05T01:00:00",
       "image_url": "https://www.4gamer.net/games/000/G000000/20260501026/TN/001.jpg",
-      "body_ja": "タイトル/ワード名\nメディアパートナー\nお知らせ\nキーワード\nじゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）\n電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）\n過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）\n【今週のモチベ】リズムアクション「Dead as Disco」や，チェーンソー少女が主人公の「MOTORSLICE」が発売される 2026年5月4日〜5月10日\n「Core Ultra X9」搭載ノートPCは本当にゲームプレイに使えるのか。ASUSの2画面ノートPC「Zenbook DUO」で調べてみた\nValveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白"
+      "body_ja": "タイトル/ワード名\nメディアパートナー\nお知らせ\nキーワード\n銃と魔法の西部開拓地を舞台にしたCoopシューター「Far Far West」（ほぼ日 インディーPick Up！）\nじゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）\n電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）\n過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）\n「Core Ultra X9」搭載ノートPCは本当にゲームプレイに使えるのか。ASUSの2画面ノートPC「Zenbook DUO」で調べてみた\nValveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白いゲームパッドだ\nオープンワールドの新しい基"
     },
     {
       "title": "「今週の公式配信番組」休載のお知らせ",
@@ -354,7 +466,7 @@
       "lang": "ja",
       "published": "2026-05-04T23:00:00",
       "image_url": "https://www.4gamer.net/games/000/G000000/20260501054/TN/001.jpg",
-      "body_ja": "タイトル/ワード名\nメディアパートナー\nお知らせ\nキーワード\nじゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）\n電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）\n過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）\n【今週のモチベ】リズムアクション「Dead as Disco」や，チェーンソー少女が主人公の「MOTORSLICE」が発売される 2026年5月4日〜5月10日\n「Core Ultra X9」搭載ノートPCは本当にゲームプレイに使えるのか。ASUSの2画面ノートPC「Zenbook DUO」で調べてみた\nValveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白"
+      "body_ja": "タイトル/ワード名\nメディアパートナー\nお知らせ\nキーワード\n銃と魔法の西部開拓地を舞台にしたCoopシューター「Far Far West」（ほぼ日 インディーPick Up！）\nじゃんけんで戦うデッキ構築型ローグライト「Handmancers」（ほぼ日 インディーPick Up！）\n電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）\n過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）\n「Core Ultra X9」搭載ノートPCは本当にゲームプレイに使えるのか。ASUSの2画面ノートPC「Zenbook DUO」で調べてみた\nValveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白いゲームパッドだ\nオープンワールドの新しい基"
     },
     {
       "title": "電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）",
@@ -366,18 +478,6 @@
       "published": "2026-05-04T22:00:00",
       "image_url": "https://www.4gamer.net/games/979/G097993/20260501036/SS/016.jpg",
       "body_ja": "ガソリンを必要とする車たちが今もわずかに通り過ぎる田舎町クローブン・ピーク。\n打ち捨てられた給油所の前オーナーは，ある夜を境に忽然と姿を消したという。\n新たに鍵を受け取ったレッサーパンダは，誰もが「夜は外に出るな」と囁くこの場所で，看板の灯を点し直す。\n本日は，「Beholder」シリーズや「Do Not Feed the Monkeys」で知られるAlawarが手掛ける「The Last Gas Station」を紹介しよう。\n本作は，電気自動車が普及し旧来の文明が崩れつつある世界で，ガソリン車が残る最後の田舎町を舞台にした経営シミュレーションゲームだ。\nプレイヤーはレッサーパンダの新オーナーとなり，前任者が謎の失踪を遂げた古びたガソリンスタンドを再建していく。\n本作の特徴は，2D横スクロールで描かれる屋外と，見下ろし視点に切り替わる屋内の店舗を行き来しながら，給油作業，レジ打ち，棚の補充，洗車，整備サービスといった一連の業務を一人でこなしていく構造にある。\n朝・夕・夜のサイクルで時間"
-    },
-    {
-      "title": "Meet the indie studios funding other indie studios",
-      "url": "https://www.gamedeveloper.com/business/meet-the-indie-studios-funding-other-indie-studios",
-      "summary": "These teams are using their success to fund more indie games.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-05-04T17:15:07",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt36fbe130dc5ee559/69f8d1ced433801659958350/dosa_divas_action_shot.jpg?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "他のインディー スタジオに資金を提供しているインディー スタジオを紹介",
-      "summary_ja": "これらのチームは、その成功を利用して、より多くのインディー ゲームに資金を提供しています。"
     },
     {
       "title": "わしゃがなTVの最新動画では，漫画家のフクダーダさんが持参した「ビグ・ザム」の大型フィギュアを紹介する様子をお届け",
@@ -399,50 +499,6 @@
       "lang": "ja",
       "published": "2026-05-04T04:17:29",
       "image_url": "https://sm.ign.com/ign_jp/screenshot/default/00_fpyu.jpg"
-    },
-    {
-      "title": "過酷な海で味わう，迫り来る夜の恐怖。不気味な海域で漁をしながら進めていく漁業アドベンチャー「DREDGE+」（今日から始めろApple Arcade #69）",
-      "url": "https://www.4gamer.net/games/004/G100428/20260502009/",
-      "summary": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上ものゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第69回では，不気味な海域が舞台の漁業アドベンチャー「DREDGE+」を紹介しよう。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-05-04T02:00:00",
-      "image_url": "https://www.4gamer.net/games/004/G100428/20260502009/SS/012.jpg",
-      "body_ja": "「Apple Arcade」は，Appleが月額900円（税込）でiPhone / iPad / Mac / Apple TV / Apple Vision向けに提供している，ゲームのサブスクリプションサービスだ。\nこの連載では，広告やゲーム内課金なしでプレイできる200種類以上のタイトルの中から，4Gamerがチョイスした作品を紹介していく。\n第69回では，広大な海を舞台に不穏なストーリーが展開するオープンワールドスタイルのアドベンチャー「DREDGE+」を紹介しよう。\n「DREDGE+」\nオススメポイント\n1.複数の海域を移動，探索して漁をし，捕れた獲物で資金を稼ぐ\n2.昼夜の概念があり，夜の海上では不可解な現象が発生。謎の怪異の存在も!?\n3.船をカスタマイズしてさらなる遠洋に向かうことで，ストーリーが展開\nニュージーランドのデベロッパBlack Salt Gamesが手がけ，2023年に発売された漁業アドベンチャー「DREDGE（ドレッジ）」が，後に配信されたDLCなどを含む“完"
-    },
-    {
-      "title": "【今週のモチベ】リズムアクション「Dead as Disco」や，チェーンソー少女が主人公の「MOTORSLICE」が発売される 2026年5月4日〜5月10日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260502007/",
-      "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，マーシャルアーツとミュージックビデオが融合したリズムアクションゲーム「DeadasDisco」や，ポストアポカリプスのメガストラクチャーを舞台とする「MOTORSLICE」が発売される。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-05-03T23:00:00",
-      "image_url": "https://www.4gamer.net/games/954/G095479/20260502007/TN/003.jpg",
-      "body_ja": "今週も月曜日がやってきた。我々ゲーマーにとって，期待の新作が発売される週ほどワクワクするものはないわけだが，今週は何が発売されるかを抜かりなくキチンと把握している人は，どれくらいいるのだろうか。週刊連載「今週のモチベ」では，「え？あれって今週発売だったの!?」となりがちな人のために，今週発売される期待のタイトルをおさらいしていこう。\nDead as Disco\nマーシャルアーツとミュージックビデオが融合したリズムアクションゲーム。プレイヤーは没落したロックスターの主人公チャーリー・ディスコとなり，パンチもキックもコンボも音楽のビートに同期させて敵を倒していく。各「アイドル」を倒すたびに新たな技や能力が解放されるスキルツリーが特徴だ。\nMOTORSLICE\nポストアポカリプスのメガストラクチャーを舞台とするパルクールアクションアドベンチャー。プレイヤーは「Slicer」と呼ばれる少女Pとなり，チェーンソードを携えて壁走り，スライディング，ヴォルトを駆使して廃墟を駆け抜けていく。アニメーショ"
-    },
-    {
-      "title": "［EVO Japan］「三国群英伝：Arena」インプレッション。三国志の猛将たちが2種の武器を切り替え，相手のモーションを見切って戦う，駆け引き重視の3D格ゲー",
-      "url": "https://www.4gamer.net/games/003/G100381/20260504001/",
-      "summary": "EVOJapan2026にプレイアブル出展されていた新作3D格闘ゲーム「三国群英伝：Arena」のインプレッションをお届けしよう。関羽，張飛，呂布といったおなじみの猛将たちが2種の武器を切り替えつつ，相手のモーションを見切って戦う。駆け引き重視の3D格ゲーが楽しめた。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-05-03T22:00:00",
-      "image_url": "https://www.4gamer.net/games/003/G100381/20260504001/SS/004.jpg",
-      "body_ja": "本作は，UserJoy Technologyが展開する戦略シミュレーションゲーム「三国群英伝」のスピンオフ作品で，ジャンルは3D格闘ゲームだ。関羽，張飛，荀彧，夏侯惇，孫尚香，呂布，貂蝉，董卓といった三国志の武将たちを操作してライバルたちと戦う。\n大きな特徴としては，武将が「メイン武器」「サブ武器」の2つを装備でき，ここに「構え」による当身や，「耐久力」の管理といった独自の戦術性・駆け引きが存在することが挙げられる。\nメイン武器は固定だが，サブ武器は自由に選ぶことができ，2つの武器はいつでも切り替えられる。武将が出せる技は武器種に依存しており，武器を切り替えれば，すべての技がその武器種のものに変化する。\nまた，本作のプロデューサーであるZero氏によると，同じ武器でも武将の体格によってリーチの長短など細かな差が出るという。\n出展バージョンには，「単鞭」「羽扇」「大刀」「鉞」「剣」「槍」「矛」「片手斧と盾」「双鉄鞭」のサブ武器が用意され，各武器は特性が異なるうえ，複数の構えもあり，それぞれ"
-    },
-    {
-      "title": "消防や警察を束ねる緊急司令官になろう。実在の地図上で遊べる「Global Rescue」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260501034/",
-      "summary": "本日の「ほぼ日インディーPickUp！」では，現実の世界地図を舞台に消防・警察・救急・SWATを統率し，自分だけの緊急対応拠点を築き上げるシミュレーション「GlobalRescue」を紹介。CityBusManager開発元のPeDePeが手がけており，リアルマップの採用が見どころとなっている。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-05-03T22:00:00",
-      "image_url": "https://www.4gamer.net/games/950/G095079/20260501034/SS/002.jpg",
-      "body_ja": "火災，交通事故，立てこもり――限られた車両と人員でどの現場へ誰を送るか，判断するのはあなただ。\n守るべき街は，世界のどこにでも築ける。\n本日は，ドイツのPeDePeが手掛ける「Global Rescue」を紹介しよう。\n本作は世界中の都市を舞台にした緊急サービス運営シミュレーションだ。プレイヤーは消防・警察・救急・SWATの司令官として，自分の拠点を一から築き，日々飛び込んでくる通報に応えていく。\nこのゲームの特徴は，Overtureの地図データを利用して世界中の任意の場所に拠点を構えられる点にある。\nパリ，東京，ワシントン，リオデジャネイロはもちろん，自分が暮らす街そのものを舞台にすることも可能だ。\nプレイヤーは洗車場や駐車スペース，事務室，休憩室，衛生設備に至るまで，敷地のレイアウトを自由に設計し，車両と人員を維持しながら拠点を拡張していく。\n出動指令はリアルタイムで進行し，火災の鎮圧から交通事故処理，証言聴取，救急医療，さらには高難度のSWAT作戦まで多彩なシナリオが展開する。\n地"
     },
     {
       "title": "Ankerのモバイルレーザープロジェクター「Nebula Capsule 3 Laser」がAmazonにて27％オフでタイムセール中【スマイルSale ゴールデンウィーク】",
@@ -475,30 +531,6 @@
       "image_url": "https://sm.ign.com/ign_jp/gallery/m/marvel-cin/marvel-cinematic-universe-every-upcoming-movie-and-tv-show_aaqz.jpg"
     },
     {
-      "title": "We tested the Steam Controller",
-      "url": "https://www.gamedeveloper.com/pc/we-tested-the-steam-controller",
-      "summary": "This week on the Game Developer podcast, we're diving into Valve's newest piece of hardware: the Steam Controller.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-05-01T14:35:00",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7faa05950769285e/69ef7df24b4c9e032fd51633/SteamController.png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "Steam コントローラーをテストしました",
-      "summary_ja": "今週の Game Developer ポッドキャストでは、Valve の最新ハードウェアである Steam コントローラーについて詳しく説明します。"
-    },
-    {
-      "title": "Report: VR specialist Survios has laid off the majority of its development team",
-      "url": "https://www.gamedeveloper.com/business/report-vr-specialist-survios-has-laid-off-the-majority-of-its-development-team",
-      "summary": "The company has worked on notable licensed titles such as Alien: Rogue Incursion.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-05-01T14:16:15",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd5dc79582ee3528b/69f4b654d433805739957ef7/Alien_Header.png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "レポート: VR スペシャリストの Survios は、開発チームの大部分を解雇しました |9 月|同社は、『Alien: Rogue Incursion』などの著名なライセンスタイトルを手がけてきました。",
-      "summary_ja": ""
-    },
-    {
       "title": "7年ぶり新作映画が迫る！『マンダロリアン』から語る「スター・ウォーズ」の現在地：第434回 音声版 銀幕にポップコーン",
       "url": "https://jp.ign.com/ginmaku-podcast/83263/7434",
       "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/blob_2r67.640.jpg\" vspace=\"5\" width=\"120\" />\n毎年恒例（？）、5月4日の「スター・ウォーズの日」に合わせたSW放談！ 2019年の「スカイウォーカーの夜明け」以来、およそ7年ぶりとなる新作映画「マンダロリアン・アンド・グローグー」の公開がいよいよ迫るなか、今回はドラマ『マンダロリアン』シーズン1〜3をあらためて振り返る。愛されコンビの軌跡から、ディズニー時代の「スター・ウォーズ",
@@ -519,18 +551,6 @@
       "image_url": "https://sm.ign.com/ign_jp/screenshot/default/6_4j3e.jpg"
     },
     {
-      "title": "GameMaker says AI coding is inevitable, Sony clarifies DRM confusion, and how video games are helping Rikers inmates - Patch Notes #50",
-      "url": "https://www.gamedeveloper.com/business/gamemaker-says-ai-coding-is-inevitable-sony-clarifies-drm-confusion-and-how-video-games-are-helping-rikers-inmates-patch-notes-50",
-      "summary": "Plus: Is job security now a 'romantic' notion within the video game industry?",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-05-01T10:19:06",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfbf85316bd3a214b/69f47fb461ba07556b14332e/Patch_Notes_50_Header.png?width=1280&auto=webp&quality=80&disable=upscale",
-      "title_ja": "GameMaker は AI コーディングは避けられないと述べ、ソニーは DRM の混乱とビデオゲームがライカーズの受刑者をどのように助けているかを明らかに - パッチノート #50",
-      "summary_ja": "さらに: ビデオゲーム業界において、雇用の安定は「ロマンチックな」概念になっているのでしょうか?"
-    },
-    {
       "title": "映画『バイオハザード』の監督が考える「バイオハザード」らしさとは 「ゲームへのきちんとしたラブレター」になるための条件にも言及",
       "url": "https://jp.ign.com/resident-evil-2026/83257/",
       "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/photo/r/resident-e/resident-evil-director-i-wouldnt-call-this-a-zombie-movie-ne_uwhc.640.jpg\" vspace=\"5\" width=\"120\" />直球の「バイオハザード」らしさがないなかで、軸になる「バイオハザード」らしさ\n<p>「バイオハザード」新作映画の予告編が解禁になり、これに合わせて監督のザック・クレッガーが<a href=\"https://www.youtu",
@@ -549,28 +569,8 @@
       "lang": "ja",
       "published": "2026-05-01T06:28:23",
       "image_url": "https://sm.ign.com/ign_jp/screenshot/default/1_jjcm.jpg"
-    },
-    {
-      "title": "「バイオハザード」新作映画、初の予告編がついに解禁 主人公は戦闘経験ゼロの“普通の男”、日本公開は2026年秋に決定",
-      "url": "https://jp.ign.com/resident-evil-2026/83252/2026",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/main-biohazard-logo_5bxu.640.jpg\" vspace=\"5\" width=\"120\" />監督は『WEAPONS／ウェポンズ』のザック・クレッガー\n<p><a href=\"https://jp.ign.com/resident-evil-2026\">「バイオハザード」新作映画</a>から、初の予告編が全世界一斉解禁となった。あわせて、本作が邦題を『バイオハザード』として、2026年秋に日本公開",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-04-30T15:50:00",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/main-biohazard-logo_5bxu.jpg"
-    },
-    {
-      "title": "『007 First Light』戦闘スクリーンショット",
-      "url": "https://jp.ign.com/project-007/83250/007-first-light",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/screenshot-2026-04-30-at-185431_5hsm.640.png\" vspace=\"5\" width=\"120\" />",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-04-30T15:00:41",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/screenshot-2026-04-30-at-185431_5hsm.png"
     }
   ],
-  "last_updated": "2026-05-06T07:55:16.383336+09:00",
+  "last_updated": "2026-05-07T07:52:54.309787+09:00",
   "count": 50
 }
